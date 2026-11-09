@@ -133,64 +133,56 @@
 
 {# ================= RECIPE ================= #}
 {% elif p.type == "recipe" %}{% set r = p.recipe %}{% set ch = p.chapter %}{% set tt = r.name | split_title %}
-<section class="page recipe{% if r.image %} has-photo{% endif %}{% if r.dense %} dense{% endif %}" id="r-{{ r.id }}">
-  {% if r.image %}<img class="hero-img" src="{{ r.image }}" alt=""><div class="hero-shade"></div>{% endif %}
+<section class="page recipe{% if r.dense %} dense{% endif %}" id="r-{{ r.id }}">
+  <div class="photo">
+    {% if r.image %}<img src="{{ r.image }}" alt="{{ r.name }}">
+    {% else %}<div class="photo-missing"><b>صورة الوصفة قيد الإعداد</b><span>PHOTO PENDING · {{ r.id }}</span></div>{% endif %}
+    <div class="photo-shade"></div>
+  </div>
   <div class="topbar">{{ logo() }}<span class="kicker">{{ ch.title }} <i>·</i> {{ ch.en }}</span></div>
 
   <div class="hero">
-    <div class="hero-text">
-      <div class="sticker">وصفة رقم {{ r.num }}</div>
-      <h2><span>{{ tt[0] }}</span>{% if tt[1] %}<span class="lime">{{ tt[1] }}</span>{% endif %}</h2>
-      {% if r.en %}<div class="r-en">{{ r.en }}</div>{% endif %}
-      <div class="r-meta">
+    <div class="sticker">وصفة رقم {{ r.num }}</div>
+    <h2><span>{{ tt[0] }}</span>{% if tt[1] %} <span class="lime">{{ tt[1] }}</span>{% endif %}</h2>
+    <div class="hero-sub">
+      {% if r.en %}<span class="r-en">{{ r.en }}</span>{% endif %}
+      <span class="r-meta">
         <span>{{ icon("plate") }}{{ serv(r.servings) }}</span>
         <span>{{ icon("clock") }}{{ r.time }} دقيقة</span>
         {% if r.cuisine %}<span>{{ icon("globe") }}{{ r.cuisine }}</span>{% endif %}
-      </div>
-      {{ tagrow(r.tags) }}
-    </div>
-
-    <div class="nutcard">
-      <div class="nc-h">القيم الغذائية <small>للحصة الواحدة · النسبة من السعرات</small></div>
-      <div class="nc-kcal">{{ icon("flame") }}<b>{{ r.nut.kcal }}</b><span>سعر حراري</span></div>
-      {% for key, label in [("protein", "البروتين"), ("carbs", "الكربوهيدرات"), ("fat", "الدهون")] %}
-      <div class="nc-row">
-        <div class="nc-l">{{ icon(key) }}<span>{{ label }}</span><b>{{ r.nut[key] }} <small>جم</small></b></div>
-        <div class="nc-barrow"><div class="nc-bar"><i style="width: {{ r.nut.split[key] }}%"></i></div><span class="nc-pct">{{ r.nut.split[key] }}%</span></div>
-      </div>
-      {% endfor %}
-      <div class="nc-minor">
-        <span>ألياف <b>{{ r.nut.fiber }}</b></span><span>كارب صافي <b>{{ r.nut.net_carbs }}</b></span><span>سكريات <b>{{ r.nut.sugar }}</b></span><span>صوديوم <b>{{ r.nut.sodium }}</b> مجم</span>
-      </div>
+      </span>
     </div>
   </div>
 
-  <div class="sec">
-    <h3>المكونات <span class="lime">(تكفي {{ serv(r.servings) }})</span></h3>
-    <div class="tiles">
+  <div class="nutrow">
+    <div class="nbox kcal">{{ icon("flame") }}<b>{{ r.nut.kcal }}</b><span>سعر حراري<br><small>للحصة الواحدة</small></span></div>
+    {% for key, label in [("protein", "بروتين"), ("carbs", "كربوهيدرات"), ("fat", "دهون")] %}
+    <div class="nbox">
+      <div class="nb-top">{{ icon(key) }}<span>{{ label }}</span><b>{{ r.nut[key] }}<small>جم</small></b></div>
+      <div class="nc-bar"><i style="width: {{ r.nut.split[key] }}%"></i></div>
+      <div class="nb-pct">{{ r.nut.split[key] }}% من السعرات</div>
+    </div>
+    {% endfor %}
+    <div class="tagcol">{{ tagrow(r.tags) }}</div>
+  </div>
+  <div class="minorrow">ألياف <b>{{ r.nut.fiber }}</b> جم <i>|</i> كارب صافي <b>{{ r.nut.net_carbs }}</b> جم <i>|</i> سكريات <b>{{ r.nut.sugar }}</b> جم <i>|</i> صوديوم <b>{{ r.nut.sodium }}</b> مجم</div>
+
+  <div class="body">
+    <div class="ings">
+      <h3>المكونات <span class="lime">· {{ serv(r.servings) }}</span></h3>
+      <ul>
       {% for l in r.lines %}
-      <div class="tile">
-        <div class="tw">{% if l.grams %}{{ l.grams }}<small>جم</small>{% else %}<small class="tt">حسب الرغبة</small>{% endif %}</div>
-        <div class="tn">{{ l.name }}</div>
-        {% if l.qty %}<div class="tq">{{ l.qty }}</div>{% endif %}
-      </div>
+        <li><div><span class="iname">{{ l.name }}</span>{% if l.qty %}<span class="iq">{{ l.qty }}</span>{% endif %}</div>{% if l.grams %}<span class="ig">{{ l.grams }} جم</span>{% else %}<span class="ig tt">حسب الرغبة</span>{% endif %}</li>
       {% endfor %}
+      </ul>
+    </div>
+    <div class="method">
+      <h3>طريقة التحضير</h3>
+      <ol class="steps">{% for s in r.steps %}<li><span class="sn">{{ loop.index }}</span><p>{{ s | md }}</p></li>{% endfor %}</ol>
+      {% if r.tip %}<div class="tipbox"><div class="tb-h">{{ icon("bulb") }}نصيحة BODiQ</div><p>{{ r.tip | md }}</p></div>{% endif %}
+      {% if r.swap %}<div class="tipbox alt"><div class="tb-h">{{ icon("swap") }}بدائل حسب هدفك</div><p>{{ r.swap | md }}</p><em>القيم أعلاه للوصفة الأصلية بدون البدائل.</em></div>{% endif %}
     </div>
   </div>
-
-  <div class="sec">
-    <h3>طريقة التحضير</h3>
-    <ol class="steps{% if r.steps | length > 3 %} two{% endif %}">
-      {% for s in r.steps %}<li><span class="sn">{{ loop.index }}</span><p>{{ s | md }}</p></li>{% endfor %}
-    </ol>
-  </div>
-
-  {% if r.tip or r.swap %}
-  <div class="tips">
-    {% if r.tip %}<div class="tipbox"><div class="tb-h">{{ icon("bulb") }}نصيحة BODiQ</div><p>{{ r.tip | md }}</p></div>{% endif %}
-    {% if r.swap %}<div class="tipbox alt"><div class="tb-h">{{ icon("swap") }}بدائل حسب هدفك</div><p>{{ r.swap | md }}</p><em>القيم أعلاه للوصفة الأصلية بدون البدائل.</em></div>{% endif %}
-  </div>
-  {% endif %}
   {{ footer(p, ch.title) }}
 </section>
 

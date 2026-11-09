@@ -13,6 +13,10 @@ recipes:
     cuisine: "مصري"
     servings: 2
     time: 30
+    photo:
+      dish: "six grilled Egyptian beef kofta fingers flecked with parsley, a small bowl of tahini sauce, diced tomato and cucumber salad, lemon wedges"
+      vessel: "a matte black stoneware platter"
+      angle: "45-degree angle"
     ingredients:
       - [beef_lean_ground, 300, "لحمة مفرومة ٥٪ دهون"]
       - [onion, 60, "نصف بصلة مبشورة ومصفاة"]
@@ -40,6 +44,10 @@ recipes:
     cuisine: "مصري"
     servings: 2
     time: 35
+    photo:
+      dish: "Egyptian hawawshi: crispy baked whole-wheat baladi bread halves stuffed with spiced minced beef, onion and green pepper, cut to show the filling"
+      vessel: "a dark wooden board"
+      angle: "45-degree angle"
     ingredients:
       - [beef_lean_ground, 200, "لحمة مفرومة ٥٪ دهون"]
       - [pita_whole, 120, "رغيفين بلدي أسمر صغار"]
@@ -67,6 +75,10 @@ recipes:
     cuisine: "عالمي"
     servings: 2
     time: 40
+    photo:
+      dish: "sliced medium-rare lean beef steak, roasted sweet potato cubes and garlicky green beans"
+      vessel: "a black slate plate"
+      angle: "45-degree angle"
     ingredients:
       - [beef_lean, 300, "قطعتين ستيك (توب راوند)"]
       - [sweet_potato, 300, "بطاطاية كبيرة"]
@@ -91,6 +103,10 @@ recipes:
     cuisine: "مصري"
     servings: 4
     time: 75
+    photo:
+      dish: "Egyptian okra and beef stew: tender beef chunks and small whole okra pods in a rich red tomato sauce, garnished with chopped coriander"
+      vessel: "a dark clay tagine-style pot"
+      angle: "overhead top-down view"
     ingredients:
       - [beef_lean, 400, "مكعبات لحمة صافية"]
       - [okra, 500, "بامية صغيرة (طازجة أو مجمدة)"]

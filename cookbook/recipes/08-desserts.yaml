@@ -13,6 +13,10 @@ recipes:
     cuisine: "عالمي"
     servings: 8
     time: 70
+    photo:
+      dish: "a slice of healthy cheesecake with a golden almond-flour crust and creamy white filling, topped with fresh strawberries and blueberries, the rest of the cake behind it"
+      vessel: "a matte black dessert plate"
+      angle: "low eye-level side view"
     ingredients:
       - [almond_flour, 200, "كوبين"]
       - [butter, 80, "غير مملحة، مذابة"]
@@ -40,6 +44,10 @@ recipes:
     cuisine: "عالمي"
     servings: 2
     time: 10
+    photo:
+      dish: "mango chia pudding in two glasses: grey-speckled chia pudding layer, bright orange mango puree layer and fresh mango cubes on top"
+      vessel: "two clear glasses on a dark slate board"
+      angle: "eye-level side view"
     ingredients:
       - [chia, 30, "٣ معالق كبيرة"]
       - [milk_skim, 250, "كوب"]
@@ -59,6 +67,10 @@ recipes:
     cuisine: "مصري"
     servings: 4
     time: 30
+    photo:
+      dish: "lighter Egyptian om ali: golden-browned bread-and-milk pudding with raisins, coconut, almonds and pistachios on top, dusted with cinnamon"
+      vessel: "a dark clay baking dish"
+      angle: "45-degree angle"
     ingredients:
       - [bread_whole, 100, "٤ شرائح توست أسمر"]
       - [milk_skim, 500, "٢ كوب"]
@@ -82,6 +94,10 @@ recipes:
     cuisine: "عالمي"
     servings: 8
     time: 35
+    photo:
+      dish: "banana oat muffins with dark chocolate chunks on top, one split open to show the moist interior"
+      vessel: "dark parchment cases on a black wire rack"
+      angle: "45-degree angle"
     ingredients:
       - [banana, 240, "٢ موزة كبيرة ناضجة جداً"]
       - [oats, 160, "كوبين إلا ربع"]
@@ -105,6 +121,10 @@ recipes:
     cuisine: "عالمي"
     servings: 2
     time: 5
+    photo:
+      dish: "two scoops of homemade chocolate banana nice-cream, uniformly light cocoa-brown soft-serve texture (blended frozen banana, cocoa and peanut butter), a few banana slices beside the bowl"
+      vessel: "a dark ceramic bowl"
+      angle: "45-degree angle"
     ingredients:
       - [banana, 240, "٢ موزة مقطعة ومجمدة"]
       - [cocoa, 10, "معلقة كبيرة"]

@@ -13,6 +13,10 @@ recipes:
     cuisine: "شامي"
     servings: 6
     time: 10
+    photo:
+      dish: "smooth creamy homemade hummus with a well of olive oil and a sprinkle of cumin, surrounded by cucumber, carrot and bell pepper sticks"
+      vessel: "a dark stone bowl on a slate board"
+      angle: "overhead top-down view"
     ingredients:
       - [chickpeas_canned, 400, "علبة حمص مصفاة"]
       - [tahini, 60, "٤ معالق كبيرة"]
@@ -34,6 +38,10 @@ recipes:
     cuisine: "عالمي"
     servings: 6
     time: 15
+    photo:
+      dish: "twelve date and oat energy balls rolled in desiccated coconut, one cut in half to show the dark chocolatey interior"
+      vessel: "a small black ceramic dish"
+      angle: "45-degree angle"
     ingredients:
       - [dates, 150, "١٠–١٢ تمرة منزوعة النوى"]
       - [oats, 80, "كوب إلا ربع"]
@@ -54,6 +62,10 @@ recipes:
     cuisine: "عالمي"
     servings: 1
     time: 3
+    photo:
+      dish: "thick Greek yogurt topped with sliced fresh strawberries and chopped almonds, a dusting of cinnamon"
+      vessel: "a dark glass dessert bowl"
+      angle: "45-degree angle"
     ingredients:
       - [greek_yogurt_0, 170, "علبة"]
       - [strawberries, 100, "٦–٧ حبات"]
@@ -71,6 +83,10 @@ recipes:
     cuisine: "عالمي"
     servings: 4
     time: 40
+    photo:
+      dish: "crispy roasted chickpeas coated in red paprika and cumin"
+      vessel: "a small black cast-iron pan"
+      angle: "overhead top-down view"
     ingredients:
       - [chickpeas_canned, 400, "علبة حمص مصفاة ومجففة جيداً"]
       - [olive_oil, 10, "٢ معلقة صغيرة"]

@@ -13,6 +13,10 @@ recipes:
     cuisine: "مصري"
     servings: 4
     time: 35
+    photo:
+      dish: "smooth golden-orange red lentil and carrot soup with a swirl of olive oil, a pinch of cumin and a lemon wedge on the side"
+      vessel: "a dark grey stoneware soup bowl"
+      angle: "45-degree angle"
     ingredients:
       - [lentils_red, 200, "كوب عدس أصفر"]
       - [carrot, 150, "جزرتين"]
@@ -39,6 +43,10 @@ recipes:
     cuisine: "شامي"
     servings: 2
     time: 15
+    photo:
+      dish: "fattoush salad: chopped romaine, tomato, cucumber, radish slices, green onion, parsley and mint with crunchy toasted whole-wheat pita pieces, sprinkled with sumac"
+      vessel: "a wide black salad bowl"
+      angle: "overhead top-down view"
     ingredients:
       - [romaine, 150, "نصف رأس خس"]
       - [tomato, 150, "ثمرة كبيرة"]
@@ -65,6 +73,10 @@ recipes:
     cuisine: "شامي"
     servings: 3
     time: 25
+    photo:
+      dish: "quinoa tabbouleh: finely chopped parsley and mint with quinoa, diced tomato, cucumber and green onion, lemon and olive oil sheen"
+      vessel: "a shallow dark ceramic bowl"
+      angle: "45-degree angle"
     ingredients:
       - [quinoa, 80, "ثلث كوب (قبل الطهي)"]
       - [parsley, 120, "٣ حزم بقدونس"]
@@ -89,6 +101,10 @@ recipes:
     cuisine: "عالمي"
     servings: 4
     time: 45
+    photo:
+      dish: "clear chicken and vegetable soup with shredded chicken breast, carrot, zucchini and celery pieces, chopped parsley"
+      vessel: "a black soup bowl"
+      angle: "45-degree angle"
     ingredients:
       - [chicken_breast, 250, "صدر كبير"]
       - [carrot, 150, "جزرتين"]

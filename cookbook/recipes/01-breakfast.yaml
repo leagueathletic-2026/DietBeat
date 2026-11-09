@@ -15,6 +15,10 @@ recipes:
     cuisine: "مصري"
     servings: 2
     time: 10
+    photo:
+      dish: "Egyptian ful medames: a bowl of mashed and whole brown fava beans drizzled with olive oil, sprinkled with cumin, topped with diced tomato and chopped parsley, two small whole-wheat pita breads beside it"
+      vessel: "a rustic dark grey ceramic bowl"
+      angle: "45-degree angle"
     ingredients:
       - [fava_canned, 400, "علبة واحدة بسائلها"]
       - [olive_oil, 10, "٢ معلقة صغيرة"]
@@ -40,6 +44,10 @@ recipes:
     cuisine: "متوسطي"
     servings: 1
     time: 10
+    photo:
+      dish: "a folded golden egg-white omelette with wilted spinach, diced red bell pepper and crumbled white feta visible at the fold"
+      vessel: "a matte black round plate"
+      angle: "45-degree angle"
     ingredients:
       - [egg, 50, "بيضة كاملة"]
       - [egg_white, 150, "بياض ٤–٥ بيضات"]
@@ -63,6 +71,10 @@ recipes:
     cuisine: "عالمي"
     servings: 1
     time: 5
+    photo:
+      dish: "overnight oats in a glass jar layered with creamy Greek yogurt, chia seeds and fresh blueberries on top with a thin drizzle of honey, cinnamon dusting"
+      vessel: "a clear glass mason jar on a dark slate board"
+      angle: "eye-level side view"
     ingredients:
       - [oats, 40, "نصف كوب"]
       - [greek_yogurt_0, 150, "علبة صغيرة"]
@@ -84,6 +96,10 @@ recipes:
     cuisine: "مغاربي / عربي"
     servings: 2
     time: 20
+    photo:
+      dish: "shakshuka with exactly four eggs (4 eggs) poached with runny yolks in a rich red tomato and green bell pepper sauce, sprinkled with paprika and cumin"
+      vessel: "a black cast-iron skillet"
+      angle: "overhead top-down view"
     ingredients:
       - [egg, 200, "٤ بيضات"]
       - [tomato, 300, "٣ ثمرات متوسطة مبشورة"]

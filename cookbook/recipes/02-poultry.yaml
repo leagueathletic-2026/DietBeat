@@ -13,6 +13,10 @@ recipes:
     cuisine: "متوسطي"
     servings: 2
     time: 35
+    photo:
+      dish: "sliced grilled lemon-garlic chicken breast with paprika crust, a scoop of brown rice, sauteed zucchini and carrot slices, lemon wedge"
+      vessel: "a wide matte charcoal plate"
+      angle: "45-degree angle"
     ingredients:
       - [chicken_breast, 300, "صدرين متوسطين"]
       - [rice_brown, 100, "نصف كوب (قبل الطهي)"]
@@ -39,6 +43,10 @@ recipes:
     cuisine: "هندي"
     servings: 2
     time: 30
+    photo:
+      dish: "yogurt-marinated chicken tikka cubes with orange-red spice char on wooden skewers, a small bowl of cucumber and mint salad"
+      vessel: "a dark stone serving board"
+      angle: "low 30-degree angle"
     ingredients:
       - [chicken_breast, 350, "مكعبات كبيرة"]
       - [yogurt_low, 100, "نصف علبة"]
@@ -66,6 +74,10 @@ recipes:
     cuisine: "شامي"
     servings: 2
     time: 30
+    photo:
+      dish: "two halved whole-wheat tortilla shawarma wraps showing sliced spiced chicken, romaine lettuce, tomato and tahini-yogurt sauce"
+      vessel: "a black parchment-lined board"
+      angle: "45-degree angle"
     ingredients:
       - [chicken_thigh, 300, "أوراك منزوعة الجلد والعظم"]
       - [yogurt_low, 100, "٦٠ جم للتتبيلة و٤٠ للصوص"]
@@ -94,6 +106,10 @@ recipes:
     cuisine: "آسيوي"
     servings: 2
     time: 20
+    photo:
+      dish: "chicken and broccoli stir-fry with red bell pepper strips in a glossy soy-honey-ginger sauce, sprinkled with sesame seeds"
+      vessel: "a black carbon-steel wok"
+      angle: "overhead top-down view"
     ingredients:
       - [chicken_breast, 300, "شرائح رفيعة"]
       - [broccoli, 250, "رأس صغير"]

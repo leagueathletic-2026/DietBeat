@@ -13,6 +13,10 @@ recipes:
     cuisine: "مصري"
     servings: 2
     time: 45
+    photo:
+      dish: "baked tilapia fillets on a bed of sliced potatoes, onion rings and green pepper, topped with tomato slices, roasted golden on top"
+      vessel: "a black enamel baking tray"
+      angle: "45-degree angle"
     ingredients:
       - [tilapia, 350, "فيليه بلطي"]
       - [potato, 250, "بطاطساية كبيرة شرائح رفيعة"]
@@ -38,6 +42,10 @@ recipes:
     cuisine: "عالمي"
     servings: 2
     time: 30
+    photo:
+      dish: "a baked salmon fillet with lemon slices and fresh dill on top, a mound of fluffy quinoa and roasted green asparagus spears"
+      vessel: "a matte dark grey plate"
+      angle: "45-degree angle"
     ingredients:
       - [salmon, 300, "قطعتين فيليه"]
       - [quinoa, 100, "نصف كوب (قبل الطهي)"]
@@ -61,6 +69,10 @@ recipes:
     cuisine: "متوسطي"
     servings: 2
     time: 20
+    photo:
+      dish: "garlic lemon shrimp tossed with spiralized zucchini noodles, chopped parsley and thin green chili slices"
+      vessel: "a shallow black ceramic pasta bowl"
+      angle: "overhead top-down view"
     ingredients:
       - [shrimp, 350, "جمبري مقشر"]
       - [zucchini, 400, "٣ كوسايات كبيرة"]
@@ -85,6 +97,10 @@ recipes:
     cuisine: "إيطالي"
     servings: 2
     time: 10
+    photo:
+      dish: "tuna and white bean salad with diced cucumber, tomato, thin red onion slices and parsley, glistening with olive oil and mustard dressing"
+      vessel: "a wide dark stoneware salad bowl"
+      angle: "45-degree angle"
     ingredients:
       - [tuna_water, 240, "علبتين مصفاتين"]
       - [white_beans_canned, 240, "علبة صغيرة مصفاة"]

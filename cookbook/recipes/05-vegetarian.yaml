@@ -13,6 +13,10 @@ recipes:
     cuisine: "مصري"
     servings: 4
     time: 60
+    photo:
+      dish: "healthy Egyptian koshari: brown rice and lentils, small whole-wheat macaroni, chickpeas, red tomato sauce on top and crispy golden baked onions"
+      vessel: "a deep black ceramic bowl"
+      angle: "45-degree angle"
     ingredients:
       - [lentils_brown, 150, "كوب إلا ربع عدس بجبة"]
       - [rice_brown, 150, "كوب إلا ربع"]
@@ -42,6 +46,10 @@ recipes:
     cuisine: "مصري"
     servings: 3
     time: 40
+    photo:
+      dish: "about ten crispy oven-baked green Egyptian falafel (ta'ameya) discs coated with sesame seeds, one broken open to show the bright green herb interior, a small bowl of tahini sauce"
+      vessel: "a dark slate board"
+      angle: "45-degree angle"
     ingredients:
       - [fava_dry, 200, "فول مدشوش منقوع ليلة (الوزن جاف)"]
       - [parsley, 30, "حزمة صغيرة"]
@@ -72,6 +80,10 @@ recipes:
     cuisine: "مصري"
     servings: 3
     time: 55
+    photo:
+      dish: "Egyptian oven-baked moussaka: roasted eggplant slices layered with tomato, green pepper and onion sauce, bubbling and caramelised"
+      vessel: "a dark clay baking dish"
+      angle: "overhead top-down view"
     ingredients:
       - [eggplant, 600, "٢ باذنجانة كبيرة"]
       - [tomato_canned, 400, "علبة طماطم مقطعة"]
@@ -97,6 +109,10 @@ recipes:
     cuisine: "هندي"
     servings: 3
     time: 30
+    photo:
+      dish: "chickpea and spinach curry in a turmeric-tomato sauce with a dollop of Greek yogurt on top"
+      vessel: "a black ceramic bowl"
+      angle: "45-degree angle"
     ingredients:
       - [chickpeas_canned, 400, "علبة حمص مصفاة"]
       - [spinach, 200, "كيس سبانخ"]
