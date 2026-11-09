@@ -7,171 +7,213 @@
 </head>
 <body>
 
-{%- macro tagchips(tags) -%}
-<div class="chips">{% for t in tags %}<span class="chip {{ t.cls }}">{{ t.ar }}</span>{% endfor %}</div>
+{#- ============ icons (stroke SVG, currentColor) ============ -#}
+{%- macro icon(name) -%}
+<svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+{%- if name == "flame" -%}<path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.2 1-3.6 2.2-4.8.3 1.6 1 2.6 2 3 0-3 .3-5.6.8-8.2z"/>
+{%- elif name == "protein" -%}<path d="M6.5 6.5v11M17.5 6.5v11M3.5 9v6M20.5 9v6M6.5 12h11"/>
+{%- elif name == "carbs" -%}<path d="M12 21V9M12 9c-2.5 0-4-2-4-5 2.5 0 4 2 4 5zm0 0c2.5 0 4-2 4-5-2.5 0-4 2-4 5zm0 5c-2.5 0-4-2-4-5 2.5 0 4 2 4 5zm0 0c2.5 0 4-2 4-5-2.5 0-4 2-4 5z"/>
+{%- elif name == "fat" -%}<path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"/>
+{%- elif name == "light" -%}<path d="M5 19c0-8 5-13 14-14-1 9-6 14-14 14zM5 19l7-7"/>
+{%- elif name == "keto" -%}<path d="M12 3c3.5 0 6 4.5 6 9.5S15.5 21 12 21s-6-3.5-6-8.5S8.5 3 12 3z"/><circle cx="12" cy="14" r="2.6"/>
+{%- elif name == "fiber" -%}<path d="M12 21V8M12 8c0-3 2-5 5-5 0 3-2 5-5 5zm0 5c0-3-2-5-5-5 0 3 2 5 5 5zm0 4c0-3 2-5 5-5 0 3-2 5-5 5z"/>
+{%- elif name == "veg" -%}<path d="M12 21v-8M12 13c-4 0-7-3-7-7 4 0 7 3 7 7zm0 0c3 0 5.5-2.5 5.5-5.5-3 0-5.5 2.5-5.5 5.5z"/>
+{%- elif name == "clock" -%}<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>
+{%- elif name == "plate" -%}<circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/>
+{%- elif name == "globe" -%}<circle cx="12" cy="12" r="8.5"/><path d="M3.5 12h17M12 3.5c2.5 2.5 3.5 5.5 3.5 8.5s-1 6-3.5 8.5c-2.5-2.5-3.5-5.5-3.5-8.5s1-6 3.5-8.5z"/>
+{%- elif name == "bulb" -%}<path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2V16h5v-.1c0-.8.4-1.5 1-2A6 6 0 0 0 12 3z"/>
+{%- elif name == "swap" -%}<path d="M4 8h13l-3-3M20 16H7l3 3"/>
+{%- endif -%}
+</svg>
 {%- endmacro -%}
 
-{%- macro footer(p, label="") -%}
-<div class="foot"><span>{{ intro.title }}{% if label %} &nbsp;|&nbsp; {{ label }}{% endif %}</span><span class="pno">{{ p.no | ar }}</span></div>
+{%- macro tagrow(tags) -%}
+<div class="tagrow">{% for t in tags %}<div class="tg">{{ icon(t.key) }}<span>{{ t.ar }}</span></div>{% endfor %}</div>
 {%- endmacro -%}
+
+{%- macro serv(n) -%}{{ n }} {{ "حصة" if n == 1 or n > 10 else ("حصتين" if n == 2 else "حصص") }}{%- endmacro -%}
+
+{%- macro footer(p, label="") -%}
+<div class="foot">
+  <span class="slogan">REAL FOOD &nbsp;·&nbsp; REAL RESULTS</span>
+  {% if label %}<span class="flabel">{{ label }}</span>{% endif %}
+  <span class="pno">{{ p.no }}</span>
+</div>
+{%- endmacro -%}
+
+{%- macro logo() -%}<img class="logo" src="../images/brand/logo.png" alt="BODiQ">{%- endmacro -%}
 
 {% for p in pages %}
 
-{# ---------------- COVER ---------------- #}
+{# ================= COVER ================= #}
 {% if p.type == "cover" %}
 <section class="page cover">
-  <div class="cover-art" aria-hidden="true">
-    <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
-  </div>
+  <img class="cover-img" src="../images/brand/cover.png" alt="">
+  <div class="cover-shade"></div>
   <div class="cover-body">
-    <div class="brand">Diet<b>Beat</b></div>
-    <h1>{{ intro.title }}</h1>
+    <div class="cover-ar">{{ intro.title_ar }}</div>
     <p class="cover-sub">{{ intro.subtitle }}</p>
     <div class="tracks">{% for t in intro.tracks %}<span>{{ t }}</span>{% endfor %}</div>
-    <div class="cover-stats">
-      <div><b>{{ total | ar }}</b><span>وصفة</span></div>
-      <div><b>{{ chapters | length | ar }}</b><span>أقسام</span></div>
-      <div><b>١٠٠٪</b><span>محسوبة من USDA</span></div>
-    </div>
   </div>
-  <div class="cover-foot">{{ intro.edition }}</div>
 </section>
 
-{# ---------------- TEXT PAGES ---------------- #}
+{# ================= TEXT PAGES ================= #}
 {% elif p.type == "text" %}
 <section class="page text">
-  <div class="kicker">{{ p.kicker }}</div>
+  <div class="topbar">{{ logo() }}<span class="kicker">{{ p.kicker }}</span></div>
   <h2 class="ptitle">{{ p.title }}</h2>
   {% for b in p.blocks %}
-    {% if b.p %}<p>{{ b.p | md }}</p>
+    {% if b.p %}<p class="lead">{{ b.p | md }}</p>
     {% elif b.list %}<ul class="bul">{% for li in b.list %}<li>{{ li | md }}</li>{% endfor %}</ul>
     {% elif b.callout %}<div class="callout">{{ b.callout | md }}</div>
     {% elif b.tags %}
       <div class="legend">
-        <div class="lg"><span class="chip t-light">تخسيس</span><p>السعرات ≤ ٤٠٠ للفطار، ≤ ٥٠٠ للوجبة الرئيسية، ≤ ٣٠٠ للسلطات والشوربات، ≤ ٢٠٠ للسناكس والحلويات.</p></div>
-        <div class="lg"><span class="chip t-protein">بروتين عالي</span><p>٣٠ جم بروتين أو أكثر، أو ١٥ جم على الأقل بشرط أن يمثل البروتين ٣٠٪ أو أكثر من السعرات.</p></div>
-        <div class="lg"><span class="chip t-keto">كيتو / لو كارب</span><p>الكربوهيدرات الصافية (الكارب − الألياف) ١٠ جم أو أقل.</p></div>
-        <div class="lg"><span class="chip t-fiber">غني بالألياف</span><p>٦ جم ألياف أو أكثر.</p></div>
-        <div class="lg"><span class="chip t-veg">نباتي</span><p>بدون لحوم أو دواجن أو أسماك (قد يحتوي على بيض أو ألبان).</p></div>
+        {% for key, rule in intro.tag_rules.items() %}
+        <div class="lg"><div class="lg-ic">{{ icon(key) }}</div><div><b>{{ tags[key].ar }}</b><p>{{ rule }}</p></div></div>
+        {% endfor %}
       </div>
     {% elif b.evidence %}
       <div class="evidence">
       {% for e in b.evidence %}
-        <div class="ev"><h4>{{ e.h }}</h4><p>{{ e.text }}</p></div>
+        <div class="ev"><span class="ev-n">{{ "%02d" % loop.index }}</span><div><h4>{{ e.h }}</h4><p>{{ e.text }}</p></div></div>
       {% endfor %}
       </div>
-      <p class="smallnote">الأرقام بين الأقواس تشير لقائمة المراجع في آخر الكتاب.</p>
+      <p class="smallnote">الأرقام بين الأقواس [ ] تشير لقائمة المراجع العلمية في آخر الكتاب.</p>
     {% endif %}
   {% endfor %}
   {{ footer(p) }}
 </section>
 
-{# ---------------- INDEX ---------------- #}
+{# ================= INDEX ================= #}
 {% elif p.type == "index" %}
 <section class="page index">
-  {% if p.first %}<div class="kicker">اختار حسب هدفك</div><h2 class="ptitle">فهرس الوصفات</h2>{% else %}<h2 class="ptitle small">فهرس الوصفات (تابع)</h2>{% endif %}
+  <div class="topbar">{{ logo() }}<span class="kicker">اختر حسب هدفك</span></div>
+  <h2 class="ptitle{% if not p.first %} small{% endif %}">فهرس الوصفات{% if not p.first %} <em>(تابع)</em>{% endif %}</h2>
   <table class="idx">
-    <thead><tr><th>#</th><th class="nm">الوصفة</th><th>سعرات</th><th>بروتين</th><th>كارب</th><th>دهون</th><th class="tg">العلامات</th><th>صفحة</th></tr></thead>
+    <thead><tr><th>#</th><th class="nm">الوصفة</th><th>سعرات</th><th>بروتين</th><th>كارب</th><th>دهون</th><th class="tgc">العلامات</th><th>صفحة</th></tr></thead>
     <tbody>
     {% for row in p.rows %}
       {% if row.chapter %}
-      <tr class="chrow" style="--c: {{ row.chapter.color }}"><td colspan="8"><a href="#ch-{{ row.chapter.id }}">{{ row.chapter.title }}</a></td></tr>
+      <tr class="chrow"><td colspan="8"><a href="#ch-{{ row.chapter.id }}"><span>{{ "%02d" % row.chapter.no }}</span>{{ row.chapter.title }}</a></td></tr>
       {% else %}{% set r = row.recipe %}
       <tr>
-        <td class="n">{{ r.num | ar }}</td>
+        <td class="n">{{ r.num }}</td>
         <td class="nm"><a href="#r-{{ r.id }}">{{ r.name }}</a></td>
-        <td>{{ r.nut.kcal | ar }}</td><td>{{ r.nut.protein | ar }}</td><td>{{ r.nut.carbs | ar }}</td><td>{{ r.nut.fat | ar }}</td>
-        <td class="tg">{% for t in r.tags %}<i class="dot {{ t.cls }}" title="{{ t.ar }}"></i>{% endfor %}</td>
-        <td class="n"><a href="#r-{{ r.id }}">{{ r.page | ar }}</a></td>
+        <td class="k">{{ r.nut.kcal }}</td><td>{{ r.nut.protein }}</td><td>{{ r.nut.carbs }}</td><td>{{ r.nut.fat }}</td>
+        <td class="tgc">{% for t in r.tags %}<i class="mini" title="{{ t.ar }}">{{ icon(t.key) }}</i>{% endfor %}</td>
+        <td class="n"><a href="#r-{{ r.id }}">{{ r.page }}</a></td>
       </tr>
       {% endif %}
     {% endfor %}
     </tbody>
   </table>
   <div class="idx-legend">
-    {% for k, t in tags.items() %}<span><i class="dot {{ t.cls }}"></i>{{ t.ar }}</span>{% endfor %}
-    <span class="muted">القيم للحصة الواحدة بالجرام</span>
+    {% for k, t in tags.items() %}<span><i class="mini">{{ icon(k) }}</i>{{ t.ar }}</span>{% endfor %}
+    <span class="muted">القيم للحصة الواحدة (جم)</span>
   </div>
   {{ footer(p) }}
 </section>
 
-{# ---------------- CHAPTER DIVIDER ---------------- #}
+{# ================= CHAPTER DIVIDER ================= #}
 {% elif p.type == "chapter" %}{% set ch = p.chapter %}
-<section class="page chapter" id="ch-{{ ch.id }}" style="--c: {{ ch.color }}">
+<section class="page chapter" id="ch-{{ ch.id }}">
+  <div class="topbar">{{ logo() }}<span class="kicker">القسم {{ ch.no }} من {{ chapters | length }}</span></div>
   <div class="ch-num">{{ "%02d" % ch.no }}</div>
   <div class="ch-body">
     <div class="ch-en">{{ ch.en }}</div>
     <h2>{{ ch.title }}</h2>
+    <div class="ch-rule"></div>
     <p class="ch-intro">{{ ch.intro }}</p>
     <ol class="ch-list">
-      {% for r in ch.recipes %}<li><a href="#r-{{ r.id }}"><span>{{ r.name }}</span><em>{{ r.nut.kcal | ar }} سعر &nbsp;|&nbsp; ص {{ r.page | ar }}</em></a></li>{% endfor %}
+      {% for r in ch.recipes %}<li><a href="#r-{{ r.id }}"><span class="cn">{{ r.num }}</span><span class="ct">{{ r.name }}</span><em>{{ r.nut.kcal }} سعر</em><b>ص {{ r.page }}</b></a></li>{% endfor %}
     </ol>
   </div>
   {{ footer(p, ch.title) }}
 </section>
 
-{# ---------------- RECIPE ---------------- #}
-{% elif p.type == "recipe" %}{% set r = p.recipe %}{% set ch = p.chapter %}
-<section class="page recipe" id="r-{{ r.id }}" style="--c: {{ ch.color }}">
-  <header class="r-head">
-    <div class="r-top"><span class="r-ch">{{ ch.title }}</span><span class="r-num">وصفة {{ r.num | ar }}</span></div>
-    <h2>{{ r.name }}</h2>
-    {% if r.en %}<div class="r-en">{{ r.en }}</div>{% endif %}
-    <div class="r-meta">
-      <span><em>الحصص</em>{{ r.servings | ar }}</span>
-      <span><em>الوقت</em>{{ r.time | ar }} دقيقة</span>
-      {% if r.cuisine %}<span><em>المطبخ</em>{{ r.cuisine }}</span>{% endif %}
-    </div>
-    {{ tagchips(r.tags) }}
-  </header>
+{# ================= RECIPE ================= #}
+{% elif p.type == "recipe" %}{% set r = p.recipe %}{% set ch = p.chapter %}{% set tt = r.name | split_title %}
+<section class="page recipe{% if r.image %} has-photo{% endif %}{% if r.dense %} dense{% endif %}" id="r-{{ r.id }}">
+  {% if r.image %}<img class="hero-img" src="{{ r.image }}" alt=""><div class="hero-shade"></div>{% endif %}
+  <div class="topbar">{{ logo() }}<span class="kicker">{{ ch.title }} <i>·</i> {{ ch.en }}</span></div>
 
-  <div class="nut">
-    <div class="stat kcal"><b>{{ r.nut.kcal | ar }}</b><span>سعر حراري</span></div>
-    <div class="stat p"><b>{{ r.nut.protein | ar }}<small>جم</small></b><span>بروتين</span></div>
-    <div class="stat c"><b>{{ r.nut.carbs | ar }}<small>جم</small></b><span>كربوهيدرات</span></div>
-    <div class="stat f"><b>{{ r.nut.fat | ar }}<small>جم</small></b><span>دهون</span></div>
-    <div class="nut-side">
-      <div class="bar" title="توزيع السعرات">
-        <i class="p" style="width: {{ r.nut.split.protein }}%"></i><i class="c" style="width: {{ r.nut.split.carbs }}%"></i><i class="f" style="width: {{ r.nut.split.fat }}%"></i>
+  <div class="hero">
+    <div class="hero-text">
+      <div class="sticker">وصفة رقم {{ r.num }}</div>
+      <h2><span>{{ tt[0] }}</span>{% if tt[1] %}<span class="lime">{{ tt[1] }}</span>{% endif %}</h2>
+      {% if r.en %}<div class="r-en">{{ r.en }}</div>{% endif %}
+      <div class="r-meta">
+        <span>{{ icon("plate") }}{{ serv(r.servings) }}</span>
+        <span>{{ icon("clock") }}{{ r.time }} دقيقة</span>
+        {% if r.cuisine %}<span>{{ icon("globe") }}{{ r.cuisine }}</span>{% endif %}
       </div>
-      <div class="bar-l"><span class="p">بروتين {{ r.nut.split.protein | ar }}٪</span><span class="c">كارب {{ r.nut.split.carbs | ar }}٪</span><span class="f">دهون {{ r.nut.split.fat | ar }}٪</span></div>
-      <div class="minor"><span>ألياف <b>{{ r.nut.fiber | ar }}</b> جم</span><span>كارب صافي <b>{{ r.nut.net_carbs | ar }}</b> جم</span><span>سكريات <b>{{ r.nut.sugar | ar }}</b> جم</span><span>صوديوم <b>{{ r.nut.sodium | ar }}</b> مجم</span></div>
+      {{ tagrow(r.tags) }}
     </div>
-  </div>
-  <div class="per">القيم للحصة الواحدة</div>
 
-  <div class="r-body">
-    <div class="ings">
-      <h3>المكونات</h3>
-      {% if r.image %}<img class="photo" src="{{ r.image }}" alt="">{% endif %}
-      <ul>
-      {% for l in r.lines %}
-        <li><div><span class="iname">{{ l.name }}</span>{% if l.qty %}<span class="iq">{{ l.qty }}</span>{% endif %}</div>{% if l.grams %}<span class="ig">{{ l.grams | ar }} جم</span>{% endif %}</li>
+    <div class="nutcard">
+      <div class="nc-h">القيم الغذائية <small>للحصة الواحدة · النسبة من السعرات</small></div>
+      <div class="nc-kcal">{{ icon("flame") }}<b>{{ r.nut.kcal }}</b><span>سعر حراري</span></div>
+      {% for key, label in [("protein", "البروتين"), ("carbs", "الكربوهيدرات"), ("fat", "الدهون")] %}
+      <div class="nc-row">
+        <div class="nc-l">{{ icon(key) }}<span>{{ label }}</span><b>{{ r.nut[key] }} <small>جم</small></b></div>
+        <div class="nc-barrow"><div class="nc-bar"><i style="width: {{ r.nut.split[key] }}%"></i></div><span class="nc-pct">{{ r.nut.split[key] }}%</span></div>
+      </div>
       {% endfor %}
-      </ul>
-    </div>
-    <div class="steps">
-      <h3>طريقة التحضير</h3>
-      <ol>{% for s in r.steps %}<li>{{ s | md }}</li>{% endfor %}</ol>
-      {% if r.tip %}<div class="tip"><b>نصيحة DietBeat</b>{{ r.tip | md }}</div>{% endif %}
-      {% if r.swap %}<div class="swap"><b>بدائل حسب هدفك</b>{{ r.swap | md }}<em>القيم أعلى الصفحة للوصفة الأصلية بدون البدائل.</em></div>{% endif %}
+      <div class="nc-minor">
+        <span>ألياف <b>{{ r.nut.fiber }}</b></span><span>كارب صافي <b>{{ r.nut.net_carbs }}</b></span><span>سكريات <b>{{ r.nut.sugar }}</b></span><span>صوديوم <b>{{ r.nut.sodium }}</b> مجم</span>
+      </div>
     </div>
   </div>
+
+  <div class="sec">
+    <h3>المكونات <span class="lime">(تكفي {{ serv(r.servings) }})</span></h3>
+    <div class="tiles">
+      {% for l in r.lines %}
+      <div class="tile">
+        <div class="tw">{% if l.grams %}{{ l.grams }}<small>جم</small>{% else %}<small class="tt">حسب الرغبة</small>{% endif %}</div>
+        <div class="tn">{{ l.name }}</div>
+        {% if l.qty %}<div class="tq">{{ l.qty }}</div>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="sec">
+    <h3>طريقة التحضير</h3>
+    <ol class="steps{% if r.steps | length > 3 %} two{% endif %}">
+      {% for s in r.steps %}<li><span class="sn">{{ loop.index }}</span><p>{{ s | md }}</p></li>{% endfor %}
+    </ol>
+  </div>
+
+  {% if r.tip or r.swap %}
+  <div class="tips">
+    {% if r.tip %}<div class="tipbox"><div class="tb-h">{{ icon("bulb") }}نصيحة BODiQ</div><p>{{ r.tip | md }}</p></div>{% endif %}
+    {% if r.swap %}<div class="tipbox alt"><div class="tb-h">{{ icon("swap") }}بدائل حسب هدفك</div><p>{{ r.swap | md }}</p><em>القيم أعلاه للوصفة الأصلية بدون البدائل.</em></div>{% endif %}
+  </div>
+  {% endif %}
   {{ footer(p, ch.title) }}
 </section>
 
-{# ---------------- REFERENCES ---------------- #}
+{# ================= REFERENCES ================= #}
 {% elif p.type == "references" %}
 <section class="page text refs">
-  <div class="kicker">المصادر</div>
+  <div class="topbar">{{ logo() }}<span class="kicker">المصادر</span></div>
   <h2 class="ptitle">المراجع العلمية</h2>
   <ol class="reflist" dir="ltr">
     {% for ref in p.refs %}<li value="{{ ref.n }}">{{ ref.text }}{% if ref.doi %} <a href="https://doi.org/{{ ref.doi }}">doi:{{ ref.doi }}</a>{% endif %}</li>{% endfor %}
   </ol>
   <h3 class="disc-h">إخلاء مسؤولية</h3>
   <div class="callout warn">{{ p.disclaimer }}</div>
-  <p class="smallnote">© DietBeat. جميع الحقوق محفوظة. لا يجوز نسخ أو إعادة توزيع هذا الكتاب أو أي جزء منه بدون إذن كتابي.</p>
+  <p class="smallnote">© BODiQ {{ intro.year }}. جميع الحقوق محفوظة. لا يجوز نسخ هذا الكتاب أو إعادة توزيعه أو أي جزء منه بدون إذن كتابي.</p>
   {{ footer(p) }}
+</section>
+
+{# ================= BACK COVER ================= #}
+{% elif p.type == "back" %}
+<section class="page back">
+  <img class="back-logo" src="../images/brand/logo-tagline.png" alt="BODiQ — Discipline fuels a better you">
+  <p class="back-blurb">{{ intro.back_blurb }}</p>
+  <div class="back-tags">HEALTHY RECIPES &nbsp;·&nbsp; REAL RESULTS</div>
 </section>
 {% endif %}
 

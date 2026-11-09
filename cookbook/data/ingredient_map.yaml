@@ -177,3 +177,8 @@ balsamic:         {fdc_id: 172241, ar: "خل بلسميك"}
 mustard:          {fdc_id: 172234, ar: "مستردة"}
 soy_sauce_light:  {fdc_id: 172474, ar: "صويا صوص قليل الصوديوم"}
 sriracha:         {fdc_id: 171186, ar: "صوص سريراتشا"}
+
+# --- Added for BODiQ signature recipes ---
+almond_flour:     {fdc_id: 170568, ar: "دقيق لوز", note: "Almond flour = finely ground blanched almonds; USDA blanched almonds used"}
+lemon_zest:       {fdc_id: 167749, ar: "قشر ليمون مبشور"}
+stevia:           {fdc_id: 170679, ar: "محلي ستيفيا (للخبز)", override: {kcal: 0, carbs: 0, sugar: 0}, note: "Non-caloric sweetener; USDA lists the stevia extract powder at 0 kcal, carbohydrate (bulking agent) not counted"}

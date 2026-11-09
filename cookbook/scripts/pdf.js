@@ -1,4 +1,4 @@
-// Render output/book.html -> output/DietBeat-Cookbook.pdf with headless Chromium (Playwright).
+// Render output/book.html -> output/BODiQ-Lean-Kitchen.pdf with headless Chromium (Playwright).
 // Usage: node scripts/pdf.js [--png N,M]   (--png also writes preview images of the given page numbers)
 const path = require('path');
 const fs = require('fs');
@@ -7,7 +7,7 @@ const { chromium } = require('playwright');
 (async () => {
   const root = path.resolve(__dirname, '..');
   const html = path.join(root, 'output', 'book.html');
-  const out = path.join(root, 'output', 'DietBeat-Cookbook.pdf');
+  const out = path.join(root, 'output', 'BODiQ-Lean-Kitchen.pdf');
   const browser = await chromium.launch();
   const page = await browser.newPage();
   await page.goto('file://' + html, { waitUntil: 'networkidle' });

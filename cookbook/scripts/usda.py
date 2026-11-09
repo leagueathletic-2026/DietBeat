@@ -83,6 +83,7 @@ def build():
         for field in ("kcal", "protein", "fat", "carbs"):
             if field not in n:
                 problems.append(f"{key}: missing {field}")
+        n.update(spec.get("override", {}))
         n.setdefault("fiber", 0.0)
         n.setdefault("sugar", None)
         n.setdefault("sodium_mg", None)

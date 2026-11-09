@@ -1,4 +1,19 @@
 {
+ "almond_flour": {
+  "ar": "دقيق لوز",
+  "fdc_id": 170568,
+  "note": "Almond flour = finely ground blanched almonds; USDA blanched almonds used",
+  "per100g": {
+   "carbs": 18.67,
+   "fat": 52.52,
+   "fiber": 9.9,
+   "kcal": 590.0,
+   "protein": 21.4,
+   "sodium_mg": 19.0,
+   "sugar": 4.63
+  },
+  "usda_name": "Nuts, almonds, blanched"
+ },
  "almond_milk": {
   "ar": "لبن لوز غير محلّى",
   "fdc_id": 174832,
@@ -1203,6 +1218,20 @@
   },
   "usda_name": "Lemon juice, raw"
  },
+ "lemon_zest": {
+  "ar": "قشر ليمون مبشور",
+  "fdc_id": 167749,
+  "per100g": {
+   "carbs": 16.0,
+   "fat": 0.3,
+   "fiber": 10.6,
+   "kcal": 47.0,
+   "protein": 1.5,
+   "sodium_mg": 6.0,
+   "sugar": 4.17
+  },
+  "usda_name": "Lemon peel, raw"
+ },
  "lentils_brown": {
   "ar": "عدس بجبة",
   "fdc_id": 172420,
@@ -1959,6 +1988,21 @@
    "sugar": 15.11
   },
   "usda_name": "Sauce, hot chile, sriracha"
+ },
+ "stevia": {
+  "ar": "محلي ستيفيا (للخبز)",
+  "fdc_id": 170679,
+  "note": "Non-caloric sweetener; USDA lists the stevia extract powder at 0 kcal, carbohydrate (bulking agent) not counted",
+  "per100g": {
+   "carbs": 0,
+   "fat": 0.0,
+   "fiber": 0.0,
+   "kcal": 0,
+   "protein": 0.0,
+   "sodium_mg": 0.0,
+   "sugar": 0
+  },
+  "usda_name": "Sweetener, herbal extract powder from Stevia leaf"
  },
  "strawberries": {
   "ar": "فراولة",

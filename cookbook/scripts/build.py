@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the DietBeat cookbook: recipes/*.yaml -> output/book.html (+ PDF via scripts/pdf.js).
+"""Build the BODiQ Lean Kitchen cookbook: recipes/*.yaml -> output/book.html (+ PDF via scripts/pdf.js).
 
   python3 scripts/build.py            # validate, compute nutrition, render HTML
   python3 scripts/build.py --check    # validate + print nutrition table only
@@ -24,7 +24,7 @@ ANIMAL_FLESH = {
 # Tag rules (per serving). Documented for readers in content/intro.yaml -> "tags" section.
 CAL_LIMIT = {"breakfast": 400, "main": 500, "side": 300, "snack": 200, "dessert": 200}
 TAGS = {
-    "light":   {"ar": "تخسيس",        "cls": "t-light"},
+    "light":   {"ar": "تخسيس", "cls": "t-light"},
     "protein": {"ar": "بروتين عالي",   "cls": "t-protein"},
     "keto":    {"ar": "كيتو / لو كارب", "cls": "t-keto"},
     "fiber":   {"ar": "غني بالألياف",  "cls": "t-fiber"},
@@ -39,6 +39,19 @@ def ar(n):
     if isinstance(n, float) and n.is_integer():
         n = int(n)
     return str(n).translate(AR_DIGITS)
+
+
+def split_title(name):
+    """Split a recipe name into two lines of similar length (2nd line is shown in brand lime)."""
+    words = name.split()
+    if len(words) < 3:
+        return [name, ""]
+    best = min(range(1, len(words)), key=lambda i: abs(len(" ".join(words[:i])) - len(" ".join(words[i:]))))
+    return [" ".join(words[:best]), " ".join(words[best:])]
+
+
+# Book uses Western digits (matches the BODiQ brand designs); convert any Arabic-Indic digits in text.
+WESTERN = str.maketrans("٠١٢٣٤٥٦٧٨٩٫٪", "0123456789.%")
 
 
 def md(text):
@@ -126,6 +139,8 @@ def load_book():
                 "nut": nut,
                 "tags": [dict(TAGS[t], key=t) for t in tags],
                 "image": f"../images/{r['id']}.jpg" if img.exists() else None,
+                # long recipes get tighter typography (see .dense in style.css)
+                "dense": len(lines) > 10 or sum(len(x) for x in r["steps"]) + len(r.get("tip", "")) + len(r.get("swap", "")) > 750,
             })
         chapters.append(ch)
     return chapters, n
@@ -153,6 +168,7 @@ def paginate(chapters, intro):
         for r in ch["recipes"]:
             pages.append({"type": "recipe", "recipe": r, "chapter": ch})
     pages.append({"type": "references", "refs": intro["references"], "disclaimer": intro["disclaimer"]})
+    pages.append({"type": "back"})
 
     for i, p in enumerate(pages, start=1):
         p["no"] = i
@@ -178,12 +194,13 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"), autoescape=True)
     env.filters["ar"] = ar
     env.filters["md"] = md
+    env.filters["split_title"] = split_title
     pages = paginate(chapters, intro)
     html = env.get_template("book.html.j2").render(
         pages=pages, chapters=chapters, total=n, intro=intro, tags=TAGS,
         css=(ROOT / "templates" / "style.css").read_text())
     OUT.mkdir(exist_ok=True)
-    (OUT / "book.html").write_text(html)
+    (OUT / "book.html").write_text(html.translate(WESTERN))
     print(f"Rendered {n} recipes -> output/book.html")
 
 
