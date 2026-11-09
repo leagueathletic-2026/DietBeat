@@ -1,0 +1,179 @@
+# Ingredient key -> USDA FoodData Central SR Legacy fdc_id + Arabic display name.
+# All recipe weights are for the ingredient AS LISTED here (mostly raw / uncooked, edible portion).
+# Run `python3 scripts/usda.py build` after editing to regenerate data/ingredients.json.
+
+# --- Eggs, meat, poultry, fish ---
+egg:              {fdc_id: 171287, ar: "بيض"}
+egg_white:        {fdc_id: 172183, ar: "بياض بيض"}
+chicken_breast:   {fdc_id: 171077, ar: "صدور فراخ"}
+chicken_thigh:    {fdc_id: 173627, ar: "أوراك فراخ منزوعة الجلد"}
+beef_lean_ground: {fdc_id: 171790, ar: "لحمة مفرومة قليلة الدهن (5%)"}
+beef_ground_90:   {fdc_id: 174030, ar: "لحمة مفرومة (10% دهون)"}
+beef_lean:        {fdc_id: 171759, ar: "لحمة حمراء صافية"}
+beef_liver:       {fdc_id: 169451, ar: "كبدة بقري"}
+lamb_lean:        {fdc_id: 174313, ar: "لحم ضاني صافي"}
+turkey_ground:    {fdc_id: 172850, ar: "لحم ديك رومي مفروم"}
+salmon:           {fdc_id: 175167, ar: "سلمون"}
+tilapia:          {fdc_id: 175176, ar: "سمك بلطي (فيليه)"}
+cod:              {fdc_id: 171955, ar: "سمك فيليه أبيض (قد)"}
+sea_bass:         {fdc_id: 175142, ar: "سمك قاروص"}
+mullet:           {fdc_id: 175123, ar: "سمك بوري"}
+mackerel:         {fdc_id: 175119, ar: "سمك ماكريل"}
+tuna_water:       {fdc_id: 173709, ar: "تونة بالماء (مصفاة)"}
+sardine_oil:      {fdc_id: 175139, ar: "سردين معلب (مصفى)"}
+shrimp:           {fdc_id: 175179, ar: "جمبري"}
+
+# --- Dairy & alternatives ---
+cottage_cheese:   {fdc_id: 173417, ar: "جبنة قريش / كوتيج (1%)"}
+feta:             {fdc_id: 173420, ar: "جبنة فيتا"}
+mozzarella_light: {fdc_id: 170847, ar: "موتزاريلا لايت"}
+parmesan:         {fdc_id: 171247, ar: "بارميزان مبشور"}
+ricotta_light:    {fdc_id: 171248, ar: "ريكوتا لايت"}
+cream_cheese_light: {fdc_id: 169079, ar: "جبنة كريمي لايت"}
+cream_cheese:     {fdc_id: 173418, ar: "جبنة كريمي"}
+greek_yogurt_0:   {fdc_id: 170894, ar: "زبادي يوناني خالي الدسم"}
+greek_yogurt_2:   {fdc_id: 170903, ar: "زبادي يوناني قليل الدسم"}
+yogurt_low:       {fdc_id: 170886, ar: "زبادي قليل الدسم"}
+milk_skim:        {fdc_id: 171269, ar: "لبن خالي الدسم"}
+milk_1:           {fdc_id: 170872, ar: "لبن قليل الدسم (1%)"}
+milk_whole:       {fdc_id: 171265, ar: "لبن كامل الدسم"}
+almond_milk:      {fdc_id: 174832, ar: "لبن لوز غير محلّى"}
+butter:           {fdc_id: 173430, ar: "زبدة"}
+tofu:             {fdc_id: 172475, ar: "توفو"}
+
+# --- Fats, nuts & seeds ---
+olive_oil:        {fdc_id: 171413, ar: "زيت زيتون"}
+coconut_oil:      {fdc_id: 171412, ar: "زيت جوز الهند"}
+tahini:           {fdc_id: 170189, ar: "طحينة"}
+peanut_butter:    {fdc_id: 172470, ar: "زبدة فول سوداني (بدون سكر)"}
+almonds:          {fdc_id: 170567, ar: "لوز"}
+walnuts:          {fdc_id: 170187, ar: "عين جمل"}
+cashews:          {fdc_id: 170162, ar: "كاجو"}
+pistachios:       {fdc_id: 170184, ar: "فستق"}
+chia:             {fdc_id: 170554, ar: "بذور شيا"}
+flaxseed:         {fdc_id: 169414, ar: "بذر كتان"}
+sesame:           {fdc_id: 170150, ar: "سمسم"}
+pumpkin_seeds:    {fdc_id: 170556, ar: "لب أبيض مقشر"}
+avocado:          {fdc_id: 171705, ar: "أفوكادو"}
+olives:           {fdc_id: 169094, ar: "زيتون أسود"}
+coconut_dried:    {fdc_id: 170170, ar: "جوز هند مبشور غير محلّى"}
+
+# --- Grains & breads ---
+oats:             {fdc_id: 173904, ar: "شوفان"}
+oat_bran:         {fdc_id: 168872, ar: "نخالة شوفان"}
+rice_white:       {fdc_id: 169756, ar: "رز أبيض"}
+rice_brown:       {fdc_id: 169703, ar: "رز بني"}
+bulgur:           {fdc_id: 170688, ar: "برغل"}
+quinoa:           {fdc_id: 168874, ar: "كينوا"}
+pasta_whole:      {fdc_id: 169738, ar: "مكرونة قمح كامل"}
+pasta:            {fdc_id: 168927, ar: "مكرونة"}
+couscous:         {fdc_id: 169699, ar: "كسكسي"}
+barley:           {fdc_id: 170284, ar: "شعير مقشور"}
+bread_whole:      {fdc_id: 172688, ar: "عيش توست أسمر"}
+pita_whole:       {fdc_id: 174916, ar: "عيش بلدي / شامي أسمر"}
+tortilla_whole:   {fdc_id: 174081, ar: "تورتيلا قمح كامل"}
+flour_whole:      {fdc_id: 168893, ar: "دقيق قمح كامل"}
+flour_white:      {fdc_id: 169761, ar: "دقيق أبيض"}
+crispbread_rye:   {fdc_id: 172739, ar: "خبز رقائق الجاودار (كريسب بريد)"}
+cornstarch:       {fdc_id: 169698, ar: "نشا ذرة"}
+
+# --- Legumes ---
+lentils_brown:    {fdc_id: 172420, ar: "عدس بجبة"}
+lentils_red:      {fdc_id: 174284, ar: "عدس أصفر/أحمر"}
+chickpeas_canned: {fdc_id: 173801, ar: "حمص مسلوق/معلب (مصفى)"}
+chickpeas_dry:    {fdc_id: 173756, ar: "حمص ناشف"}
+fava_canned:      {fdc_id: 173754, ar: "فول مدمس معلب"}
+fava_dry:         {fdc_id: 175205, ar: "فول ناشف مقشور"}
+kidney_canned:    {fdc_id: 175243, ar: "فاصوليا حمراء معلبة (مصفاة)"}
+black_beans_canned: {fdc_id: 175238, ar: "فاصوليا سوداء معلبة"}
+white_beans_canned: {fdc_id: 175204, ar: "فاصوليا بيضاء معلبة"}
+peas:             {fdc_id: 170016, ar: "بسلة مجمدة"}
+edamame:          {fdc_id: 168410, ar: "إدامامي (فول صويا أخضر)"}
+hummus:           {fdc_id: 174289, ar: "حمص بالطحينة (جاهز)"}
+
+# --- Vegetables & herbs ---
+tomato:           {fdc_id: 170457, ar: "طماطم"}
+tomato_paste:     {fdc_id: 170459, ar: "صلصة طماطم مركزة"}
+tomato_canned:    {fdc_id: 170138, ar: "طماطم معلبة مقطعة"}
+cucumber:         {fdc_id: 168409, ar: "خيار"}
+romaine:          {fdc_id: 169247, ar: "خس رومين"}
+spinach:          {fdc_id: 168462, ar: "سبانخ"}
+kale:             {fdc_id: 168421, ar: "كيل"}
+arugula:          {fdc_id: 169387, ar: "جرجير"}
+onion:            {fdc_id: 170000, ar: "بصل"}
+green_onion:      {fdc_id: 170005, ar: "بصل أخضر"}
+garlic:           {fdc_id: 169230, ar: "ثوم"}
+bell_pepper_red:  {fdc_id: 170108, ar: "فلفل ألوان أحمر"}
+bell_pepper_green: {fdc_id: 170427, ar: "فلفل أخضر رومي"}
+chili_green:      {fdc_id: 170497, ar: "فلفل حار أخضر"}
+carrot:           {fdc_id: 170393, ar: "جزر"}
+zucchini:         {fdc_id: 169291, ar: "كوسة"}
+eggplant:         {fdc_id: 169228, ar: "باذنجان"}
+cauliflower:      {fdc_id: 169986, ar: "قرنبيط"}
+broccoli:         {fdc_id: 170379, ar: "بروكلي"}
+cabbage:          {fdc_id: 169975, ar: "كرنب أبيض"}
+cabbage_red:      {fdc_id: 169977, ar: "كرنب أحمر"}
+mushrooms:        {fdc_id: 169251, ar: "مشروم"}
+potato:           {fdc_id: 170026, ar: "بطاطس"}
+sweet_potato:     {fdc_id: 168482, ar: "بطاطا"}
+beet:             {fdc_id: 169145, ar: "بنجر"}
+celery:           {fdc_id: 169988, ar: "كرفس"}
+okra:             {fdc_id: 169260, ar: "بامية"}
+molokhia:         {fdc_id: 168419, ar: "ملوخية خضراء", note: "USDA does not report fiber for this item; fiber counted as 0"}
+pumpkin:          {fdc_id: 168448, ar: "قرع عسلي"}
+butternut:        {fdc_id: 169295, ar: "قرع بتر نت"}
+corn:             {fdc_id: 169998, ar: "ذرة حلوة"}
+green_beans:      {fdc_id: 169961, ar: "فاصوليا خضراء"}
+parsley:          {fdc_id: 170416, ar: "بقدونس"}
+cilantro:         {fdc_id: 169997, ar: "كزبرة خضراء"}
+dill:             {fdc_id: 172233, ar: "شبت"}
+mint:             {fdc_id: 173475, ar: "نعناع"}
+basil:            {fdc_id: 172232, ar: "ريحان"}
+lemon_juice:      {fdc_id: 167747, ar: "عصير ليمون"}
+radish:           {fdc_id: 169276, ar: "فجل"}
+asparagus:        {fdc_id: 168389, ar: "هليون"}
+leek:             {fdc_id: 169246, ar: "كرات"}
+ginger:           {fdc_id: 169231, ar: "جنزبيل طازج"}
+
+# --- Fruits ---
+banana:           {fdc_id: 173944, ar: "موز"}
+apple:            {fdc_id: 171688, ar: "تفاح"}
+strawberries:     {fdc_id: 167762, ar: "فراولة"}
+blueberries:      {fdc_id: 171711, ar: "توت أزرق"}
+raspberries:      {fdc_id: 167755, ar: "توت أحمر"}
+orange:           {fdc_id: 169097, ar: "برتقال"}
+mango:            {fdc_id: 169910, ar: "مانجا"}
+dates:            {fdc_id: 171726, ar: "بلح / عجوة"}
+figs:             {fdc_id: 173021, ar: "تين طازج"}
+pomegranate:      {fdc_id: 169134, ar: "رمان"}
+watermelon:       {fdc_id: 167765, ar: "بطيخ"}
+pineapple:        {fdc_id: 169124, ar: "أناناس"}
+kiwi:             {fdc_id: 168153, ar: "كيوي"}
+guava:            {fdc_id: 173044, ar: "جوافة"}
+pear:             {fdc_id: 169118, ar: "كمثرى"}
+peach:            {fdc_id: 169928, ar: "خوخ"}
+grapes:           {fdc_id: 174683, ar: "عنب"}
+raisins:          {fdc_id: 168165, ar: "زبيب"}
+apricots_dried:   {fdc_id: 173941, ar: "مشمش مجفف"}
+
+# --- Sweeteners, baking & pantry ---
+honey:            {fdc_id: 169640, ar: "عسل نحل"}
+molasses:         {fdc_id: 168820, ar: "عسل أسود"}
+cocoa:            {fdc_id: 169593, ar: "كاكاو خام غير محلّى"}
+dark_chocolate:   {fdc_id: 170273, ar: "شوكولاتة داكنة 70-85%"}
+vanilla:          {fdc_id: 173471, ar: "فانيليا سائلة"}
+baking_powder:    {fdc_id: 172803, ar: "بيكنج باودر"}
+gelatin:          {fdc_id: 169599, ar: "جيلاتين بودرة"}
+yeast:            {fdc_id: 175043, ar: "خميرة فورية"}
+chicken_broth:    {fdc_id: 174536, ar: "شوربة فراخ"}
+cinnamon:         {fdc_id: 171320, ar: "قرفة"}
+cumin:            {fdc_id: 170923, ar: "كمون"}
+paprika:          {fdc_id: 171329, ar: "بابريكا"}
+turmeric:         {fdc_id: 172231, ar: "كركم"}
+black_pepper:     {fdc_id: 170931, ar: "فلفل أسود"}
+salt:             {fdc_id: 173468, ar: "ملح"}
+vinegar:          {fdc_id: 173469, ar: "خل تفاح"}
+balsamic:         {fdc_id: 172241, ar: "خل بلسميك"}
+mustard:          {fdc_id: 172234, ar: "مستردة"}
+soy_sauce_light:  {fdc_id: 172474, ar: "صويا صوص قليل الصوديوم"}
+sriracha:         {fdc_id: 171186, ar: "صوص سريراتشا"}

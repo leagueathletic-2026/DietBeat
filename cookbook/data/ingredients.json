@@ -1,0 +1,2243 @@
+{
+ "almond_milk": {
+  "ar": "لبن لوز غير محلّى",
+  "fdc_id": 174832,
+  "per100g": {
+   "carbs": 1.31,
+   "fat": 0.96,
+   "fiber": 0.2,
+   "kcal": 15.0,
+   "protein": 0.4,
+   "sodium_mg": 72.0,
+   "sugar": 0.81
+  },
+  "usda_name": "Beverages, almond milk, unsweetened, shelf stable"
+ },
+ "almonds": {
+  "ar": "لوز",
+  "fdc_id": 170567,
+  "per100g": {
+   "carbs": 21.55,
+   "fat": 49.93,
+   "fiber": 12.5,
+   "kcal": 579.0,
+   "protein": 21.15,
+   "sodium_mg": 1.0,
+   "sugar": 4.35
+  },
+  "usda_name": "Nuts, almonds"
+ },
+ "apple": {
+  "ar": "تفاح",
+  "fdc_id": 171688,
+  "per100g": {
+   "carbs": 13.81,
+   "fat": 0.17,
+   "fiber": 2.4,
+   "kcal": 52.0,
+   "protein": 0.26,
+   "sodium_mg": 1.0,
+   "sugar": 10.39
+  },
+  "usda_name": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)"
+ },
+ "apricots_dried": {
+  "ar": "مشمش مجفف",
+  "fdc_id": 173941,
+  "per100g": {
+   "carbs": 62.64,
+   "fat": 0.51,
+   "fiber": 7.3,
+   "kcal": 241.0,
+   "protein": 3.39,
+   "sodium_mg": 10.0,
+   "sugar": 53.44
+  },
+  "usda_name": "Apricots, dried, sulfured, uncooked"
+ },
+ "arugula": {
+  "ar": "جرجير",
+  "fdc_id": 169387,
+  "per100g": {
+   "carbs": 3.65,
+   "fat": 0.66,
+   "fiber": 1.6,
+   "kcal": 25.0,
+   "protein": 2.58,
+   "sodium_mg": 27.0,
+   "sugar": 2.05
+  },
+  "usda_name": "Arugula, raw"
+ },
+ "asparagus": {
+  "ar": "هليون",
+  "fdc_id": 168389,
+  "per100g": {
+   "carbs": 3.88,
+   "fat": 0.12,
+   "fiber": 2.1,
+   "kcal": 20.0,
+   "protein": 2.2,
+   "sodium_mg": 2.0,
+   "sugar": 1.88
+  },
+  "usda_name": "Asparagus, raw"
+ },
+ "avocado": {
+  "ar": "أفوكادو",
+  "fdc_id": 171705,
+  "per100g": {
+   "carbs": 8.53,
+   "fat": 14.66,
+   "fiber": 6.7,
+   "kcal": 160.0,
+   "protein": 2.0,
+   "sodium_mg": 7.0,
+   "sugar": 0.66
+  },
+  "usda_name": "Avocados, raw, all commercial varieties"
+ },
+ "baking_powder": {
+  "ar": "بيكنج باودر",
+  "fdc_id": 172803,
+  "per100g": {
+   "carbs": 27.7,
+   "fat": 0.0,
+   "fiber": 0.2,
+   "kcal": 53.0,
+   "protein": 0.0,
+   "sodium_mg": 10600.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+ },
+ "balsamic": {
+  "ar": "خل بلسميك",
+  "fdc_id": 172241,
+  "per100g": {
+   "carbs": 17.03,
+   "fat": 0.0,
+   "fiber": 0.0,
+   "kcal": 88.0,
+   "protein": 0.49,
+   "sodium_mg": 23.0,
+   "sugar": 14.95
+  },
+  "usda_name": "Vinegar, balsamic"
+ },
+ "banana": {
+  "ar": "موز",
+  "fdc_id": 173944,
+  "per100g": {
+   "carbs": 22.84,
+   "fat": 0.33,
+   "fiber": 2.6,
+   "kcal": 89.0,
+   "protein": 1.09,
+   "sodium_mg": 1.0,
+   "sugar": 12.23
+  },
+  "usda_name": "Bananas, raw"
+ },
+ "barley": {
+  "ar": "شعير مقشور",
+  "fdc_id": 170284,
+  "per100g": {
+   "carbs": 77.72,
+   "fat": 1.16,
+   "fiber": 15.6,
+   "kcal": 352.0,
+   "protein": 9.91,
+   "sodium_mg": 9.0,
+   "sugar": 0.8
+  },
+  "usda_name": "Barley, pearled, raw"
+ },
+ "basil": {
+  "ar": "ريحان",
+  "fdc_id": 172232,
+  "per100g": {
+   "carbs": 2.65,
+   "fat": 0.64,
+   "fiber": 1.6,
+   "kcal": 23.0,
+   "protein": 3.15,
+   "sodium_mg": 4.0,
+   "sugar": 0.3
+  },
+  "usda_name": "Basil, fresh"
+ },
+ "beef_ground_90": {
+  "ar": "لحمة مفرومة (10% دهون)",
+  "fdc_id": 174030,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 10.0,
+   "fiber": 0.0,
+   "kcal": 176.0,
+   "protein": 20.0,
+   "sodium_mg": 66.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Beef, ground, 90% lean meat / 10% fat, raw"
+ },
+ "beef_lean": {
+  "ar": "لحمة حمراء صافية",
+  "fdc_id": 171759,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 2.45,
+   "fiber": 0.0,
+   "kcal": 116.0,
+   "protein": 23.59,
+   "sodium_mg": 55.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Beef, round, top round steak, boneless, separable lean only, trimmed to 0\" fat, select, raw"
+ },
+ "beef_lean_ground": {
+  "ar": "لحمة مفرومة قليلة الدهن (5%)",
+  "fdc_id": 171790,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 5.0,
+   "fiber": 0.0,
+   "kcal": 137.0,
+   "protein": 21.41,
+   "sodium_mg": 66.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Beef, ground, 95% lean meat / 5% fat, raw"
+ },
+ "beef_liver": {
+  "ar": "كبدة بقري",
+  "fdc_id": 169451,
+  "per100g": {
+   "carbs": 3.89,
+   "fat": 3.63,
+   "fiber": 0.0,
+   "kcal": 135.0,
+   "protein": 20.36,
+   "sodium_mg": 69.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Beef, variety meats and by-products, liver, raw"
+ },
+ "beet": {
+  "ar": "بنجر",
+  "fdc_id": 169145,
+  "per100g": {
+   "carbs": 9.56,
+   "fat": 0.17,
+   "fiber": 2.8,
+   "kcal": 43.0,
+   "protein": 1.61,
+   "sodium_mg": 78.0,
+   "sugar": 6.76
+  },
+  "usda_name": "Beets, raw"
+ },
+ "bell_pepper_green": {
+  "ar": "فلفل أخضر رومي",
+  "fdc_id": 170427,
+  "per100g": {
+   "carbs": 4.64,
+   "fat": 0.17,
+   "fiber": 1.7,
+   "kcal": 20.0,
+   "protein": 0.86,
+   "sodium_mg": 3.0,
+   "sugar": 2.4
+  },
+  "usda_name": "Peppers, sweet, green, raw"
+ },
+ "bell_pepper_red": {
+  "ar": "فلفل ألوان أحمر",
+  "fdc_id": 170108,
+  "per100g": {
+   "carbs": 6.03,
+   "fat": 0.3,
+   "fiber": 2.1,
+   "kcal": 26.0,
+   "protein": 0.99,
+   "sodium_mg": 4.0,
+   "sugar": 4.2
+  },
+  "usda_name": "Peppers, sweet, red, raw"
+ },
+ "black_beans_canned": {
+  "ar": "فاصوليا سوداء معلبة",
+  "fdc_id": 175238,
+  "per100g": {
+   "carbs": 16.55,
+   "fat": 0.29,
+   "fiber": 6.9,
+   "kcal": 91.0,
+   "protein": 6.03,
+   "sodium_mg": 138.0,
+   "sugar": 0.23
+  },
+  "usda_name": "Beans, black, mature seeds, canned, low sodium"
+ },
+ "black_pepper": {
+  "ar": "فلفل أسود",
+  "fdc_id": 170931,
+  "per100g": {
+   "carbs": 63.95,
+   "fat": 3.26,
+   "fiber": 25.3,
+   "kcal": 251.0,
+   "protein": 10.39,
+   "sodium_mg": 20.0,
+   "sugar": 0.64
+  },
+  "usda_name": "Spices, pepper, black"
+ },
+ "blueberries": {
+  "ar": "توت أزرق",
+  "fdc_id": 171711,
+  "per100g": {
+   "carbs": 14.49,
+   "fat": 0.33,
+   "fiber": 2.4,
+   "kcal": 57.0,
+   "protein": 0.74,
+   "sodium_mg": 1.0,
+   "sugar": 9.96
+  },
+  "usda_name": "Blueberries, raw"
+ },
+ "bread_whole": {
+  "ar": "عيش توست أسمر",
+  "fdc_id": 172688,
+  "per100g": {
+   "carbs": 42.71,
+   "fat": 3.5,
+   "fiber": 6.0,
+   "kcal": 252.0,
+   "protein": 12.45,
+   "sodium_mg": 455.0,
+   "sugar": 4.34
+  },
+  "usda_name": "Bread, whole-wheat, commercially prepared"
+ },
+ "broccoli": {
+  "ar": "بروكلي",
+  "fdc_id": 170379,
+  "per100g": {
+   "carbs": 6.64,
+   "fat": 0.37,
+   "fiber": 2.6,
+   "kcal": 34.0,
+   "protein": 2.82,
+   "sodium_mg": 33.0,
+   "sugar": 1.7
+  },
+  "usda_name": "Broccoli, raw"
+ },
+ "bulgur": {
+  "ar": "برغل",
+  "fdc_id": 170688,
+  "per100g": {
+   "carbs": 75.87,
+   "fat": 1.33,
+   "fiber": 12.5,
+   "kcal": 342.0,
+   "protein": 12.29,
+   "sodium_mg": 17.0,
+   "sugar": 0.41
+  },
+  "usda_name": "Bulgur, dry"
+ },
+ "butter": {
+  "ar": "زبدة",
+  "fdc_id": 173430,
+  "per100g": {
+   "carbs": 0.06,
+   "fat": 81.11,
+   "fiber": 0.0,
+   "kcal": 717.0,
+   "protein": 0.85,
+   "sodium_mg": 11.0,
+   "sugar": 0.06
+  },
+  "usda_name": "Butter, without salt"
+ },
+ "butternut": {
+  "ar": "قرع بتر نت",
+  "fdc_id": 169295,
+  "per100g": {
+   "carbs": 11.69,
+   "fat": 0.1,
+   "fiber": 2.0,
+   "kcal": 45.0,
+   "protein": 1.0,
+   "sodium_mg": 4.0,
+   "sugar": 2.2
+  },
+  "usda_name": "Squash, winter, butternut, raw"
+ },
+ "cabbage": {
+  "ar": "كرنب أبيض",
+  "fdc_id": 169975,
+  "per100g": {
+   "carbs": 5.8,
+   "fat": 0.1,
+   "fiber": 2.5,
+   "kcal": 25.0,
+   "protein": 1.28,
+   "sodium_mg": 18.0,
+   "sugar": 3.2
+  },
+  "usda_name": "Cabbage, raw"
+ },
+ "cabbage_red": {
+  "ar": "كرنب أحمر",
+  "fdc_id": 169977,
+  "per100g": {
+   "carbs": 7.37,
+   "fat": 0.16,
+   "fiber": 2.1,
+   "kcal": 31.0,
+   "protein": 1.43,
+   "sodium_mg": 27.0,
+   "sugar": 3.83
+  },
+  "usda_name": "Cabbage, red, raw"
+ },
+ "carrot": {
+  "ar": "جزر",
+  "fdc_id": 170393,
+  "per100g": {
+   "carbs": 9.58,
+   "fat": 0.24,
+   "fiber": 2.8,
+   "kcal": 41.0,
+   "protein": 0.93,
+   "sodium_mg": 69.0,
+   "sugar": 4.74
+  },
+  "usda_name": "Carrots, raw"
+ },
+ "cashews": {
+  "ar": "كاجو",
+  "fdc_id": 170162,
+  "per100g": {
+   "carbs": 30.19,
+   "fat": 43.85,
+   "fiber": 3.3,
+   "kcal": 553.0,
+   "protein": 18.22,
+   "sodium_mg": 12.0,
+   "sugar": 5.91
+  },
+  "usda_name": "Nuts, cashew nuts, raw"
+ },
+ "cauliflower": {
+  "ar": "قرنبيط",
+  "fdc_id": 169986,
+  "per100g": {
+   "carbs": 4.97,
+   "fat": 0.28,
+   "fiber": 2.0,
+   "kcal": 25.0,
+   "protein": 1.92,
+   "sodium_mg": 30.0,
+   "sugar": 1.91
+  },
+  "usda_name": "Cauliflower, raw"
+ },
+ "celery": {
+  "ar": "كرفس",
+  "fdc_id": 169988,
+  "per100g": {
+   "carbs": 2.97,
+   "fat": 0.17,
+   "fiber": 1.6,
+   "kcal": 14.0,
+   "protein": 0.69,
+   "sodium_mg": 80.0,
+   "sugar": 1.34
+  },
+  "usda_name": "Celery, raw"
+ },
+ "chia": {
+  "ar": "بذور شيا",
+  "fdc_id": 170554,
+  "per100g": {
+   "carbs": 42.12,
+   "fat": 30.74,
+   "fiber": 34.4,
+   "kcal": 486.0,
+   "protein": 16.54,
+   "sodium_mg": 16.0,
+   "sugar": null
+  },
+  "usda_name": "Seeds, chia seeds, dried"
+ },
+ "chicken_breast": {
+  "ar": "صدور فراخ",
+  "fdc_id": 171077,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 2.62,
+   "fiber": 0.0,
+   "kcal": 120.0,
+   "protein": 22.5,
+   "sodium_mg": 45.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+ },
+ "chicken_broth": {
+  "ar": "شوربة فراخ",
+  "fdc_id": 174536,
+  "per100g": {
+   "carbs": 0.44,
+   "fat": 0.21,
+   "fiber": 0.0,
+   "kcal": 6.0,
+   "protein": 0.64,
+   "sodium_mg": 371.0,
+   "sugar": 0.43
+  },
+  "usda_name": "Soup, chicken broth, ready-to-serve"
+ },
+ "chicken_thigh": {
+  "ar": "أوراك فراخ منزوعة الجلد",
+  "fdc_id": 173627,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 4.12,
+   "fiber": 0.0,
+   "kcal": 121.0,
+   "protein": 19.66,
+   "sodium_mg": 95.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw"
+ },
+ "chickpeas_canned": {
+  "ar": "حمص مسلوق/معلب (مصفى)",
+  "fdc_id": 173801,
+  "per100g": {
+   "carbs": 22.87,
+   "fat": 2.47,
+   "fiber": 6.3,
+   "kcal": 138.0,
+   "protein": 7.04,
+   "sodium_mg": 212.0,
+   "sugar": 4.0
+  },
+  "usda_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water"
+ },
+ "chickpeas_dry": {
+  "ar": "حمص ناشف",
+  "fdc_id": 173756,
+  "per100g": {
+   "carbs": 62.95,
+   "fat": 6.04,
+   "fiber": 12.2,
+   "kcal": 378.0,
+   "protein": 20.47,
+   "sodium_mg": 24.0,
+   "sugar": 10.7
+  },
+  "usda_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+ },
+ "chili_green": {
+  "ar": "فلفل حار أخضر",
+  "fdc_id": 170497,
+  "per100g": {
+   "carbs": 9.46,
+   "fat": 0.2,
+   "fiber": 1.5,
+   "kcal": 40.0,
+   "protein": 2.0,
+   "sodium_mg": 7.0,
+   "sugar": 5.1
+  },
+  "usda_name": "Peppers, hot chili, green, raw"
+ },
+ "cilantro": {
+  "ar": "كزبرة خضراء",
+  "fdc_id": 169997,
+  "per100g": {
+   "carbs": 3.67,
+   "fat": 0.52,
+   "fiber": 2.8,
+   "kcal": 23.0,
+   "protein": 2.13,
+   "sodium_mg": 46.0,
+   "sugar": 0.87
+  },
+  "usda_name": "Coriander (cilantro) leaves, raw"
+ },
+ "cinnamon": {
+  "ar": "قرفة",
+  "fdc_id": 171320,
+  "per100g": {
+   "carbs": 80.59,
+   "fat": 1.24,
+   "fiber": 53.1,
+   "kcal": 247.0,
+   "protein": 3.99,
+   "sodium_mg": 10.0,
+   "sugar": 2.17
+  },
+  "usda_name": "Spices, cinnamon, ground"
+ },
+ "cocoa": {
+  "ar": "كاكاو خام غير محلّى",
+  "fdc_id": 169593,
+  "per100g": {
+   "carbs": 57.9,
+   "fat": 13.7,
+   "fiber": 37.0,
+   "kcal": 228.0,
+   "protein": 19.6,
+   "sodium_mg": 21.0,
+   "sugar": 1.75
+  },
+  "usda_name": "Cocoa, dry powder, unsweetened"
+ },
+ "coconut_dried": {
+  "ar": "جوز هند مبشور غير محلّى",
+  "fdc_id": 170170,
+  "per100g": {
+   "carbs": 23.65,
+   "fat": 64.53,
+   "fiber": 16.3,
+   "kcal": 660.0,
+   "protein": 6.88,
+   "sodium_mg": 37.0,
+   "sugar": 7.35
+  },
+  "usda_name": "Nuts, coconut meat, dried (desiccated), not sweetened"
+ },
+ "coconut_oil": {
+  "ar": "زيت جوز الهند",
+  "fdc_id": 171412,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 99.06,
+   "fiber": 0.0,
+   "kcal": 892.0,
+   "protein": 0.0,
+   "sodium_mg": 0.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Oil, coconut"
+ },
+ "cod": {
+  "ar": "سمك فيليه أبيض (قد)",
+  "fdc_id": 171955,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 0.67,
+   "fiber": 0.0,
+   "kcal": 82.0,
+   "protein": 17.81,
+   "sodium_mg": 54.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, cod, Atlantic, raw"
+ },
+ "corn": {
+  "ar": "ذرة حلوة",
+  "fdc_id": 169998,
+  "per100g": {
+   "carbs": 18.7,
+   "fat": 1.35,
+   "fiber": 2.0,
+   "kcal": 86.0,
+   "protein": 3.27,
+   "sodium_mg": 15.0,
+   "sugar": 6.26
+  },
+  "usda_name": "Corn, sweet, yellow, raw"
+ },
+ "cornstarch": {
+  "ar": "نشا ذرة",
+  "fdc_id": 169698,
+  "per100g": {
+   "carbs": 91.27,
+   "fat": 0.05,
+   "fiber": 0.9,
+   "kcal": 381.0,
+   "protein": 0.26,
+   "sodium_mg": 9.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Cornstarch"
+ },
+ "cottage_cheese": {
+  "ar": "جبنة قريش / كوتيج (1%)",
+  "fdc_id": 173417,
+  "per100g": {
+   "carbs": 2.72,
+   "fat": 1.02,
+   "fiber": 0.0,
+   "kcal": 72.0,
+   "protein": 12.39,
+   "sodium_mg": 406.0,
+   "sugar": 2.72
+  },
+  "usda_name": "Cheese, cottage, lowfat, 1% milkfat"
+ },
+ "couscous": {
+  "ar": "كسكسي",
+  "fdc_id": 169699,
+  "per100g": {
+   "carbs": 77.43,
+   "fat": 0.64,
+   "fiber": 5.0,
+   "kcal": 376.0,
+   "protein": 12.76,
+   "sodium_mg": 10.0,
+   "sugar": null
+  },
+  "usda_name": "Couscous, dry"
+ },
+ "cream_cheese": {
+  "ar": "جبنة كريمي",
+  "fdc_id": 173418,
+  "per100g": {
+   "carbs": 5.52,
+   "fat": 34.44,
+   "fiber": 0.0,
+   "kcal": 350.0,
+   "protein": 6.15,
+   "sodium_mg": 314.0,
+   "sugar": 3.76
+  },
+  "usda_name": "Cheese, cream"
+ },
+ "cream_cheese_light": {
+  "ar": "جبنة كريمي لايت",
+  "fdc_id": 169079,
+  "per100g": {
+   "carbs": 6.73,
+   "fat": 16.67,
+   "fiber": 0.0,
+   "kcal": 208.0,
+   "protein": 7.85,
+   "sodium_mg": 317.0,
+   "sugar": 3.3
+  },
+  "usda_name": "Cheese, cream, low fat"
+ },
+ "crispbread_rye": {
+  "ar": "خبز رقائق الجاودار (كريسب بريد)",
+  "fdc_id": 172739,
+  "per100g": {
+   "carbs": 82.2,
+   "fat": 1.3,
+   "fiber": 16.5,
+   "kcal": 366.0,
+   "protein": 7.9,
+   "sodium_mg": 410.0,
+   "sugar": 1.07
+  },
+  "usda_name": "Crackers, crispbread, rye"
+ },
+ "cucumber": {
+  "ar": "خيار",
+  "fdc_id": 168409,
+  "per100g": {
+   "carbs": 3.63,
+   "fat": 0.11,
+   "fiber": 0.5,
+   "kcal": 15.0,
+   "protein": 0.65,
+   "sodium_mg": 2.0,
+   "sugar": 1.67
+  },
+  "usda_name": "Cucumber, with peel, raw"
+ },
+ "cumin": {
+  "ar": "كمون",
+  "fdc_id": 170923,
+  "per100g": {
+   "carbs": 44.24,
+   "fat": 22.27,
+   "fiber": 10.5,
+   "kcal": 375.0,
+   "protein": 17.81,
+   "sodium_mg": 168.0,
+   "sugar": 2.25
+  },
+  "usda_name": "Spices, cumin seed"
+ },
+ "dark_chocolate": {
+  "ar": "شوكولاتة داكنة 70-85%",
+  "fdc_id": 170273,
+  "per100g": {
+   "carbs": 45.9,
+   "fat": 42.63,
+   "fiber": 10.9,
+   "kcal": 598.0,
+   "protein": 7.79,
+   "sodium_mg": 20.0,
+   "sugar": 23.99
+  },
+  "usda_name": "Chocolate, dark, 70-85% cacao solids"
+ },
+ "dates": {
+  "ar": "بلح / عجوة",
+  "fdc_id": 171726,
+  "per100g": {
+   "carbs": 75.03,
+   "fat": 0.39,
+   "fiber": 8.0,
+   "kcal": 282.0,
+   "protein": 2.45,
+   "sodium_mg": 2.0,
+   "sugar": 63.35
+  },
+  "usda_name": "Dates, deglet noor"
+ },
+ "dill": {
+  "ar": "شبت",
+  "fdc_id": 172233,
+  "per100g": {
+   "carbs": 7.02,
+   "fat": 1.12,
+   "fiber": 2.1,
+   "kcal": 43.0,
+   "protein": 3.46,
+   "sodium_mg": 61.0,
+   "sugar": null
+  },
+  "usda_name": "Dill weed, fresh"
+ },
+ "edamame": {
+  "ar": "إدامامي (فول صويا أخضر)",
+  "fdc_id": 168410,
+  "per100g": {
+   "carbs": 7.61,
+   "fat": 4.73,
+   "fiber": 4.8,
+   "kcal": 109.0,
+   "protein": 11.22,
+   "sodium_mg": 6.0,
+   "sugar": 2.48
+  },
+  "usda_name": "Edamame, frozen, unprepared"
+ },
+ "egg": {
+  "ar": "بيض",
+  "fdc_id": 171287,
+  "per100g": {
+   "carbs": 0.72,
+   "fat": 9.51,
+   "fiber": 0.0,
+   "kcal": 143.0,
+   "protein": 12.56,
+   "sodium_mg": 142.0,
+   "sugar": 0.37
+  },
+  "usda_name": "Egg, whole, raw, fresh"
+ },
+ "egg_white": {
+  "ar": "بياض بيض",
+  "fdc_id": 172183,
+  "per100g": {
+   "carbs": 0.73,
+   "fat": 0.17,
+   "fiber": 0.0,
+   "kcal": 52.0,
+   "protein": 10.9,
+   "sodium_mg": 166.0,
+   "sugar": 0.71
+  },
+  "usda_name": "Egg, white, raw, fresh"
+ },
+ "eggplant": {
+  "ar": "باذنجان",
+  "fdc_id": 169228,
+  "per100g": {
+   "carbs": 5.88,
+   "fat": 0.18,
+   "fiber": 3.0,
+   "kcal": 25.0,
+   "protein": 0.98,
+   "sodium_mg": 2.0,
+   "sugar": 3.53
+  },
+  "usda_name": "Eggplant, raw"
+ },
+ "fava_canned": {
+  "ar": "فول مدمس معلب",
+  "fdc_id": 173754,
+  "per100g": {
+   "carbs": 12.41,
+   "fat": 0.22,
+   "fiber": 3.7,
+   "kcal": 71.0,
+   "protein": 5.47,
+   "sodium_mg": 453.0,
+   "sugar": null
+  },
+  "usda_name": "Broadbeans (fava beans), mature seeds, canned"
+ },
+ "fava_dry": {
+  "ar": "فول ناشف مقشور",
+  "fdc_id": 175205,
+  "per100g": {
+   "carbs": 58.29,
+   "fat": 1.53,
+   "fiber": 25.0,
+   "kcal": 341.0,
+   "protein": 26.12,
+   "sodium_mg": 13.0,
+   "sugar": 5.7
+  },
+  "usda_name": "Broadbeans (fava beans), mature seeds, raw"
+ },
+ "feta": {
+  "ar": "جبنة فيتا",
+  "fdc_id": 173420,
+  "per100g": {
+   "carbs": 3.88,
+   "fat": 21.49,
+   "fiber": 0.0,
+   "kcal": 265.0,
+   "protein": 14.21,
+   "sodium_mg": 1139.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Cheese, feta"
+ },
+ "figs": {
+  "ar": "تين طازج",
+  "fdc_id": 173021,
+  "per100g": {
+   "carbs": 19.18,
+   "fat": 0.3,
+   "fiber": 2.9,
+   "kcal": 74.0,
+   "protein": 0.75,
+   "sodium_mg": 1.0,
+   "sugar": 16.26
+  },
+  "usda_name": "Figs, raw"
+ },
+ "flaxseed": {
+  "ar": "بذر كتان",
+  "fdc_id": 169414,
+  "per100g": {
+   "carbs": 28.88,
+   "fat": 42.16,
+   "fiber": 27.3,
+   "kcal": 534.0,
+   "protein": 18.29,
+   "sodium_mg": 30.0,
+   "sugar": 1.55
+  },
+  "usda_name": "Seeds, flaxseed"
+ },
+ "flour_white": {
+  "ar": "دقيق أبيض",
+  "fdc_id": 169761,
+  "per100g": {
+   "carbs": 76.31,
+   "fat": 0.98,
+   "fiber": 2.7,
+   "kcal": 364.0,
+   "protein": 10.33,
+   "sodium_mg": 2.0,
+   "sugar": 0.27
+  },
+  "usda_name": "Wheat flour, white, all-purpose, unenriched"
+ },
+ "flour_whole": {
+  "ar": "دقيق قمح كامل",
+  "fdc_id": 168893,
+  "per100g": {
+   "carbs": 71.97,
+   "fat": 2.5,
+   "fiber": 10.7,
+   "kcal": 340.0,
+   "protein": 13.21,
+   "sodium_mg": 2.0,
+   "sugar": 0.41
+  },
+  "usda_name": "Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+ },
+ "garlic": {
+  "ar": "ثوم",
+  "fdc_id": 169230,
+  "per100g": {
+   "carbs": 33.06,
+   "fat": 0.5,
+   "fiber": 2.1,
+   "kcal": 149.0,
+   "protein": 6.36,
+   "sodium_mg": 17.0,
+   "sugar": 1.0
+  },
+  "usda_name": "Garlic, raw"
+ },
+ "gelatin": {
+  "ar": "جيلاتين بودرة",
+  "fdc_id": 169599,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 0.1,
+   "fiber": 0.0,
+   "kcal": 335.0,
+   "protein": 85.6,
+   "sodium_mg": 196.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Gelatins, dry powder, unsweetened"
+ },
+ "ginger": {
+  "ar": "جنزبيل طازج",
+  "fdc_id": 169231,
+  "per100g": {
+   "carbs": 17.77,
+   "fat": 0.75,
+   "fiber": 2.0,
+   "kcal": 80.0,
+   "protein": 1.82,
+   "sodium_mg": 13.0,
+   "sugar": 1.7
+  },
+  "usda_name": "Ginger root, raw"
+ },
+ "grapes": {
+  "ar": "عنب",
+  "fdc_id": 174683,
+  "per100g": {
+   "carbs": 18.1,
+   "fat": 0.16,
+   "fiber": 0.9,
+   "kcal": 69.0,
+   "protein": 0.72,
+   "sodium_mg": 2.0,
+   "sugar": 15.48
+  },
+  "usda_name": "Grapes, red or green (European type, such as Thompson seedless), raw"
+ },
+ "greek_yogurt_0": {
+  "ar": "زبادي يوناني خالي الدسم",
+  "fdc_id": 170894,
+  "per100g": {
+   "carbs": 3.6,
+   "fat": 0.39,
+   "fiber": 0.0,
+   "kcal": 59.0,
+   "protein": 10.19,
+   "sodium_mg": 36.0,
+   "sugar": 3.24
+  },
+  "usda_name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)"
+ },
+ "greek_yogurt_2": {
+  "ar": "زبادي يوناني قليل الدسم",
+  "fdc_id": 170903,
+  "per100g": {
+   "carbs": 3.94,
+   "fat": 1.92,
+   "fiber": 0.0,
+   "kcal": 73.0,
+   "protein": 9.95,
+   "sodium_mg": 34.0,
+   "sugar": 3.56
+  },
+  "usda_name": "Yogurt, Greek, plain, lowfat"
+ },
+ "green_beans": {
+  "ar": "فاصوليا خضراء",
+  "fdc_id": 169961,
+  "per100g": {
+   "carbs": 6.97,
+   "fat": 0.22,
+   "fiber": 2.7,
+   "kcal": 31.0,
+   "protein": 1.83,
+   "sodium_mg": 6.0,
+   "sugar": 3.26
+  },
+  "usda_name": "Beans, snap, green, raw"
+ },
+ "green_onion": {
+  "ar": "بصل أخضر",
+  "fdc_id": 170005,
+  "per100g": {
+   "carbs": 7.34,
+   "fat": 0.19,
+   "fiber": 2.6,
+   "kcal": 32.0,
+   "protein": 1.83,
+   "sodium_mg": 16.0,
+   "sugar": 2.33
+  },
+  "usda_name": "Onions, spring or scallions (includes tops and bulb), raw"
+ },
+ "guava": {
+  "ar": "جوافة",
+  "fdc_id": 173044,
+  "per100g": {
+   "carbs": 14.32,
+   "fat": 0.95,
+   "fiber": 5.4,
+   "kcal": 68.0,
+   "protein": 2.55,
+   "sodium_mg": 2.0,
+   "sugar": 8.92
+  },
+  "usda_name": "Guavas, common, raw"
+ },
+ "honey": {
+  "ar": "عسل نحل",
+  "fdc_id": 169640,
+  "per100g": {
+   "carbs": 82.4,
+   "fat": 0.0,
+   "fiber": 0.2,
+   "kcal": 304.0,
+   "protein": 0.3,
+   "sodium_mg": 4.0,
+   "sugar": 82.12
+  },
+  "usda_name": "Honey"
+ },
+ "hummus": {
+  "ar": "حمص بالطحينة (جاهز)",
+  "fdc_id": 174289,
+  "per100g": {
+   "carbs": 15.0,
+   "fat": 17.82,
+   "fiber": 5.5,
+   "kcal": 237.0,
+   "protein": 7.78,
+   "sodium_mg": 426.0,
+   "sugar": 0.62
+  },
+  "usda_name": "Hummus, commercial"
+ },
+ "kale": {
+  "ar": "كيل",
+  "fdc_id": 168421,
+  "per100g": {
+   "carbs": 4.42,
+   "fat": 1.49,
+   "fiber": 4.1,
+   "kcal": 35.0,
+   "protein": 2.92,
+   "sodium_mg": 53.0,
+   "sugar": 0.99
+  },
+  "usda_name": "Kale, raw"
+ },
+ "kidney_canned": {
+  "ar": "فاصوليا حمراء معلبة (مصفاة)",
+  "fdc_id": 175243,
+  "per100g": {
+   "carbs": 20.8,
+   "fat": 0.93,
+   "fiber": 6.0,
+   "kcal": 121.0,
+   "protein": 8.12,
+   "sodium_mg": 208.0,
+   "sugar": null
+  },
+  "usda_name": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+ },
+ "kiwi": {
+  "ar": "كيوي",
+  "fdc_id": 168153,
+  "per100g": {
+   "carbs": 14.66,
+   "fat": 0.52,
+   "fiber": 3.0,
+   "kcal": 61.0,
+   "protein": 1.14,
+   "sodium_mg": 3.0,
+   "sugar": 8.99
+  },
+  "usda_name": "Kiwifruit, green, raw"
+ },
+ "lamb_lean": {
+  "ar": "لحم ضاني صافي",
+  "fdc_id": 174313,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 4.51,
+   "fiber": 0.0,
+   "kcal": 128.0,
+   "protein": 20.56,
+   "sodium_mg": 62.0,
+   "sugar": null
+  },
+  "usda_name": "Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, raw"
+ },
+ "leek": {
+  "ar": "كرات",
+  "fdc_id": 169246,
+  "per100g": {
+   "carbs": 14.15,
+   "fat": 0.3,
+   "fiber": 1.8,
+   "kcal": 61.0,
+   "protein": 1.5,
+   "sodium_mg": 20.0,
+   "sugar": 3.9
+  },
+  "usda_name": "Leeks, (bulb and lower leaf-portion), raw"
+ },
+ "lemon_juice": {
+  "ar": "عصير ليمون",
+  "fdc_id": 167747,
+  "per100g": {
+   "carbs": 6.9,
+   "fat": 0.24,
+   "fiber": 0.3,
+   "kcal": 22.0,
+   "protein": 0.35,
+   "sodium_mg": 1.0,
+   "sugar": 2.52
+  },
+  "usda_name": "Lemon juice, raw"
+ },
+ "lentils_brown": {
+  "ar": "عدس بجبة",
+  "fdc_id": 172420,
+  "per100g": {
+   "carbs": 63.35,
+   "fat": 1.06,
+   "fiber": 10.7,
+   "kcal": 352.0,
+   "protein": 24.63,
+   "sodium_mg": 6.0,
+   "sugar": 2.03
+  },
+  "usda_name": "Lentils, raw"
+ },
+ "lentils_red": {
+  "ar": "عدس أصفر/أحمر",
+  "fdc_id": 174284,
+  "per100g": {
+   "carbs": 63.1,
+   "fat": 2.17,
+   "fiber": 10.8,
+   "kcal": 358.0,
+   "protein": 23.91,
+   "sodium_mg": 7.0,
+   "sugar": null
+  },
+  "usda_name": "Lentils, pink or red, raw"
+ },
+ "mackerel": {
+  "ar": "سمك ماكريل",
+  "fdc_id": 175119,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 13.89,
+   "fiber": 0.0,
+   "kcal": 205.0,
+   "protein": 18.6,
+   "sodium_mg": 90.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, mackerel, Atlantic, raw"
+ },
+ "mango": {
+  "ar": "مانجا",
+  "fdc_id": 169910,
+  "per100g": {
+   "carbs": 14.98,
+   "fat": 0.38,
+   "fiber": 1.6,
+   "kcal": 60.0,
+   "protein": 0.82,
+   "sodium_mg": 1.0,
+   "sugar": 13.66
+  },
+  "usda_name": "Mangos, raw"
+ },
+ "milk_1": {
+  "ar": "لبن قليل الدسم (1%)",
+  "fdc_id": 170872,
+  "per100g": {
+   "carbs": 4.99,
+   "fat": 0.97,
+   "fiber": 0.0,
+   "kcal": 42.0,
+   "protein": 3.37,
+   "sodium_mg": 44.0,
+   "sugar": 5.2
+  },
+  "usda_name": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D"
+ },
+ "milk_skim": {
+  "ar": "لبن خالي الدسم",
+  "fdc_id": 171269,
+  "per100g": {
+   "carbs": 4.96,
+   "fat": 0.08,
+   "fiber": 0.0,
+   "kcal": 34.0,
+   "protein": 3.37,
+   "sodium_mg": 42.0,
+   "sugar": 5.09
+  },
+  "usda_name": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)"
+ },
+ "milk_whole": {
+  "ar": "لبن كامل الدسم",
+  "fdc_id": 171265,
+  "per100g": {
+   "carbs": 4.8,
+   "fat": 3.25,
+   "fiber": 0.0,
+   "kcal": 61.0,
+   "protein": 3.15,
+   "sodium_mg": 43.0,
+   "sugar": 5.05
+  },
+  "usda_name": "Milk, whole, 3.25% milkfat, with added vitamin D"
+ },
+ "mint": {
+  "ar": "نعناع",
+  "fdc_id": 173475,
+  "per100g": {
+   "carbs": 8.41,
+   "fat": 0.73,
+   "fiber": 6.8,
+   "kcal": 44.0,
+   "protein": 3.29,
+   "sodium_mg": 30.0,
+   "sugar": null
+  },
+  "usda_name": "Spearmint, fresh"
+ },
+ "molasses": {
+  "ar": "عسل أسود",
+  "fdc_id": 168820,
+  "per100g": {
+   "carbs": 74.73,
+   "fat": 0.1,
+   "fiber": 0.0,
+   "kcal": 290.0,
+   "protein": 0.0,
+   "sodium_mg": 37.0,
+   "sugar": 74.72
+  },
+  "usda_name": "Molasses"
+ },
+ "molokhia": {
+  "ar": "ملوخية خضراء",
+  "fdc_id": 168419,
+  "note": "USDA does not report fiber for this item; fiber counted as 0",
+  "per100g": {
+   "carbs": 5.8,
+   "fat": 0.25,
+   "fiber": 0.0,
+   "kcal": 34.0,
+   "protein": 4.65,
+   "sodium_mg": 8.0,
+   "sugar": null
+  },
+  "usda_name": "Jute, potherb, raw"
+ },
+ "mozzarella_light": {
+  "ar": "موتزاريلا لايت",
+  "fdc_id": 170847,
+  "per100g": {
+   "carbs": 2.77,
+   "fat": 15.92,
+   "fiber": 0.0,
+   "kcal": 254.0,
+   "protein": 24.26,
+   "sodium_mg": 619.0,
+   "sugar": 1.13
+  },
+  "usda_name": "Cheese, mozzarella, part skim milk"
+ },
+ "mullet": {
+  "ar": "سمك بوري",
+  "fdc_id": 175123,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 3.79,
+   "fiber": 0.0,
+   "kcal": 117.0,
+   "protein": 19.35,
+   "sodium_mg": 65.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, mullet, striped, raw"
+ },
+ "mushrooms": {
+  "ar": "مشروم",
+  "fdc_id": 169251,
+  "per100g": {
+   "carbs": 3.26,
+   "fat": 0.34,
+   "fiber": 1.0,
+   "kcal": 22.0,
+   "protein": 3.09,
+   "sodium_mg": 5.0,
+   "sugar": 1.98
+  },
+  "usda_name": "Mushrooms, white, raw"
+ },
+ "mustard": {
+  "ar": "مستردة",
+  "fdc_id": 172234,
+  "per100g": {
+   "carbs": 5.83,
+   "fat": 3.34,
+   "fiber": 4.0,
+   "kcal": 60.0,
+   "protein": 3.74,
+   "sodium_mg": 1104.0,
+   "sugar": 0.92
+  },
+  "usda_name": "Mustard, prepared, yellow"
+ },
+ "oat_bran": {
+  "ar": "نخالة شوفان",
+  "fdc_id": 168872,
+  "per100g": {
+   "carbs": 66.22,
+   "fat": 7.03,
+   "fiber": 15.4,
+   "kcal": 246.0,
+   "protein": 17.3,
+   "sodium_mg": 4.0,
+   "sugar": 1.45
+  },
+  "usda_name": "Oat bran, raw"
+ },
+ "oats": {
+  "ar": "شوفان",
+  "fdc_id": 173904,
+  "per100g": {
+   "carbs": 67.7,
+   "fat": 6.52,
+   "fiber": 10.1,
+   "kcal": 379.0,
+   "protein": 13.15,
+   "sodium_mg": 6.0,
+   "sugar": 0.99
+  },
+  "usda_name": "Cereals, oats, regular and quick, not fortified, dry"
+ },
+ "okra": {
+  "ar": "بامية",
+  "fdc_id": 169260,
+  "per100g": {
+   "carbs": 7.45,
+   "fat": 0.19,
+   "fiber": 3.2,
+   "kcal": 33.0,
+   "protein": 1.93,
+   "sodium_mg": 7.0,
+   "sugar": 1.48
+  },
+  "usda_name": "Okra, raw"
+ },
+ "olive_oil": {
+  "ar": "زيت زيتون",
+  "fdc_id": 171413,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 100.0,
+   "fiber": 0.0,
+   "kcal": 884.0,
+   "protein": 0.0,
+   "sodium_mg": 2.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Oil, olive, salad or cooking"
+ },
+ "olives": {
+  "ar": "زيتون أسود",
+  "fdc_id": 169094,
+  "per100g": {
+   "carbs": 6.04,
+   "fat": 10.9,
+   "fiber": 1.6,
+   "kcal": 116.0,
+   "protein": 0.84,
+   "sodium_mg": 735.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Olives, ripe, canned (small-extra large)"
+ },
+ "onion": {
+  "ar": "بصل",
+  "fdc_id": 170000,
+  "per100g": {
+   "carbs": 9.34,
+   "fat": 0.1,
+   "fiber": 1.7,
+   "kcal": 40.0,
+   "protein": 1.1,
+   "sodium_mg": 4.0,
+   "sugar": 4.24
+  },
+  "usda_name": "Onions, raw"
+ },
+ "orange": {
+  "ar": "برتقال",
+  "fdc_id": 169097,
+  "per100g": {
+   "carbs": 11.75,
+   "fat": 0.12,
+   "fiber": 2.4,
+   "kcal": 47.0,
+   "protein": 0.94,
+   "sodium_mg": 0.0,
+   "sugar": 9.35
+  },
+  "usda_name": "Oranges, raw, all commercial varieties"
+ },
+ "paprika": {
+  "ar": "بابريكا",
+  "fdc_id": 171329,
+  "per100g": {
+   "carbs": 53.99,
+   "fat": 12.89,
+   "fiber": 34.9,
+   "kcal": 282.0,
+   "protein": 14.14,
+   "sodium_mg": 68.0,
+   "sugar": 10.34
+  },
+  "usda_name": "Spices, paprika"
+ },
+ "parmesan": {
+  "ar": "بارميزان مبشور",
+  "fdc_id": 171247,
+  "per100g": {
+   "carbs": 13.91,
+   "fat": 27.84,
+   "fiber": 0.0,
+   "kcal": 420.0,
+   "protein": 28.42,
+   "sodium_mg": 1804.0,
+   "sugar": 0.07
+  },
+  "usda_name": "Cheese, parmesan, grated"
+ },
+ "parsley": {
+  "ar": "بقدونس",
+  "fdc_id": 170416,
+  "per100g": {
+   "carbs": 6.33,
+   "fat": 0.79,
+   "fiber": 3.3,
+   "kcal": 36.0,
+   "protein": 2.97,
+   "sodium_mg": 56.0,
+   "sugar": 0.85
+  },
+  "usda_name": "Parsley, fresh"
+ },
+ "pasta": {
+  "ar": "مكرونة",
+  "fdc_id": 168927,
+  "per100g": {
+   "carbs": 74.67,
+   "fat": 1.51,
+   "fiber": 3.2,
+   "kcal": 371.0,
+   "protein": 13.04,
+   "sodium_mg": 6.0,
+   "sugar": 2.67
+  },
+  "usda_name": "Pasta, dry, unenriched"
+ },
+ "pasta_whole": {
+  "ar": "مكرونة قمح كامل",
+  "fdc_id": 169738,
+  "per100g": {
+   "carbs": 73.37,
+   "fat": 2.93,
+   "fiber": 9.2,
+   "kcal": 352.0,
+   "protein": 13.87,
+   "sodium_mg": 6.0,
+   "sugar": 2.74
+  },
+  "usda_name": "Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)"
+ },
+ "peach": {
+  "ar": "خوخ",
+  "fdc_id": 169928,
+  "per100g": {
+   "carbs": 9.54,
+   "fat": 0.25,
+   "fiber": 1.5,
+   "kcal": 39.0,
+   "protein": 0.91,
+   "sodium_mg": 0.0,
+   "sugar": 8.39
+  },
+  "usda_name": "Peaches, yellow, raw"
+ },
+ "peanut_butter": {
+  "ar": "زبدة فول سوداني (بدون سكر)",
+  "fdc_id": 172470,
+  "per100g": {
+   "carbs": 22.31,
+   "fat": 51.36,
+   "fiber": 5.0,
+   "kcal": 598.0,
+   "protein": 22.21,
+   "sodium_mg": 17.0,
+   "sugar": 10.49
+  },
+  "usda_name": "Peanut butter, smooth style, without salt"
+ },
+ "pear": {
+  "ar": "كمثرى",
+  "fdc_id": 169118,
+  "per100g": {
+   "carbs": 15.23,
+   "fat": 0.14,
+   "fiber": 3.1,
+   "kcal": 57.0,
+   "protein": 0.36,
+   "sodium_mg": 1.0,
+   "sugar": 9.75
+  },
+  "usda_name": "Pears, raw"
+ },
+ "peas": {
+  "ar": "بسلة مجمدة",
+  "fdc_id": 170016,
+  "per100g": {
+   "carbs": 13.62,
+   "fat": 0.4,
+   "fiber": 4.5,
+   "kcal": 77.0,
+   "protein": 5.22,
+   "sodium_mg": 108.0,
+   "sugar": 5.0
+  },
+  "usda_name": "Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)"
+ },
+ "pineapple": {
+  "ar": "أناناس",
+  "fdc_id": 169124,
+  "per100g": {
+   "carbs": 13.12,
+   "fat": 0.12,
+   "fiber": 1.4,
+   "kcal": 50.0,
+   "protein": 0.54,
+   "sodium_mg": 1.0,
+   "sugar": 9.85
+  },
+  "usda_name": "Pineapple, raw, all varieties"
+ },
+ "pistachios": {
+  "ar": "فستق",
+  "fdc_id": 170184,
+  "per100g": {
+   "carbs": 27.17,
+   "fat": 45.32,
+   "fiber": 10.6,
+   "kcal": 560.0,
+   "protein": 20.16,
+   "sodium_mg": 1.0,
+   "sugar": 7.66
+  },
+  "usda_name": "Nuts, pistachio nuts, raw"
+ },
+ "pita_whole": {
+  "ar": "عيش بلدي / شامي أسمر",
+  "fdc_id": 174916,
+  "per100g": {
+   "carbs": 55.89,
+   "fat": 1.71,
+   "fiber": 6.1,
+   "kcal": 262.0,
+   "protein": 9.8,
+   "sodium_mg": 421.0,
+   "sugar": 2.87
+  },
+  "usda_name": "Bread, pita, whole-wheat"
+ },
+ "pomegranate": {
+  "ar": "رمان",
+  "fdc_id": 169134,
+  "per100g": {
+   "carbs": 18.7,
+   "fat": 1.17,
+   "fiber": 4.0,
+   "kcal": 83.0,
+   "protein": 1.67,
+   "sodium_mg": 3.0,
+   "sugar": 13.67
+  },
+  "usda_name": "Pomegranates, raw"
+ },
+ "potato": {
+  "ar": "بطاطس",
+  "fdc_id": 170026,
+  "per100g": {
+   "carbs": 17.49,
+   "fat": 0.09,
+   "fiber": 2.1,
+   "kcal": 77.0,
+   "protein": 2.05,
+   "sodium_mg": 6.0,
+   "sugar": 0.82
+  },
+  "usda_name": "Potatoes, flesh and skin, raw"
+ },
+ "pumpkin": {
+  "ar": "قرع عسلي",
+  "fdc_id": 168448,
+  "per100g": {
+   "carbs": 6.5,
+   "fat": 0.1,
+   "fiber": 0.5,
+   "kcal": 26.0,
+   "protein": 1.0,
+   "sodium_mg": 1.0,
+   "sugar": 2.76
+  },
+  "usda_name": "Pumpkin, raw"
+ },
+ "pumpkin_seeds": {
+  "ar": "لب أبيض مقشر",
+  "fdc_id": 170556,
+  "per100g": {
+   "carbs": 10.71,
+   "fat": 49.05,
+   "fiber": 6.0,
+   "kcal": 559.0,
+   "protein": 30.23,
+   "sodium_mg": 7.0,
+   "sugar": 1.4
+  },
+  "usda_name": "Seeds, pumpkin and squash seed kernels, dried"
+ },
+ "quinoa": {
+  "ar": "كينوا",
+  "fdc_id": 168874,
+  "per100g": {
+   "carbs": 64.16,
+   "fat": 6.07,
+   "fiber": 7.0,
+   "kcal": 368.0,
+   "protein": 14.12,
+   "sodium_mg": 5.0,
+   "sugar": null
+  },
+  "usda_name": "Quinoa, uncooked"
+ },
+ "radish": {
+  "ar": "فجل",
+  "fdc_id": 169276,
+  "per100g": {
+   "carbs": 3.4,
+   "fat": 0.1,
+   "fiber": 1.6,
+   "kcal": 16.0,
+   "protein": 0.68,
+   "sodium_mg": 39.0,
+   "sugar": 1.86
+  },
+  "usda_name": "Radishes, raw"
+ },
+ "raisins": {
+  "ar": "زبيب",
+  "fdc_id": 168165,
+  "per100g": {
+   "carbs": 79.32,
+   "fat": 0.25,
+   "fiber": 4.5,
+   "kcal": 299.0,
+   "protein": 3.3,
+   "sodium_mg": 26.0,
+   "sugar": 65.18
+  },
+  "usda_name": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)"
+ },
+ "raspberries": {
+  "ar": "توت أحمر",
+  "fdc_id": 167755,
+  "per100g": {
+   "carbs": 11.94,
+   "fat": 0.65,
+   "fiber": 6.5,
+   "kcal": 52.0,
+   "protein": 1.2,
+   "sodium_mg": 1.0,
+   "sugar": 4.42
+  },
+  "usda_name": "Raspberries, raw"
+ },
+ "rice_brown": {
+  "ar": "رز بني",
+  "fdc_id": 169703,
+  "per100g": {
+   "carbs": 76.25,
+   "fat": 3.2,
+   "fiber": 3.6,
+   "kcal": 367.0,
+   "protein": 7.54,
+   "sodium_mg": 5.0,
+   "sugar": 0.66
+  },
+  "usda_name": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+ },
+ "rice_white": {
+  "ar": "رز أبيض",
+  "fdc_id": 169756,
+  "per100g": {
+   "carbs": 79.95,
+   "fat": 0.66,
+   "fiber": 1.3,
+   "kcal": 365.0,
+   "protein": 7.13,
+   "sodium_mg": 5.0,
+   "sugar": 0.12
+  },
+  "usda_name": "Rice, white, long-grain, regular, raw, unenriched"
+ },
+ "ricotta_light": {
+  "ar": "ريكوتا لايت",
+  "fdc_id": 171248,
+  "per100g": {
+   "carbs": 5.14,
+   "fat": 7.91,
+   "fiber": 0.0,
+   "kcal": 138.0,
+   "protein": 11.39,
+   "sodium_mg": 99.0,
+   "sugar": 0.31
+  },
+  "usda_name": "Cheese, ricotta, part skim milk"
+ },
+ "romaine": {
+  "ar": "خس رومين",
+  "fdc_id": 169247,
+  "per100g": {
+   "carbs": 3.29,
+   "fat": 0.3,
+   "fiber": 2.1,
+   "kcal": 17.0,
+   "protein": 1.23,
+   "sodium_mg": 8.0,
+   "sugar": 1.19
+  },
+  "usda_name": "Lettuce, cos or romaine, raw"
+ },
+ "salmon": {
+  "ar": "سلمون",
+  "fdc_id": 175167,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 13.42,
+   "fiber": 0.0,
+   "kcal": 208.0,
+   "protein": 20.42,
+   "sodium_mg": 59.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, salmon, Atlantic, farmed, raw"
+ },
+ "salt": {
+  "ar": "ملح",
+  "fdc_id": 173468,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 0.0,
+   "fiber": 0.0,
+   "kcal": 0.0,
+   "protein": 0.0,
+   "sodium_mg": 38758.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Salt, table"
+ },
+ "sardine_oil": {
+  "ar": "سردين معلب (مصفى)",
+  "fdc_id": 175139,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 11.45,
+   "fiber": 0.0,
+   "kcal": 208.0,
+   "protein": 24.62,
+   "sodium_mg": 307.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, sardine, Atlantic, canned in oil, drained solids with bone"
+ },
+ "sea_bass": {
+  "ar": "سمك قاروص",
+  "fdc_id": 175142,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 2.0,
+   "fiber": 0.0,
+   "kcal": 97.0,
+   "protein": 18.43,
+   "sodium_mg": 68.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, sea bass, mixed species, raw"
+ },
+ "sesame": {
+  "ar": "سمسم",
+  "fdc_id": 170150,
+  "per100g": {
+   "carbs": 23.45,
+   "fat": 49.67,
+   "fiber": 11.8,
+   "kcal": 573.0,
+   "protein": 17.73,
+   "sodium_mg": 11.0,
+   "sugar": 0.3
+  },
+  "usda_name": "Seeds, sesame seeds, whole, dried"
+ },
+ "shrimp": {
+  "ar": "جمبري",
+  "fdc_id": 175179,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 0.51,
+   "fiber": 0.0,
+   "kcal": 85.0,
+   "protein": 20.1,
+   "sodium_mg": 119.0,
+   "sugar": null
+  },
+  "usda_name": "Crustaceans, shrimp, raw"
+ },
+ "soy_sauce_light": {
+  "ar": "صويا صوص قليل الصوديوم",
+  "fdc_id": 172474,
+  "per100g": {
+   "carbs": 14.44,
+   "fat": 0.31,
+   "fiber": 0.3,
+   "kcal": 90.0,
+   "protein": 8.19,
+   "sodium_mg": 2890.0,
+   "sugar": 5.63
+  },
+  "usda_name": "Soy sauce, reduced sodium, made from hydrolyzed vegetable protein"
+ },
+ "spinach": {
+  "ar": "سبانخ",
+  "fdc_id": 168462,
+  "per100g": {
+   "carbs": 3.63,
+   "fat": 0.39,
+   "fiber": 2.2,
+   "kcal": 23.0,
+   "protein": 2.86,
+   "sodium_mg": 79.0,
+   "sugar": 0.42
+  },
+  "usda_name": "Spinach, raw"
+ },
+ "sriracha": {
+  "ar": "صوص سريراتشا",
+  "fdc_id": 171186,
+  "per100g": {
+   "carbs": 19.16,
+   "fat": 0.93,
+   "fiber": 2.2,
+   "kcal": 93.0,
+   "protein": 1.93,
+   "sodium_mg": 2124.0,
+   "sugar": 15.11
+  },
+  "usda_name": "Sauce, hot chile, sriracha"
+ },
+ "strawberries": {
+  "ar": "فراولة",
+  "fdc_id": 167762,
+  "per100g": {
+   "carbs": 7.68,
+   "fat": 0.3,
+   "fiber": 2.0,
+   "kcal": 32.0,
+   "protein": 0.67,
+   "sodium_mg": 1.0,
+   "sugar": 4.89
+  },
+  "usda_name": "Strawberries, raw"
+ },
+ "sweet_potato": {
+  "ar": "بطاطا",
+  "fdc_id": 168482,
+  "per100g": {
+   "carbs": 20.12,
+   "fat": 0.05,
+   "fiber": 3.0,
+   "kcal": 86.0,
+   "protein": 1.57,
+   "sodium_mg": 55.0,
+   "sugar": 4.18
+  },
+  "usda_name": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)"
+ },
+ "tahini": {
+  "ar": "طحينة",
+  "fdc_id": 170189,
+  "per100g": {
+   "carbs": 21.19,
+   "fat": 53.76,
+   "fiber": 9.3,
+   "kcal": 595.0,
+   "protein": 17.0,
+   "sodium_mg": 115.0,
+   "sugar": 0.49
+  },
+  "usda_name": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)"
+ },
+ "tilapia": {
+  "ar": "سمك بلطي (فيليه)",
+  "fdc_id": 175176,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 1.7,
+   "fiber": 0.0,
+   "kcal": 96.0,
+   "protein": 20.08,
+   "sodium_mg": 52.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, tilapia, raw"
+ },
+ "tofu": {
+  "ar": "توفو",
+  "fdc_id": 172475,
+  "per100g": {
+   "carbs": 2.78,
+   "fat": 8.72,
+   "fiber": 2.3,
+   "kcal": 144.0,
+   "protein": 17.27,
+   "sodium_mg": 14.0,
+   "sugar": null
+  },
+  "usda_name": "Tofu, raw, firm, prepared with calcium sulfate"
+ },
+ "tomato": {
+  "ar": "طماطم",
+  "fdc_id": 170457,
+  "per100g": {
+   "carbs": 3.89,
+   "fat": 0.2,
+   "fiber": 1.2,
+   "kcal": 18.0,
+   "protein": 0.88,
+   "sodium_mg": 5.0,
+   "sugar": 2.63
+  },
+  "usda_name": "Tomatoes, red, ripe, raw, year round average"
+ },
+ "tomato_canned": {
+  "ar": "طماطم معلبة مقطعة",
+  "fdc_id": 170138,
+  "per100g": {
+   "carbs": 3.47,
+   "fat": 0.25,
+   "fiber": 1.9,
+   "kcal": 16.0,
+   "protein": 0.79,
+   "sodium_mg": 10.0,
+   "sugar": 2.55
+  },
+  "usda_name": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added"
+ },
+ "tomato_paste": {
+  "ar": "صلصة طماطم مركزة",
+  "fdc_id": 170459,
+  "per100g": {
+   "carbs": 18.91,
+   "fat": 0.47,
+   "fiber": 4.1,
+   "kcal": 82.0,
+   "protein": 4.32,
+   "sodium_mg": 59.0,
+   "sugar": 12.18
+  },
+  "usda_name": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+ },
+ "tortilla_whole": {
+  "ar": "تورتيلا قمح كامل",
+  "fdc_id": 174081,
+  "per100g": {
+   "carbs": 45.89,
+   "fat": 9.76,
+   "fiber": 9.8,
+   "kcal": 310.0,
+   "protein": 9.76,
+   "sodium_mg": 617.0,
+   "sugar": 2.44
+  },
+  "usda_name": "Tortillas, ready-to-bake or -fry, whole wheat"
+ },
+ "tuna_water": {
+  "ar": "تونة بالماء (مصفاة)",
+  "fdc_id": 173709,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 0.96,
+   "fiber": 0.0,
+   "kcal": 86.0,
+   "protein": 19.44,
+   "sodium_mg": 247.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Fish, tuna, light, canned in water, drained solids (Includes foods for USDA's Food Distribution Program)"
+ },
+ "turkey_ground": {
+  "ar": "لحم ديك رومي مفروم",
+  "fdc_id": 172850,
+  "per100g": {
+   "carbs": 0.0,
+   "fat": 8.34,
+   "fiber": 0.0,
+   "kcal": 150.0,
+   "protein": 18.73,
+   "sodium_mg": 69.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Turkey, ground, 93% lean, 7% fat, raw"
+ },
+ "turmeric": {
+  "ar": "كركم",
+  "fdc_id": 172231,
+  "per100g": {
+   "carbs": 67.14,
+   "fat": 3.25,
+   "fiber": 22.7,
+   "kcal": 312.0,
+   "protein": 9.68,
+   "sodium_mg": 27.0,
+   "sugar": 3.21
+  },
+  "usda_name": "Spices, turmeric, ground"
+ },
+ "vanilla": {
+  "ar": "فانيليا سائلة",
+  "fdc_id": 173471,
+  "per100g": {
+   "carbs": 12.65,
+   "fat": 0.06,
+   "fiber": 0.0,
+   "kcal": 288.0,
+   "protein": 0.06,
+   "sodium_mg": 9.0,
+   "sugar": 12.65
+  },
+  "usda_name": "Vanilla extract"
+ },
+ "vinegar": {
+  "ar": "خل تفاح",
+  "fdc_id": 173469,
+  "per100g": {
+   "carbs": 0.93,
+   "fat": 0.0,
+   "fiber": 0.0,
+   "kcal": 21.0,
+   "protein": 0.0,
+   "sodium_mg": 5.0,
+   "sugar": 0.4
+  },
+  "usda_name": "Vinegar, cider"
+ },
+ "walnuts": {
+  "ar": "عين جمل",
+  "fdc_id": 170187,
+  "per100g": {
+   "carbs": 13.71,
+   "fat": 65.21,
+   "fiber": 6.7,
+   "kcal": 654.0,
+   "protein": 15.23,
+   "sodium_mg": 2.0,
+   "sugar": 2.61
+  },
+  "usda_name": "Nuts, walnuts, english"
+ },
+ "watermelon": {
+  "ar": "بطيخ",
+  "fdc_id": 167765,
+  "per100g": {
+   "carbs": 7.55,
+   "fat": 0.15,
+   "fiber": 0.4,
+   "kcal": 30.0,
+   "protein": 0.61,
+   "sodium_mg": 1.0,
+   "sugar": 6.2
+  },
+  "usda_name": "Watermelon, raw"
+ },
+ "white_beans_canned": {
+  "ar": "فاصوليا بيضاء معلبة",
+  "fdc_id": 175204,
+  "per100g": {
+   "carbs": 21.2,
+   "fat": 0.29,
+   "fiber": 4.8,
+   "kcal": 114.0,
+   "protein": 7.26,
+   "sodium_mg": 340.0,
+   "sugar": 0.29
+  },
+  "usda_name": "Beans, white, mature seeds, canned"
+ },
+ "yeast": {
+  "ar": "خميرة فورية",
+  "fdc_id": 175043,
+  "per100g": {
+   "carbs": 41.22,
+   "fat": 7.61,
+   "fiber": 26.9,
+   "kcal": 325.0,
+   "protein": 40.44,
+   "sodium_mg": 51.0,
+   "sugar": 0.0
+  },
+  "usda_name": "Leavening agents, yeast, baker's, active dry"
+ },
+ "yogurt_low": {
+  "ar": "زبادي قليل الدسم",
+  "fdc_id": 170886,
+  "per100g": {
+   "carbs": 7.04,
+   "fat": 1.55,
+   "fiber": 0.0,
+   "kcal": 63.0,
+   "protein": 5.25,
+   "sodium_mg": 70.0,
+   "sugar": 7.04
+  },
+  "usda_name": "Yogurt, plain, low fat"
+ },
+ "zucchini": {
+  "ar": "كوسة",
+  "fdc_id": 169291,
+  "per100g": {
+   "carbs": 3.11,
+   "fat": 0.32,
+   "fiber": 1.0,
+   "kcal": 17.0,
+   "protein": 1.21,
+   "sodium_mg": 8.0,
+   "sugar": 2.5
+  },
+  "usda_name": "Squash, summer, zucchini, includes skin, raw"
+ }
+}
