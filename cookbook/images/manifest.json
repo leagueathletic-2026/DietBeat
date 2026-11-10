@@ -35,6 +35,168 @@
   "sha256": "39af7b6d1a27b8b8cb91983882d0fb4ee7b7b035a2ca8f100a34f40ab666b31f",
   "source_url": "https://uploads.codewords.ai/0c22611c30e48eee4fabe43578a94b913390f2eb2e2cf2c846415419243c6f46/b04.png"
  },
+ "b05": {
+  "ahash": "0000000111111111000000011111111100000000111111110000001110011000000001111100000000001111111000000010111111110000101011111111100001001011100000001011101100000000101111100000000011011000000000001110110000000000110100111100000011000000000000001100000000000000",
+  "file": "b05.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two slices of toasted whole-wheat bread topped with smashed avocado, sliced boiled eggs showing jammy yolks, chili flakes and a squeeze of lemon. Served in a dark speckled stoneware plate. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "ecd726481e0b8dcf6c5ad8f1089e6d461c85060f2240bcc932d97ee222540f8c",
+  "source_url": "https://uploads.codewords.ai/236b0df9cf5fc9857c652480da84b25c8e0f14fdc4d297e206d2fa4db793378c/b05.png"
+ },
+ "b06": {
+  "ahash": "0000000000000000000000000000000000000000001000000000000001110000000000001111100000000000111111000000000011111100000000101111110000000110111111000000011011111100000011101111110011111110111110001111111000000000111111110000000011111111111111111111111111111111",
+  "file": "b06.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a stack of five fluffy golden oat and banana pancakes topped with fresh banana slices, a few raspberries and a light drizzle of honey. Served in a matte black plate. Camera: low eye-level side view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "864fecaa8b1d31f9767c062e93e0abee94d462c9d67d15aa666cfa48b79dfb24",
+  "source_url": "https://uploads.codewords.ai/6d4cf2d32da3200203f6a3e4198c4274f9dba147f913e87e34ffad84e0260d7c/b06.png"
+ },
+ "b07": {
+  "ahash": "0000000000000000000000100000000000000110000001000001111111001110001111111101111100111111111111110011111111111111001011111111101111001101011000111110000111100001011100010110000100011000000000000000110000000000000001110000000000000011100000000000000011000000",
+  "file": "b07.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: six golden baked egg muffins studded with spinach, red bell pepper, onion and melted mozzarella, one cut in half. Served in a black muffin tin and a slate board. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "0054a640e8cd6605573f7b0e753e2d0a8e8ecd781e3b02748f837f109152bf40",
+  "source_url": "https://uploads.codewords.ai/44ed10b10f1cc41550dd296b58ee8033cf6b8369069ab06222cbb172dc6c9f47/b07.png"
+ },
+ "b08": {
+  "ahash": "0000000000110000001111000011000000110000011000000011011111100000001001111111000000101111111100000110111111100000001011111110000000101111111100000111111111110000001011111100000000001111110000000000011100000000000000000000000000000000000000000000000000000000",
+  "file": "b08.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a mound of fresh white Egyptian cottage cheese (areesh) drizzled with olive oil and sprinkled with dried mint, with tomato wedges, cucumber slices, black olives and a small whole-wheat pita. Served in an oval dark grey ceramic platter. Camera: overhead top-down view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "360ee3006308c4c141df0deb3b460774b838f772e0c9c1ea30aa2850f8b409ab",
+  "source_url": "https://uploads.codewords.ai/0ec882dc1c89a926edc15e4a42f4e3f73e20fcc407e3c41b7b4d6f4c1340c0a8/b08.png"
+ },
+ "b09": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000111111000000001111111100000001111111111000010111111111100111111111111110011111111111110001101111111110000111110111100000011111000000000001110000000000000111100000000000011100100000000001111111000000000",
+  "file": "b09.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a thick golden baked Egyptian herb omelette (eggah) green with parsley and dill, cut into wedges, one wedge lifted to show the fluffy green-flecked inside. Served in a round black ceramic baking dish. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "5d18df3dd7425ea06a514e28ac7e22e6e89ad37e37a23aea46017e3d3651d957",
+  "source_url": "https://uploads.codewords.ai/ad2ebb61e4377c3508d47ebf427f5edd7c4397d1b71007d8af47bffb722661a6/b09.png"
+ },
+ "b10": {
+  "ahash": "0000000000000000000000000000000000000000111100000000000011110000000000011111000000000001111100000000000111110000000000011111000000000011111111000000000111111000000000001111110000000000011111100000000001111110000000000000111100000000000001110000000001111111",
+  "file": "b10.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a tall glass of thick creamy beige banana peanut-butter smoothie, a sprinkle of oats on top, half a banana and a small spoon of peanut butter beside it. Served in a tall clear glass on a black stone coaster. Camera: eye-level side view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "04f5eb433611ead33b7a5feeacccc6090e2e4801ac888146ade9595877913d55",
+  "source_url": "https://uploads.codewords.ai/2af2a1a2a8f4062b69600b0d21eba936ec04c228ea1c5c2dd3eb219797478df7/b10.png"
+ },
+ "b11": {
+  "ahash": "0000000000000000000000000000000000001111111100000000111111111000000011111111100000000000111100000001100000000000000111011000100000111111110100000011111111110000001101111111100000111111110010000001101100000000001110000000100000111100000100000000011000000000",
+  "file": "b11.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a square of golden baked apple cinnamon oatmeal topped with thin caramelised apple slices and chopped walnuts, the rest of the bake in the dish behind. Served in a rectangular dark ceramic baking dish and a small black plate. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "ae30c1c2cbd0ce3eed82693bf0c35aa3e6303d0041e9a64bf481390f8156925f",
+  "source_url": "https://uploads.codewords.ai/b7439d5e9cb15394d93b84f02bac3ef31ef67fce53d32adf53afe383e284ed29/b11.png"
+ },
+ "b12": {
+  "ahash": "0000001110000000000000110000000000000000011110000000000111111100000001011111100001100111111010001111111111100000110111111000000010011110110000001001111100000000111110100000000010110000000000001100010000000000110000000000000011100000000000001111000000000000",
+  "file": "b12.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: four slices of golden whole-wheat French toast dusted with cinnamon, topped with Greek yogurt, fresh strawberries and blueberries. Served in a long black rectangular plate. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "ba8beaa34dd111964f7bda1e2d337414dbc2d569e088a92bc840e32ecda8f101",
+  "source_url": "https://uploads.codewords.ai/8df87717ccdc6b490c1b0c7e717f282fb7221464a7203f8feb8784c57634226b/b12.png"
+ },
+ "b13": {
+  "ahash": "0000000000000000000000000000000000000000001000000000000011111100000000011111110000000011111111100000001111111111000000111111111000000111111111000000011111111101000000111110100100001000111100010000010000000011000000000000001000000000000000100000000000000011",
+  "file": "b13.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: chickpea fatteh: layers of crispy toasted whole-wheat pita pieces, warm chickpeas and a thick garlicky yogurt-tahini sauce on top, garnished with toasted sliced almonds, paprika and parsley. Served in a deep dark clay bowl. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "4add9dc1a2405a4c90bf043fa87aaac42a60b5a104cbc7573bb10c4fea7bd0a1",
+  "source_url": "https://uploads.codewords.ai/b9db5fabd4678179fd519abc33aac4811f7c2f753ea15dc2305630ba24a1269d/b13.png"
+ },
+ "b14": {
+  "ahash": "0000011111101000000011101111100000001100000010000000110000000000000011001111100000011110111111000001111111111100000111101101110000011110111111000001111111111100000111111111110000011110111100000001110001110000000011000010000000001110000000000000111000000000",
+  "file": "b14.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: soft creamy scrambled eggs only (no fried or sunny-side-up eggs) mixed with sauteed sliced mushrooms and wilted spinach, a few slices of avocado on the side, black pepper. Served in a small black cast-iron pan. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "75ae85dbbd79255d882417afa30596f66a7b99b6e355807c289c1a516655c8d2",
+  "source_url": "https://uploads.codewords.ai/5eed07e6f8342b2ed32fffcb082e70991ce86b7f5fd8301d38176a38ce2de398/b14.png"
+ },
+ "b15": {
+  "ahash": "0000000111100000000000011111000000000011111110000000001111111000000000111111100000001111111110000001111111111000001111111111000001111111000000000111111100000000000111000000110001000000000111101100000000111110110000000000110011000000000000001110000000000000",
+  "file": "b15.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two bowls of thick Greek yogurt topped with crunchy golden homemade oat-almond granola clusters, fresh raspberries and blueberries. Served in two dark glazed ceramic bowls. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "0456be409d44c41db38ec62a34116279490937249bd1c0356a9f876a1397e72f",
+  "source_url": "https://uploads.codewords.ai/9da7b8a4a29bf8dc9218d3d11ae6752cc0475a671f8d58e270c670357d228c21/b15.png"
+ },
+ "b16": {
+  "ahash": "0000111111100000000011001100000000001001010000000001011110000000000011111011000000001111111100000000111111110000000011111011000000001111111100000000111111110000000011111001000000000111100000000000011110100000000000010010000000000000001000000000000000000000",
+  "file": "b16.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: green shakshuka: four eggs with runny yolks nestled in sauteed spinach, zucchini and green onion, topped with crumbled feta and chopped dill. Served in a wide dark green-black enamel skillet. Camera: overhead top-down view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "543e705aa3d08227db9a2cd4c898ac11027bef510c9d252f5d12188b7fc05cb6",
+  "source_url": "https://uploads.codewords.ai/9e766162d206db52d846b7a8ef1a633d7a074b179624b1d5256498c32a775d85/b16.png"
+ },
+ "b17": {
+  "ahash": "0000000000000000000000000000000000000010000000000000111100100000000111111111010000010011111111000011111111111100011111111111100001110011111010000111111111011000000111111111000001011101111000000000000010000000000000100000000000000001100000000000000100000000",
+  "file": "b17.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a whole-wheat tortilla wrap cut in half on the diagonal showing fluffy egg whites, sauteed red and green peppers, onion, baby spinach and melted mozzarella. Served in a dark slate board with parchment. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "db8509a47cbaf9c15f72c01b810288ef543af444edab3cafcfeb61cf9c9c1ccd",
+  "source_url": "https://uploads.codewords.ai/3c11bdfdc54a539b5e476d92c6f82d7c8cd7743c28a16036637343f6f2339e19/b17.png"
+ },
+ "b18": {
+  "ahash": "0000001100000000000000110000000000000000100000000000000111100010000000011111101100000011111110010000001111111001000000111111110100000011111111010000001111111111000000011111111100000000111110110000000000111011000000000000001100000000000000110000000000000111",
+  "file": "b18.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: sweet potato hash: crispy roasted orange sweet potato cubes with sauteed onion and spinach, two fried eggs with runny yolks on top, paprika sprinkle. Served in a black cast-iron skillet. Camera: 45-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "4de7f657755484fddf8fb6ff568726163a79082348567ed4184e075c188c30cb",
+  "source_url": "https://uploads.codewords.ai/68ec8ef2cbc0ca41453a1ff21fb31c91946eec6163a15cd888354ffd47124936/b18.png"
+ },
+ "b19": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000000000000001101100000000000110110000000000011111000000000011111110000000011111111000000001111111100000000111111110000000011111111100000001111111100000000001101000000000000100000000000000000000000000000",
+  "file": "b19.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two jars of thick chia pudding made with almond milk, topped with fresh raspberries, a few blueberries and toasted coconut flakes. Served in two small clear glass jars on a dark marble slab. Camera: eye-level side view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "9fdaf7e9e6bc5b6b49eace17406b82b8f8783d77d6f6a0ef8680241c56a944f7",
+  "source_url": "https://uploads.codewords.ai/c0e2d9bc0b7c26c74769dff2e56311d0e9e5d758e66ba7e7ea29583030108236/b19.png"
+ },
+ "b20": {
+  "ahash": "0000000000100000000000000000000000000000000000000000000001110000000000001111000000000000110000000000000001100000000001111111000000011111111110000011111111111100001111111111110000111111011100000000011111000000000000000000000010000000000000000000000000000000",
+  "file": "b20.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a smooth pale-yellow French-style rolled omelette filled with sauteed mushrooms and melted mozzarella oozing out, chopped chives on top, a few cherry tomatoes. Served in a white-rimmed black porcelain plate. Camera: low 30-degree angle. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "c24da223608b712ef53839d933dcdf8b26a5d186421da8b814cce5bdbc95234e",
+  "source_url": "https://uploads.codewords.ai/826085ef176f90501dad2a397d7fded794d989f67feb3cbff11a56d6e62e747c/b20.png"
+ },
+ "b21": {
+  "ahash": "0000011111100000000001111110000000001111111100000000111111110000000011111111000000000111111100000000011110000000000001110100000000000111111000000000011111100000000000111110000000000011111000000000000111000000000000100000000000000000000000000000000000000000",
+  "file": "b21.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two slices of toasted whole-wheat bread spread with smooth peanut butter, topped with neat banana slices, a sprinkle of chia seeds and cinnamon. Served in a dark wooden board. Camera: overhead top-down view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "1dbd9492c177290e53cfd4d07060776e6e87027c991926057dbea1aa63012767",
+  "source_url": "https://uploads.codewords.ai/874cb5479e1184d6b1bd833b6a7bf5884007fbdf244f2617d836a92123ea5cd9/b21.png"
+ },
+ "b22": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000111000000000010111110000000110111111000000111011111111000011101111111100011011111110110000011100000010000000111000000000011001100001000001110010000000000111100100100000011111001000000001111110010000000",
+  "file": "b22.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a bowl of creamy cottage cheese topped with fresh golden pineapple chunks, chopped walnuts and a few mint leaves. Served in a small hammered black metal bowl. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "3371ff183da33f4b16060d7d984980f8a0ed341e1b89c58b9c7842a7b5cd99d3",
+  "source_url": "https://uploads.codewords.ai/1da57dae1b27b9cc1d75c7d07a3698e6be102b93231187f8a1c932cc2aa1f501/b22.png"
+ },
  "d00": {
   "ahash": "0111011111000000011100111100000001111111110100000111100111110000011110001010100000110000111010000000000011111000010001001111100000000100111110001100011001111000110000100001000010000001000000001000000010000000100000000110000000000000000000000000000000000000",
   "file": "d00.jpg",
@@ -223,6 +385,168 @@
   "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: chicken and broccoli stir-fry with red bell pepper strips in a glossy soy-honey-ginger sauce, sprinkled with sesame seeds. Served in a black carbon-steel wok. Camera: overhead top-down view. Wide 21:9 frame, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green (#B8F23A) ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Absolutely no text, letters, numbers, logos, watermarks, people or hands.",
   "sha256": "049e201247c7ee92f475d77b0b9aa5cda20ab3c93998a31fda8615c34368cc61",
   "source_url": "https://uploads.codewords.ai/d6a8fad700c0f706c5f91a36920b11c219519737c9d54fea4636f5f079657c74/p04.png"
+ },
+ "p05": {
+  "ahash": "0000000000000000000000000000000000000111110000000001111111100000000111111111100000011111111110000011111111111100001111111111000000111111111100000111111111100000001011111110000001010111110000000100001110000000111000000000000011100000000000001111000000000000",
+  "file": "p05.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two grilled herb-crusted chicken breasts sliced on the bias next to a Greek salad of cucumber, tomato, red onion, black olives and a block of feta. Served in a large round dark stoneware plate. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "0c8478a259b3f807c8f5a04ec6137dfdfbf72cbb52f91fc2fd5f89f9b23b40a1",
+  "source_url": "https://uploads.codewords.ai/00ba5816917b46198f7663a3776969a8a5a47fe172c6af9e21a54701f12ca653/p05.png"
+ },
+ "p06": {
+  "ahash": "0000000000000000000000000000000000000001111000000000001111110000011111111011110001011111110111000011111111111100101111111111000010001111110000001000111110000000110100110000110011001000000010001110010000010000111100000001000011111000001000001111100000000000",
+  "file": "p06.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: crispy golden oven-baked chicken breast tenders with a crunchy oat and parmesan crust, a pile of bright green beans and a small bowl of yogurt-mustard dip. Served in a black wire rack over a dark baking tray. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "1a869504bb6ca3b9f9c4e241b7f13c763246c2500ed9443687c99d158fa870ff",
+  "source_url": "https://uploads.codewords.ai/5384d8015f8aac8b7a8cbcc5f8d9e5c4a5f2343b39e0e44edcf66a08bec852f0/p06.png"
+ },
+ "p07": {
+  "ahash": "0000000000000000000000010111000000000111111110000001111111111000001111111111110000111111111101100001111111100010000001111100010000001111011100000001101010000000001100010011000000100100111100000011000111110000000000111100000000001111110000000000011111000000",
+  "file": "p07.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: nine grilled turkey and zucchini kofta patties flecked with green herbs, a bowl of creamy cucumber-mint yogurt dip, lemon wedges. Served in a long dark stone serving board. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "a3b2cf8843e0ce42e1fe77572b204e96a5162200c72451cb801ac008659a53e0",
+  "source_url": "https://uploads.codewords.ai/ae24d43cf22413c7cbc081e673c033c25ee142bb8b017b55991fc160d8f7950c/p07.png"
+ },
+ "p08": {
+  "ahash": "0000011111110000000001110011000000000110111000000000011111100000000001011111000000000011111100000000001111110000000000111111000000000011111100000000001111110000000000111111000000000011111100000000000111110000000000011111000000000100110100000000010000000000",
+  "file": "p08.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: seared chicken breasts in a light creamy mushroom sauce with sliced mushrooms and wilted spinach, cracked black pepper. Served in a dark stainless-steel saute pan. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "ca574a44c0f4d5524220e9379b3dbfdca37161d2d2952e86bd58f676688d6c5e",
+  "source_url": "https://uploads.codewords.ai/247ac93a91f6a4fb81aab27a7be6cf9a9f23c663d2edac39823fe87e328b0170/p08.png"
+ },
+ "p09": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000110001100000000111101111000001111111111100001101111110110001110011111111000111101101111000011111000011101101111000000000110111100000000111011111000001111101111111000111000",
+  "file": "p09.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: three skewers of orange-red marinated shish tawook chicken cubes alternating with charred red and green peppers and onion, a small bowl of white garlic yogurt sauce. Served in a dark grill-marked cast-iron platter. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "931e5d5e4dc729838ef14e2c22ee64aee0b0ab83cf0dbf45b77262331cbe8296",
+  "source_url": "https://uploads.codewords.ai/b27962a791dfed7dd247642ecfe698c0251e7603d298e94162397154d553626f/p09.png"
+ },
+ "p10": {
+  "ahash": "0000000111111100000000001100010000000000001110000000000111111110000000010111110000000000111111000000000011111100000000001111111000000000111111100000000011111110000000001111110000000000011111000000000001111100000000000111110000000000001110000000000000010000",
+  "file": "p10.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: Egyptian tray bake: golden roasted skinless chicken thighs on top of potato slices, onion and tomato slices in a light tomato broth, roasted and caramelised. Served in a round black enamel oven tray. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "eb9c688e4200ece75283a3f24c7744432a69123d84b12b38656b81d858421ef4",
+  "source_url": "https://uploads.codewords.ai/32f6bd7a3061b98921f487acbbc1f2bb6cbc1006a1f31f13e647d51b718d2b7a/p10.png"
+ },
+ "p11": {
+  "ahash": "0000111111110000000011110111000000001101001110000000111111110000000010111110000000000111111000000000011111000000000000111110000000000001111000000000001111100000000000111100000000000011110000000000001110000000000000000000000000000000000000000000000000000000",
+  "file": "p11.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: chicken burrito bowl: sections of brown rice, sliced spiced grilled chicken, black beans, sweet corn, fresh tomato salsa, avocado slices and a spoon of Greek yogurt, lime wedge. Served in a wide shallow black ceramic bowl. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "c6e972eb61475ece229f6a8b22f8116e548cb9d12a91b34f21477a1615759c34",
+  "source_url": "https://uploads.codewords.ai/ba97dc100fbd0ad03f66a34c29bf2da0dbd9b3596bfc8b1910c56f99eb23be58/p11.png"
+ },
+ "p12": {
+  "ahash": "0000111000000000000111110000100000111100100111000011100000111110011100100011111001110111111111000111111111011100011111111100000001111111111000001111111111100000111101110010000011110000000000001111000000000000111100000000000011110000000000001111000000000000",
+  "file": "p12.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: a bowl of glossy deep-green Egyptian molokhia soup with a garlic-coriander topping, beside a plate of poached chicken breast pieces. Served in a dark clay bowl and a matching small plate. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "afe8232d024e051b4ec14ec49648f3891d6033dfc583c490e417cae3a43dcec4",
+  "source_url": "https://uploads.codewords.ai/982f303f2a4095fb00b1707951f77a0bf58a4058cab7e4ea360df4e3b6eacc8a/p12.png"
+ },
+ "p13": {
+  "ahash": "0000001111111000000000111111100000000011111110000000001111111100000000111010000000000000111111000000000111111110000000011111111000000011111111100000001111111100000001001111100000000010000000101000101100000100111101000000100011110110000000001111000100000000",
+  "file": "p13.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: turkey and shredded cabbage stir-fry with carrot ribbons, green onion and toasted sesame seeds, glistening with soy-ginger sauce. Served in a black wok. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "90b4e81dec213d85c562124d848d45251be49a2228323e8d9c90d657c925fd67",
+  "source_url": "https://uploads.codewords.ai/6808253b71180300cf2816e5c9af61608cbb4ffa2bfbf6bcddb9cc12073556d3/p13.png"
+ },
+ "p14": {
+  "ahash": "0000000000000000000011000110000000001001111100000000111111111000001111111111110000111111111111100011111111111100010111111111000001111111111000001110111110000000111001100000000011100000000000001110000000000000111100000000000011110000000000001111000000000000",
+  "file": "p14.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: chicken and broccoli casserole with bubbling golden melted mozzarella on top, a serving scooped out showing chicken pieces and broccoli florets in creamy sauce. Served in a dark rectangular ceramic baking dish. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "e2732c27d05b2cdb1ea173c9dd150c5201de0ad01f23a5da9374a283e8c8cb5e",
+  "source_url": "https://uploads.codewords.ai/d86933aa3c030c464362e1816f59069949ee8e380de25ef2df8949c9d18abfc9/p14.png"
+ },
+ "p15": {
+  "ahash": "0000000000000000000000000110000000000001111110000000001111111100000001111111110000000111111111010000111111111001000011111111111100000111111111100000111111111101000001111111110100000010111000010000000000000011000000000000001100000000000000110000000000000011",
+  "file": "p15.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: chicken Caesar salad: crisp romaine leaves, sliced grilled chicken breast, shaved parmesan, a few whole-wheat croutons and a creamy yogurt Caesar dressing drizzled on top. Served in a large dark wooden salad bowl. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "c07f92981bcb2a7b0c0eb2975bdfcec202736b7812107ad335f2748c33a5c702",
+  "source_url": "https://uploads.codewords.ai/f0e64f4437be5366f4cb603d3758842f16e5d7eda09b31f6a8de68f09b30e76b/p15.png"
+ },
+ "p16": {
+  "ahash": "0000000011100000001000101100000000000000110000001100000000000000111001111100000010101111111100001110111111110000110111111111100011111111111100001111011111110000111101111110000011110001110000001111000000000000111110000000000011111000000000001111110000000000",
+  "file": "p16.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two golden roasted chicken breasts sliced open to reveal a spinach and white feta stuffing, roasted cherry tomatoes on the vine beside them. Served in a black oval cast-iron dish. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "2b5ceeed141056924a558576d0aa45a8940b2a3fa920517a50364721b9fff9cd",
+  "source_url": "https://uploads.codewords.ai/2101dc667224efd08a2350d176e0350f484fe1a7de28de787160eb47f5c0ad6f/p16.png"
+ },
+ "p17": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000001110000011100011111110011101111111111001111111111111100101110111111110011111001111111001111110011111000111110000000000011111000000000001111110000000000111111000000000011111100000000001111100000000000",
+  "file": "p17.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: glossy teriyaki chicken thigh pieces sprinkled with sesame seeds and green onion over steamed white rice, with bright green edamame beans and cucumber slices. Served in a black lacquered Japanese-style bowl. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green ceramic coaster under a small side dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "8c7424a3704822d473d242fd07bb7a015d253b1113de41cd88ccbf0484627024",
+  "source_url": "https://uploads.codewords.ai/464b944618aa1b757ba3dc13b54de1cbd74960b318adc62bf0ef5d6da955957a/p17.png"
+ },
+ "p18": {
+  "ahash": "0000000111110000000000011111000000000011111111000000001111011100000000111111100000001101011010000000110011100000000111101111000000011111111110000001111111111000001111111111100001111000010000000111110111100000000110000000000000001000000000000001000000000000",
+  "file": "p18.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: two juicy grilled chicken burger patties topped with melted mozzarella, tomato slices and red onion, each wrapped in large crisp romaine lettuce leaves instead of buns. Served in a dark parchment-lined slate board. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark slate surface with a deep grey gradient backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neon lime-green enamel spoon resting beside the dish. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "f99c50882ad69e9e2958c265b3503c73a3296062c763f85a44ea482b21ed8c03",
+  "source_url": "https://uploads.codewords.ai/5de04ce144a4828245d3fdf3d34a094ed94684688594df218b8a95891b9cfb51/p18.png"
+ },
+ "p19": {
+  "ahash": "0000000000000000000000000000000000000000000000000000000000000000000110000000000000011000000000000001100111000000000110111110000000011011111100000100011111110100110000111110011011111000000000111111111000000001111111100000001111111110000001111111111111111111",
+  "file": "p19.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: Moroccan chicken tagine: golden turmeric-spiced chicken thighs with carrot chunks, zucchini, chickpeas, green olives and lemon slices in a fragrant sauce, coriander leaves. Served in a traditional dark clay tagine with its conical lid set beside it. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark charcoal stone surface against a deep black backdrop. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a strip of neon lime-green cloth under the board. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "c6ae78e771eef1cf80d4c8d8ea4e69126f7bba40771adc5e3d25844769c8411d",
+  "source_url": "https://uploads.codewords.ai/f33eaacb78403844b68fa9f12824d4dd3f0650cf1f1acbef1d449665ce63865b/p19.png"
+ },
+ "p20": {
+  "ahash": "0000001000000000000110000000000000011011001100000000001101111000000000111111110000000111111111000000011111101110000001111111111010001111111011100001111111001000110110000000110011101100000011001100011000011000110000000111000011000000000000001110000000000000",
+  "file": "p20.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: sizzling chicken fajita strips with charred red and green pepper and onion strips, two warm whole-wheat tortillas, a bowl of Greek yogurt and lime wedges. Served in a black cast-iron skillet on a wooden trivet. Camera: 45-degree angle. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: black marble surface with subtle grey veins. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a tiny neon lime-green ceramic salt dish blurred in the background. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "432c90bd9fd6a522cbc50523564ae047f2899c94f64cf64210d42ad90f6deff2",
+  "source_url": "https://uploads.codewords.ai/21ac468b268e26f504290b93669f4ef7d1d711e913c61c508e2fe490d22485b5/p20.png"
+ },
+ "p21": {
+  "ahash": "0000000000000000000000000000000000001111111000000000110111100000000011111111000000111111111000000011111110111000000111110011100000011011000110000000011011011010000001101111001000000110111001100000001000000110000001000000111000000100000111110000000000011111",
+  "file": "p21.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: creamy chicken salad with diced avocado, celery and green onion bound in Greek yogurt, spooned into crisp romaine lettuce cups, sprinkled with black pepper. Served in a long black slate platter. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: dark weathered wood table, almost black. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a neatly folded neon lime-green linen napkin at the edge of the frame. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "2e5083879bc7814d81468c484b797141b0a97e5dab75f407ce42b6ce5ba02a9a",
+  "source_url": "https://uploads.codewords.ai/b18119a4b92c7f1dd1fc5294a58285d0ee8f80569690f2467d8801ee9866aac2/p21.png"
+ },
+ "p22": {
+  "ahash": "0000011111110000000001111110000000001001111100000000110111111000000011101111100000000111111110000000010111111000000001011111110000000001111111000000000111111000000000011111100000000001111110000000000011111000000000001111100000000000011100000000000000000000",
+  "file": "p22.jpg",
+  "generated": "2026-11-10",
+  "model": "gemini-2.5-flash-image",
+  "prompt": "Professional editorial food photography for a premium fitness cookbook. Subject: one-pot golden turmeric rice with tender chicken thigh pieces, green peas, diced carrots and onion, garnished with chopped parsley. Served in a wide black enamel casserole pot. Camera: overhead top-down view. Wide 21:9 full-bleed frame with no borders, the dish fully in frame with breathing room, the bottom fifth of the frame is plain dark surface. Background: matte black concrete surface with soft texture. Lighting: dramatic low-key side light with a soft rim light, rich natural colours, glistening realistic textures, shallow depth of field, appetizing and natural, real home-cooked portion. Brand accent: a small neon lime-green ceramic ramekin in the background, softly out of focus. Photorealistic, high detail, shot on a full-frame camera with a 50mm lens. Only foods from this recipe appear in the frame. Absolutely no text, letters, numbers, codes, logos, watermarks, people or hands.",
+  "sha256": "373b71e1ac96d76ebb94a76ef2fad7761cca88290285c93a5213f9e67e4b4224",
+  "source_url": "https://uploads.codewords.ai/0edc78da0f35b16feee745ad45611dfce3352592427002631fa58c16a7b3a4d4/p22.png"
  },
  "s01": {
   "ahash": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000111110000000000111111100000011111111111100011111111111110001111100000111110111110000001101011111100000110011111110000000000111111100000000011111111000000001111111111000000",

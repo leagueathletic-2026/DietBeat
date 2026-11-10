@@ -124,3 +124,341 @@ recipes:
       - "اهرس الثوم مع الكزبرة وشوّحهما في باقي الزيت في طاسة صغيرة نصف دقيقة (التقلية)، وأضفهما للحلة قبل إطفاء النار بدقيقتين."
     tip: "التقلية بالثوم والكزبرة هي روح البامية المصرية — حتى بكمية زيت قليلة."
     swap: "**لوجبة كاملة:** قدّمها مع ٥٠ جم رز أبيض (قبل الطهي) للشخص (+١٨٠ سعر)."
+
+  - id: m05
+    name: "كباب حلة بالبصل"
+    en: "Egyptian Kebab Halla"
+    cuisine: "مصري"
+    servings: 4
+    time: 90
+    photo:
+      dish: "Egyptian kebab halla: tender braised lean beef cubes in a glossy caramelised golden-brown onion sauce, black pepper"
+      vessel: "a heavy dark copper-bottomed pot"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean, 500, "مكعبات لحمة صافية"]
+      - [onion, 400, "٤ بصلات حلقات"]
+      - [garlic, 10, "٣ فصوص"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [tomato_paste, 10, "٢ معلقة صغيرة (اختياري)"]
+      - [black_pepper, 2, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "حمّر اللحمة في الزيت على نار عالية حتى يتغير لونها من كل الجهات."
+      - "أضف البصل والثوم، وقلّب ١٠ دقائق حتى يذبل البصل ويخرج ماءه."
+      - "أضف الفلفل الأسود والملح والصلصة وكوب ماء ساخن، وغطِّ الحلة على نار هادئة ساعة إلى ساعة وربع."
+      - "اكشف الحلة في آخر ١٠ دقائق حتى يتكثف الصوص ويصبح بنياً لامعاً."
+    tip: "البصل الكثير هو الصوص — لا يحتاج الكباب لسمن أو دقيق ليتكثف."
+    swap: "**لوجبة كاملة:** قدّمه مع ١٥٠ جم بطاطس مشوية للحصة (+١١٥ سعر)."
+
+  - id: m06
+    name: "لحمة مقلّبة بالفلفل الألوان (كيتو)"
+    en: "Keto Pepper Beef Stir-Fry"
+    cuisine: "آسيوي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "thin strips of seared lean beef stir-fried with red and green bell pepper strips and onion in a glossy ginger-soy sauce, sesame seeds"
+      vessel: "a dark carbon-steel wok"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean, 350, "شرائح رفيعة"]
+      - [bell_pepper_red, 125, "ثمرة"]
+      - [bell_pepper_green, 125, "ثمرة"]
+      - [onion, 40, "نصف بصلة صغيرة"]
+      - [garlic, 6, "فصين"]
+      - [ginger, 5, "مبشور"]
+      - [soy_sauce_light, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [sesame, 4, "للتزيين"]
+    steps:
+      - "قطّع اللحمة شرائح رفيعة جداً عكس الألياف (التجميد ٣٠ دقيقة يسهّل التقطيع)."
+      - "سخّن نصف الزيت على نار عالية جداً، وحمّر اللحمة دقيقتين فقط ثم ارفعها."
+      - "أضف باقي الزيت والثوم والجنزبيل والخضار، وقلّب ٣ دقائق."
+      - "أرجع اللحمة، وأضف الصويا صوص، وقلّب دقيقة، ورش السمسم."
+    tip: "اللحمة الصافية تطهى بسرعة — الطهي الزائد يجعلها مطاطية."
+
+  - id: m07
+    name: "كفتة داود باشا بالصلصة"
+    en: "Daoud Basha Meatballs"
+    cuisine: "مصري"
+    servings: 4
+    time: 45
+    photo:
+      dish: "Daoud Basha: round beef meatballs simmered in a thick red tomato sauce with onion, sprinkled with chopped parsley"
+      vessel: "a wide black enamel braiser"
+      angle: "overhead top-down view"
+    ingredients:
+      - [beef_lean_ground, 400, "لحمة مفرومة ٥٪"]
+      - [onion, 130, "٥٠ للكفتة و٨٠ للصلصة"]
+      - [parsley, 15, "مفروم"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [tomato_canned, 400, "علبة"]
+      - [tomato_paste, 20, "معلقة كبيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اخلط اللحمة مع ٥٠ جم بصل مبشور ومعصور والبقدونس ونصف الثوم والكمون والملح، وشكّل ٢٠ كرة."
+      - "حمّر الكرات في الفرن ٢٢٠° لمدة ١٠ دقائق بدلاً من القلي."
+      - "شوّح باقي البصل والثوم في الزيت، وأضف الطماطم والصلصة ونصف كوب ماء، واتركها ١٠ دقائق."
+      - "أضف الكفتة للصلصة، واتركها تتسبك ١٥ دقيقة على نار هادئة."
+    tip: "تحمير الكفتة في الفرن يوفر الزيت ويحافظ على شكلها في الصلصة."
+    swap: "**لوجبة كاملة:** قدّمها مع ٥٠ جم رز أبيض (قبل الطهي) للشخص (+١٨٠ سعر)."
+
+  - id: m08
+    name: "طاجن لحمة بالخضار في الفرن"
+    en: "Oven Beef & Vegetable Stew"
+    cuisine: "مصري"
+    servings: 4
+    time: 100
+    photo:
+      dish: "a rustic beef and vegetable stew with tender beef chunks, potato cubes, carrot rounds and green peas in a rich tomato sauce, steaming"
+      vessel: "a traditional dark clay pot (tagen)"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean, 500, "مكعبات"]
+      - [potato, 300, "٢ بطاطس مكعبات"]
+      - [carrot, 200, "٢ جزرة"]
+      - [peas, 150, "بسلة"]
+      - [onion, 100, "بصلة"]
+      - [tomato_canned, 400, "علبة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "حمّر اللحمة في الزيت، ثم أضف البصل والثوم."
+      - "أضف الطماطم و٥٠٠ مل ماء، واتركها ٤٥ دقيقة على نار هادئة."
+      - "انقلها إلى طاجن فخار، وأضف البطاطس والجزر والبسلة والملح."
+      - "اخبزه في فرن ١٨٠° لمدة ٤٠ دقيقة حتى تنضج الخضار ويتحمر الوش."
+    tip: "الفخار يحتفظ بالحرارة ويعطي الطاجن طعماً مميزاً — نفس فكرة طواجن الفرن البلدي."
+
+  - id: m09
+    name: "كبدة إسكندراني"
+    en: "Alexandrian Beef Liver"
+    cuisine: "مصري"
+    servings: 3
+    time: 20
+    photo:
+      dish: "Alexandrian-style beef liver: thin strips of sauteed liver with sliced green peppers and hot chillies, garlic and cumin, lemon wedges"
+      vessel: "a black cast-iron skillet"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_liver, 400, "شرائح رفيعة"]
+      - [bell_pepper_green, 150, "٢ فلفل رومي"]
+      - [chili_green, 20, "٢ فلفل حار"]
+      - [garlic, 20, "٦ فصوص"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [vinegar, 10, "معلقتين صغيرتين"]
+      - [lemon_juice, 20, "للتقديم"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اغسل الكبدة وجففها، وتبّلها بالخل والكمون ونصف الثوم."
+      - "سخّن الزيت على نار عالية جداً، وقلّب الكبدة ٣–٤ دقائق فقط."
+      - "أضف الفلفل والحار وباقي الثوم، وقلّب دقيقتين حتى يذبل الفلفل قليلاً."
+      - "رش الملح في النهاية، وقدّمها مع الليمون."
+    tip: "الملح في آخر الطهي يمنع الكبدة من أن تجف وتقسو. الكبدة غنية جداً بالحديد وفيتامين أ."
+
+  - id: m10
+    name: "برجر لحمة صحي بالعيش الأسمر"
+    en: "Lean Beef Burger"
+    cuisine: "أمريكي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two lean beef burgers in toasted whole-wheat buns with melted mozzarella, crisp lettuce, tomato and red onion slices, a side of cucumber pickles"
+      vessel: "a dark wooden board"
+      angle: "low eye-level side view"
+    ingredients:
+      - [beef_lean_ground, 300, "لحمة مفرومة ٥٪"]
+      - [onion, 60, "٢٠ للبرجر و٤٠ شرائح"]
+      - [garlic, 3, "فص"]
+      - [black_pepper, 1, "رشة"]
+      - [bread_whole, 120, "٢ عيش برجر أسمر"]
+      - [mozzarella_light, 30, "شريحتين"]
+      - [romaine, 30, "ورقتين خس"]
+      - [tomato, 80, "شرائح"]
+      - [cucumber, 60, "شرائح"]
+      - [mustard, 10, "معلقتين صغيرتين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اخلط اللحمة مع ٢٠ جم بصل مبشور والثوم والفلفل والملح، وشكّل قرصين أعرض قليلاً من العيش."
+      - "اشوِ البرجر في طاسة جريل ساخنة ٤ دقائق لكل جانب، وضع الموتزاريلا في آخر دقيقة."
+      - "حمّص العيش، وادهنه بالمستردة."
+      - "رتّب الخس والبرجر والطماطم والبصل والخيار داخل العيش."
+    tip: "اعمل تجويفاً صغيراً في منتصف القرص بإصبعك حتى لا ينتفخ أثناء الشوي."
+
+  - id: m11
+    name: "كوسة محشية لحمة في الفرن (كيتو)"
+    en: "Keto Beef-Stuffed Zucchini Boats"
+    cuisine: "متوسطي"
+    servings: 3
+    time: 40
+    photo:
+      dish: "six halved zucchini boats filled with seasoned minced beef and tomato, topped with bubbling golden mozzarella and parsley"
+      vessel: "a dark rectangular baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [zucchini, 600, "٣ كوسات كبيرة"]
+      - [beef_lean_ground, 300, "لحمة مفرومة ٥٪"]
+      - [onion, 60, "نصف بصلة"]
+      - [tomato, 150, "ثمرة مفرومة"]
+      - [garlic, 5, "فص"]
+      - [mozzarella_light, 45, "مبشورة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٠٠°. اقسم الكوسة بالطول وافرّغ لبها، وافرم اللب."
+      - "شوّح البصل والثوم في الزيت، ثم أضف اللحمة حتى تتحمر، ثم الطماطم ولب الكوسة واتركها ٥ دقائق."
+      - "احشُ الكوسة بالخليط ورصها في صينية، ورش الموتزاريلا."
+      - "اخبزها ٢٠ دقيقة حتى تنضج الكوسة وتتحمر الجبنة."
+    tip: "لب الكوسة المفروم يزيد حجم الحشوة بدون سعرات تقريباً — لا ترمه."
+
+  - id: m12
+    name: "طبق شاورما اللحمة"
+    en: "Beef Shawarma Plate"
+    cuisine: "شامي"
+    servings: 3
+    time: 35
+    photo:
+      dish: "beef shawarma plate: thin spiced seared beef slices, chopped tomato-cucumber-onion salad, a drizzle of tahini sauce, pickled turnip slices and a warm whole-wheat pita"
+      vessel: "a wide matte black oval platter"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean, 400, "شرائح رفيعة جداً"]
+      - [yogurt_low, 60, "للتتبيلة"]
+      - [vinegar, 15, "معلقة كبيرة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [cinnamon, 1, "رشة"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [tomato, 150, "للسلطة"]
+      - [cucumber, 150, "للسلطة"]
+      - [onion, 40, "للسلطة"]
+      - [tahini, 20, "للصوص"]
+      - [lemon_juice, 20, "للصوص"]
+      - [pita_whole, 90, "رغيف ونصف"]
+    steps:
+      - "تبّل اللحمة بالزبادي والخل والثوم والبهارات ونصف الزيت، واتركها ساعة على الأقل."
+      - "سخّن طاسة كبيرة على نار عالية جداً، وحمّر اللحمة على دفعات دقيقتين لكل دفعة."
+      - "اخفق الطحينة مع الليمون والماء والملح."
+      - "قدّم اللحمة مع السلطة والطحينة والعيش."
+    tip: "التحمير على دفعات صغيرة يعطي حواف مقرمشة مثل شاورما المحلات."
+
+  - id: m13
+    name: "ضاني مشوي بالأعشاب مع خضار مشوية"
+    en: "Herb-Roasted Lamb with Vegetables"
+    cuisine: "متوسطي"
+    servings: 4
+    time: 75
+    photo:
+      dish: "slices of herb-roasted lean lamb leg with a garlic crust over roasted zucchini, eggplant and red onion wedges, juices glistening"
+      vessel: "a black roasting pan"
+      angle: "45-degree angle"
+    ingredients:
+      - [lamb_lean, 500, "لحم فخدة ضاني صافي"]
+      - [zucchini, 300, "٣ كوسات"]
+      - [eggplant, 300, "باذنجانة"]
+      - [onion, 150, "بصلة حمراء"]
+      - [garlic, 15, "٥ فصوص"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [black_pepper, 2, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل اللحم بالثوم والليمون والكمون والفلفل والملح ونصف الزيت، واتركه ساعتين على الأقل."
+      - "قطّع الخضار قطعاً كبيرة، وقلّبها مع باقي الزيت والملح."
+      - "رص اللحم فوق الخضار، واخبزه مغطى في فرن ١٨٠° لمدة ٤٠ دقيقة، ثم اكشفه ١٥ دقيقة."
+      - "اترك اللحم يرتاح ١٠ دقائق، ثم قطّعه شرائح."
+    tip: "اختر لحم الفخدة وانزع الدهون الظاهرة — الضاني الصافي قريب في السعرات من اللحم البقري."
+
+  - id: m14
+    name: "تشيلي لحمة بالفاصوليا الحمراء"
+    en: "Beef & Bean Chili"
+    cuisine: "مكسيكي"
+    servings: 4
+    time: 50
+    photo:
+      dish: "thick hearty beef and red kidney bean chili with diced peppers, topped with a spoon of Greek yogurt and chopped coriander"
+      vessel: "a deep black stoneware bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean_ground, 400, "لحمة مفرومة ٥٪"]
+      - [kidney_canned, 240, "علبة صغيرة مصفاة"]
+      - [tomato_canned, 400, "علبة"]
+      - [onion, 100, "بصلة"]
+      - [bell_pepper_red, 100, "ثمرة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [paprika, 3, "معلقة صغيرة ونصف"]
+      - [chili_green, 10, "حسب الرغبة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [greek_yogurt_0, 80, "للتقديم"]
+      - [cilantro, 5, "للتزيين"]
+    steps:
+      - "شوّح البصل والفلفل في الزيت ٥ دقائق، ثم أضف الثوم والبهارات دقيقة."
+      - "أضف اللحمة وفتّتها حتى تتحمر."
+      - "أضف الطماطم والفاصوليا ونصف كوب ماء، واتركها ٣٠ دقيقة على نار هادئة."
+      - "قدّمها مع معلقة زبادي والكزبرة."
+    tip: "البقوليات تضاعف الألياف وتجعل الطبق مُشبعاً أكثر بدون زيادة كبيرة في السعرات."
+
+  - id: m15
+    name: "ستيك بصوص المشروم مع سلطة جرجير (كيتو)"
+    en: "Keto Steak with Mushroom Sauce"
+    cuisine: "عالمي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "sliced pink medium-rare lean steak topped with garlic butter mushrooms, beside a fresh arugula salad with shaved parmesan"
+      vessel: "a dark grey slate plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [beef_lean, 300, "قطعتين ستيك"]
+      - [mushrooms, 150, "شرائح"]
+      - [butter, 10, "معلقتين صغيرتين"]
+      - [garlic, 6, "فصين"]
+      - [arugula, 80, "حزمة جرجير"]
+      - [parmesan, 10, "شرائح رفيعة"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "جفف الستيك وتبّله بالملح والفلفل، واطهه في طاسة ساخنة جداً ٣–٤ دقائق لكل جانب، واتركه يرتاح."
+      - "في نفس الطاسة، ذوّب الزبدة وشوّح المشروم والثوم حتى يتحمر."
+      - "قلّب الجرجير مع الزيت والليمون، ورش البارميزان."
+      - "قطّع الستيك، وضع المشروم فوقه، وقدّمه مع السلطة."
+    tip: "الجرجير الحار قليلاً يوازن دسامة اللحم والزبدة — وسعراته شبه منعدمة."
+
+  - id: m16
+    name: "مكرونة بولونيز بالقمح الكامل"
+    en: "Whole-Wheat Spaghetti Bolognese"
+    cuisine: "إيطالي"
+    servings: 4
+    time: 50
+    photo:
+      dish: "whole-wheat spaghetti twirled into a nest and topped with a rich meaty bolognese sauce with finely diced carrot and celery, grated parmesan and a basil leaf"
+      vessel: "a wide dark rimmed pasta plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [pasta_whole, 240, "مكرونة إسباجيتي قمح كامل"]
+      - [beef_lean_ground, 400, "لحمة مفرومة ٥٪"]
+      - [tomato_canned, 400, "علبة"]
+      - [tomato_paste, 20, "معلقة كبيرة"]
+      - [onion, 100, "بصلة"]
+      - [carrot, 80, "جزرة مبشورة"]
+      - [celery, 60, "عود كرفس مفروم"]
+      - [garlic, 10, "٣ فصوص"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [parmesan, 20, "للتقديم"]
+      - [basil, 0, "للتزيين"]
+    steps:
+      - "شوّح البصل والجزر والكرفس في الزيت ٨ دقائق حتى تطرى، ثم أضف الثوم."
+      - "أضف اللحمة وفتّتها حتى تتحمر."
+      - "أضف الطماطم والصلصة ونصف كوب ماء، واتركها تتسبك ٢٥ دقيقة على نار هادئة."
+      - "اسلق المكرونة حسب العبوة، وقدّمها بالصلصة والبارميزان."
+    tip: "الخضار المفرومة داخل الصلصة تضاعف الحجم والألياف — وطريقة ذكية لإطعام الأطفال الخضار."

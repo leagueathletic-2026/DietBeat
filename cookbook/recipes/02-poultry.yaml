@@ -128,3 +128,520 @@ recipes:
       - "أرجع الفراخ وأضف الصوص، وقلّب دقيقة حتى يتكثف ويلمع. زيّن بالسمسم."
     tip: "يجب أن تكون الطاسة ساخنة جداً قبل إضافة الفراخ حتى تتحمر ولا تُسلق في عصارتها."
     swap: "**للرياضيين:** قدّمها مع ٧٠ جم رز أبيض (قبل الطهي) للشخص (+٢٥٥ سعر)."
+
+  - id: p05
+    name: "صدور فراخ بالأعشاب مع سلطة يونانية"
+    en: "Herb Chicken with Greek Salad"
+    cuisine: "يوناني"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two grilled herb-crusted chicken breasts sliced on the bias next to a Greek salad of cucumber, tomato, red onion, black olives and a block of feta"
+      vessel: "a large round dark stoneware plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 300, "صدرين"]
+      - [olive_oil, 12, "معلقة كبيرة"]
+      - [lemon_juice, 20, "عصير نصف ليمونة"]
+      - [garlic, 6, "فصين"]
+      - [parsley, 10, "مفروم"]
+      - [cucumber, 150, "خيارة كبيرة"]
+      - [tomato, 150, "ثمرة كبيرة"]
+      - [onion, 30, "شرائح بصل أحمر"]
+      - [olives, 30, "٨ حبات"]
+      - [feta, 40, "قطعة صغيرة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل الفراخ بنصف الزيت ونصف الليمون والثوم والبقدونس والملح والفلفل، واتركها ١٥ دقيقة."
+      - "اشوِها في جريل ساخن ٥–٦ دقائق لكل جانب، واتركها ترتاح ثم قطّعها."
+      - "قطّع الخيار والطماطم مكعبات كبيرة، وأضف البصل والزيتون."
+      - "رش باقي الزيت والليمون على السلطة، وضع الفيتا فوقها، وقدّمها مع الفراخ."
+    tip: "وجبة كيتو متوازنة: بروتين عالٍ ودهون صحية من زيت الزيتون والزيتون."
+
+  - id: p06
+    name: "فراخ بانيه في الفرن بالشوفان"
+    en: "Oven-Baked Oat-Crusted Chicken"
+    cuisine: "عالمي"
+    servings: 2
+    time: 30
+    photo:
+      dish: "crispy golden oven-baked chicken breast tenders with a crunchy oat and parmesan crust, a pile of bright green beans and a small bowl of yogurt-mustard dip"
+      vessel: "a black wire rack over a dark baking tray"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 300, "مقطع أصابع"]
+      - [oats, 40, "مطحون خشن"]
+      - [parmesan, 15, "معلقة كبيرة"]
+      - [egg, 50, "بيضة"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [garlic, 3, "فص مهروس"]
+      - [olive_oil, 5, "رشة للتحمير"]
+      - [green_beans, 200, "مسلوقة للتقديم"]
+      - [greek_yogurt_0, 60, "للصوص"]
+      - [mustard, 10, "للصوص"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٢٠° وضع شبكة فوق صينية."
+      - "اخلط الشوفان المطحون والبارميزان والبابريكا والملح."
+      - "اخفق البيض مع الثوم، واغمس كل قطعة فراخ فيه ثم في خليط الشوفان."
+      - "رصها على الشبكة، ورشها بالزيت، واخبزها ١٨–٢٠ دقيقة حتى تتحمر."
+      - "اخلط الزبادي والمستردة للصوص، وقدّمها مع الفاصوليا."
+    tip: "الشبكة فوق الصينية تجعل الهواء الساخن يمر من كل الجهات فتقرمش القطع بدون قلي."
+
+  - id: p07
+    name: "كفتة الديك الرومي بالكوسة مع صوص الزبادي"
+    en: "Turkey & Zucchini Kofta with Yogurt Dip"
+    cuisine: "تركي"
+    servings: 3
+    time: 30
+    photo:
+      dish: "nine grilled turkey and zucchini kofta patties flecked with green herbs, a bowl of creamy cucumber-mint yogurt dip, lemon wedges"
+      vessel: "a long dark stone serving board"
+      angle: "45-degree angle"
+    ingredients:
+      - [turkey_ground, 400, "لحم ديك رومي مفروم"]
+      - [zucchini, 150, "كوسة مبشورة ومعصورة"]
+      - [onion, 50, "نصف بصلة مبشورة"]
+      - [parsley, 15, "مفروم"]
+      - [garlic, 5, "فص"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [olive_oil, 5, "للدهن"]
+      - [greek_yogurt_0, 150, "للصوص"]
+      - [cucumber, 80, "مبشور"]
+      - [mint, 5, "مفروم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اعصر الكوسة والبصل جيداً من الماء."
+      - "اخلطهما مع الديك الرومي والبقدونس والثوم والكمون والملح، وشكّل ٩ أقراص."
+      - "اشوِها في طاسة جريل مدهونة ٤–٥ دقائق لكل جانب."
+      - "اخلط الزبادي مع الخيار المبشور والنعناع والملح، وقدّمه مع الكفتة."
+    tip: "الكوسة المبشورة تحافظ على طراوة اللحم قليل الدهون وتضيف حجماً بسعرات أقل."
+
+  - id: p08
+    name: "فراخ بالمشروم والصوص الكريمي الخفيف"
+    en: "Creamy Mushroom Chicken"
+    cuisine: "فرنسي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "seared chicken breasts in a light creamy mushroom sauce with sliced mushrooms and wilted spinach, cracked black pepper"
+      vessel: "a dark stainless-steel saute pan"
+      angle: "overhead top-down view"
+    ingredients:
+      - [chicken_breast, 300, "صدرين مفرودين"]
+      - [mushrooms, 200, "علبة مشروم طازج شرائح"]
+      - [onion, 40, "ربع بصلة"]
+      - [garlic, 6, "فصين"]
+      - [butter, 5, "معلقة صغيرة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [cream_cheese_light, 50, "معلقتين كبيرتين"]
+      - [milk_1, 100, "نصف كوب"]
+      - [spinach, 50, "حفنة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل الفراخ بالملح والفلفل، وحمّرها في الزيت ٥ دقائق لكل جانب، ثم ارفعها."
+      - "في نفس الطاسة، ذوّب الزبدة وشوّح البصل والثوم والمشروم حتى يتحمر."
+      - "أضف الجبنة الكريمي واللبن وقلّب حتى يصبح صوصاً ناعماً، ثم السبانخ."
+      - "أرجع الفراخ للصوص ٣ دقائق حتى تنضج تماماً."
+    tip: "الجبنة الكريمي اللايت مع اللبن تعطي صوصاً كريمياً بجزء صغير من سعرات الكريمة."
+
+  - id: p09
+    name: "شيش طاووق بالخضار المشوية"
+    en: "Shish Tawook with Grilled Vegetables"
+    cuisine: "شامي"
+    servings: 3
+    time: 35
+    photo:
+      dish: "three skewers of orange-red marinated shish tawook chicken cubes alternating with charred red and green peppers and onion, a small bowl of white garlic yogurt sauce"
+      vessel: "a dark grill-marked cast-iron platter"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 450, "مكعبات"]
+      - [yogurt_low, 80, "للتتبيلة"]
+      - [tomato_paste, 15, "معلقة كبيرة"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [garlic, 10, "٣ فصوص"]
+      - [paprika, 3, "معلقة صغيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [bell_pepper_red, 120, "ثمرة"]
+      - [bell_pepper_green, 120, "ثمرة"]
+      - [onion, 100, "بصلة"]
+      - [greek_yogurt_0, 100, "لصوص الثوم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اخلط الزبادي والصلصة ونصف الليمون وثلثي الثوم والبابريكا والزيت، وتبّل الفراخ ساعتين على الأقل."
+      - "قطّع الفلفل والبصل مربعات، واشبكها بالتبادل مع الفراخ في الأسياخ."
+      - "اشوِها في الجريل أو الفرن ٢٢٠° لمدة ١٥–١٨ دقيقة مع التقليب."
+      - "اخفق الزبادي اليوناني مع باقي الثوم والليمون والملح، وقدّمه مع الأسياخ."
+    tip: "الصلصة والزبادي في التتبيلة يعطيان اللون الأحمر المميز بدون صبغات أو زيت كثير."
+
+  - id: p10
+    name: "صينية فراخ بالبطاطس في الفرن"
+    en: "Egyptian Chicken & Potato Tray Bake"
+    cuisine: "مصري"
+    servings: 4
+    time: 60
+    photo:
+      dish: "Egyptian tray bake: golden roasted skinless chicken thighs on top of potato slices, onion and tomato slices in a light tomato broth, roasted and caramelised"
+      vessel: "a round black enamel oven tray"
+      angle: "overhead top-down view"
+    ingredients:
+      - [chicken_thigh, 500, "أوراك منزوعة الجلد"]
+      - [potato, 500, "٣ بطاطسات شرائح"]
+      - [onion, 150, "بصلة كبيرة حلقات"]
+      - [tomato, 200, "٢ طماطم شرائح"]
+      - [tomato_paste, 20, "معلقة كبيرة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [paprika, 3, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل الفراخ بالثوم والبابريكا والكمون والملح ونصف الزيت."
+      - "رص البطاطس والبصل في صينية، ورش باقي الزيت والملح."
+      - "ضع الفراخ فوقها، ثم الطماطم. اخلط الصلصة مع كوب ماء ساخن وصبها في الصينية."
+      - "غطِّها بورق ألومنيوم واخبزها في فرن ٢٠٠° لمدة ٣٥ دقيقة، ثم اكشفها ٢٠ دقيقة حتى تتحمر."
+    tip: "إزالة جلد الفراخ قبل الطهي توفر نسبة كبيرة من الدهون بدون ما يتغير الطعم كثيراً."
+
+  - id: p11
+    name: "بول البوريتو بالفراخ"
+    en: "Chicken Burrito Bowl"
+    cuisine: "مكسيكي"
+    servings: 2
+    time: 35
+    photo:
+      dish: "chicken burrito bowl: sections of brown rice, sliced spiced grilled chicken, black beans, sweet corn, fresh tomato salsa, avocado slices and a spoon of Greek yogurt, lime wedge"
+      vessel: "a wide shallow black ceramic bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [chicken_breast, 300, "صدرين"]
+      - [rice_brown, 80, "ثلث كوب (قبل الطهي)"]
+      - [black_beans_canned, 120, "مصفاة"]
+      - [corn, 80, "ذرة"]
+      - [tomato, 120, "للصالصا"]
+      - [onion, 30, "للصالصا"]
+      - [cilantro, 10, "كزبرة"]
+      - [lemon_juice, 15, "عصير ليمون"]
+      - [avocado, 60, "شرائح"]
+      - [greek_yogurt_0, 40, "بديل الكريمة الحامضة"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+    steps:
+      - "اطهِ الرز البني في الماء حتى ينضج."
+      - "تبّل الفراخ بالبابريكا والكمون والزيت والملح، واشوِها ثم قطّعها شرائح."
+      - "للصالصا: اخلط الطماطم والبصل والكزبرة المفرومة مع الليمون والملح."
+      - "سخّن الفاصوليا والذرة، ثم رتّب كل المكونات في طبقين، وأضف الأفوكادو والزبادي."
+    tip: "وجبة متكاملة مناسبة لـ Meal Prep: احفظ المكونات منفصلة واجمعها وقت الأكل."
+
+  - id: p12
+    name: "ملوخية بالفراخ"
+    en: "Egyptian Molokhia with Chicken"
+    cuisine: "مصري"
+    servings: 3
+    time: 40
+    photo:
+      dish: "a bowl of glossy deep-green Egyptian molokhia soup with a garlic-coriander topping, beside a plate of poached chicken breast pieces"
+      vessel: "a dark clay bowl and a matching small plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [molokhia, 400, "ملوخية مخروطة (طازجة أو مجمدة)"]
+      - [chicken_breast, 300, "صدر فراخ"]
+      - [chicken_broth, 700, "شوربة فراخ"]
+      - [garlic, 15, "٥ فصوص"]
+      - [cilantro, 10, "كزبرة ناشفة أو خضراء"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق الفراخ في الشوربة مع الملح ٢٠ دقيقة حتى تنضج، ثم أخرجها."
+      - "اغلِ الشوربة، وأضف الملوخية مع التقليب، واتركها حتى تبدأ تغلي ثم اطفئ النار فوراً."
+      - "اهرس الثوم مع الكزبرة، وشوّحهما في الزيت حتى يصفرّ الثوم، وأضفهما للملوخية (الطشة)."
+      - "قدّم الملوخية مع قطع الفراخ."
+    tip: "لا تغطِّ الملوخية بعد الإضافة ولا تتركها تغلي طويلاً حتى لا تهبط."
+    swap: "**لوجبة كاملة:** قدّمها مع ٥٠ جم رز أبيض (قبل الطهي) للشخص (+١٨٠ سعر)."
+
+  - id: p13
+    name: "ديك رومي مقلّب بالكرنب (كيتو)"
+    en: "Keto Turkey Cabbage Stir-Fry"
+    cuisine: "آسيوي"
+    servings: 3
+    time: 20
+    photo:
+      dish: "turkey and shredded cabbage stir-fry with carrot ribbons, green onion and toasted sesame seeds, glistening with soy-ginger sauce"
+      vessel: "a black wok"
+      angle: "45-degree angle"
+    ingredients:
+      - [turkey_ground, 400, "مفروم"]
+      - [cabbage, 400, "ربع كرنبة مقطعة رفيع"]
+      - [carrot, 80, "جزرة مبشورة"]
+      - [green_onion, 30, "عودين"]
+      - [garlic, 10, "٣ فصوص"]
+      - [ginger, 10, "مبشور"]
+      - [soy_sauce_light, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [sesame, 5, "للتزيين"]
+    steps:
+      - "حمّر الديك الرومي في الزيت على نار عالية مع التفتيت حتى يتحمر."
+      - "أضف الثوم والجنزبيل دقيقة."
+      - "أضف الكرنب والجزر، وقلّب ٥–٦ دقائق حتى يذبل ويبقى مقرمشاً قليلاً."
+      - "أضف الصويا صوص والبصل الأخضر، ورش السمسم."
+    tip: "نسخة منخفضة الكربوهيدرات من «الإيج رول» الصيني — كل الطعم بدون العجين المقلي."
+
+  - id: p14
+    name: "فراخ بالبروكلي والجبنة في الفرن (كيتو)"
+    en: "Keto Chicken Broccoli Bake"
+    cuisine: "عالمي"
+    servings: 3
+    time: 35
+    photo:
+      dish: "chicken and broccoli casserole with bubbling golden melted mozzarella on top, a serving scooped out showing chicken pieces and broccoli florets in creamy sauce"
+      vessel: "a dark rectangular ceramic baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 400, "مكعبات"]
+      - [broccoli, 300, "زهرات"]
+      - [cream_cheese_light, 60, "معلقتين كبيرتين ونصف"]
+      - [milk_skim, 100, "نصف كوب"]
+      - [mozzarella_light, 60, "مبشورة"]
+      - [garlic, 6, "فصين"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٠٠°. حمّر الفراخ في الزيت مع الثوم والملح ٥ دقائق."
+      - "اسلق البروكلي دقيقتين فقط."
+      - "ذوّب الجبنة الكريمي في اللبن على نار هادئة حتى يصبح صوصاً."
+      - "اخلط الفراخ والبروكلي والصوص في طاجن، ورش الموتزاريلا، واخبزه ١٥ دقيقة حتى يتحمر الوش."
+    tip: "وجبة كيتو مُشبعة تتحضر مسبقاً وتُسخّن بسهولة."
+
+  - id: p15
+    name: "سلطة سيزر بالفراخ (نسخة خفيفة)"
+    en: "Lighter Chicken Caesar Salad"
+    cuisine: "عالمي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "chicken Caesar salad: crisp romaine leaves, sliced grilled chicken breast, shaved parmesan, a few whole-wheat croutons and a creamy yogurt Caesar dressing drizzled on top"
+      vessel: "a large dark wooden salad bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 250, "صدر كبير"]
+      - [romaine, 200, "رأس خس رومين"]
+      - [parmesan, 15, "مبشور"]
+      - [bread_whole, 30, "شريحة توست للخبز المحمص"]
+      - [greek_yogurt_0, 60, "للصوص"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [mustard, 5, "معلقة صغيرة"]
+      - [garlic, 3, "فص صغير"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [black_pepper, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل الفراخ بالملح والفلفل ونصف الزيت، واشوِها ثم قطّعها شرائح."
+      - "قطّع التوست مكعبات، وحمّصه في الفرن ٨ دقائق."
+      - "اخفق الزبادي والليمون والمستردة والثوم وباقي الزيت ونصف البارميزان."
+      - "قلّب الخس مع الصوص، ثم أضف الفراخ والخبز المحمص وباقي البارميزان."
+    tip: "صوص السيزر التقليدي يعتمد على المايونيز والزيت — نسخة الزبادي توفر أكثر من ٢٠٠ سعر في الطبق."
+
+  - id: p16
+    name: "صدور فراخ محشية سبانخ وفيتا (كيتو)"
+    en: "Keto Spinach & Feta Stuffed Chicken"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 35
+    photo:
+      dish: "two golden roasted chicken breasts sliced open to reveal a spinach and white feta stuffing, roasted cherry tomatoes on the vine beside them"
+      vessel: "a black oval cast-iron dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 400, "صدرين كبيرين"]
+      - [spinach, 100, "مشوحة ومعصورة"]
+      - [feta, 50, "مفتتة"]
+      - [garlic, 6, "فصين"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [tomato, 150, "طماطم شيري"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٠٠°. اعمل جيباً في كل صدر بالسكين من الجنب."
+      - "شوّح السبانخ مع الثوم، واعصرها، واخلطها مع الفيتا."
+      - "احشُ الصدور، واقفلها بخلة أسنان، وادهنها بالزيت والبابريكا والملح."
+      - "اخبزها مع الطماطم الشيري ٢٢–٢٥ دقيقة حتى تنضج تماماً."
+    tip: "استخدم ميزان حرارة إن وُجد: الفراخ تنضج بأمان عند ٧٤° في المنتصف."
+
+  - id: p17
+    name: "فراخ ترياكي صحية مع رز وإدامامي"
+    en: "Healthy Chicken Teriyaki Bowl"
+    cuisine: "ياباني"
+    servings: 2
+    time: 30
+    photo:
+      dish: "glossy teriyaki chicken thigh pieces sprinkled with sesame seeds and green onion over steamed white rice, with bright green edamame beans and cucumber slices"
+      vessel: "a black lacquered Japanese-style bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_thigh, 300, "أوراك منزوعة الجلد مكعبات"]
+      - [soy_sauce_light, 25, "معلقتين كبيرتين"]
+      - [honey, 12, "معلقة كبيرة"]
+      - [ginger, 5, "مبشور"]
+      - [garlic, 5, "فص"]
+      - [cornstarch, 5, "معلقتين صغيرتين"]
+      - [rice_white, 100, "نصف كوب (قبل الطهي)"]
+      - [edamame, 100, "مجمد"]
+      - [cucumber, 80, "شرائح"]
+      - [sesame, 5, "معلقة صغيرة"]
+      - [green_onion, 10, "عود"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+    steps:
+      - "اطهِ الرز، واسلق الإدامامي ٤ دقائق."
+      - "اخلط الصويا والعسل والجنزبيل والثوم والنشا مع ٥٠ مل ماء."
+      - "حمّر الفراخ في الزيت ٦–٧ دقائق حتى تنضج، ثم أضف الصوص وقلّب حتى يتكثف ويلمع."
+      - "قدّمها فوق الرز مع الإدامامي والخيار، ورش السمسم والبصل الأخضر."
+    tip: "صوص الترياكي الجاهز مليء بالسكر — نسختك المنزلية تحتاج معلقة عسل واحدة فقط."
+
+  - id: p18
+    name: "برجر الفراخ في أوراق الخس (كيتو)"
+    en: "Keto Chicken Burger Lettuce Wraps"
+    cuisine: "أمريكي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two juicy grilled chicken burger patties topped with melted mozzarella, tomato slices and red onion, each wrapped in large crisp iceberg-style romaine lettuce leaves instead of buns"
+      vessel: "a dark parchment-lined slate board"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 300, "مفروم"]
+      - [onion, 40, "مبشور ومعصور"]
+      - [parsley, 10, "مفروم"]
+      - [garlic, 5, "فص"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [mozzarella_light, 40, "شريحتين"]
+      - [romaine, 100, "أوراق كبيرة"]
+      - [tomato, 100, "شرائح"]
+      - [mustard, 10, "معلقتين صغيرتين"]
+      - [olive_oil, 5, "للجريل"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اخلط الفراخ المفرومة مع البصل والبقدونس والثوم والبابريكا والملح، وشكّل قرصين."
+      - "اشوِها في طاسة جريل مدهونة ٥ دقائق لكل جانب، وضع الموتزاريلا في آخر دقيقة."
+      - "ضع كل برجر في أوراق الخس مع الطماطم والمستردة، ولفّه."
+    tip: "اطلب من الجزار فرم صدور الفراخ أمامك — أقل دهوناً بكثير من المفروم الجاهز."
+    swap: "**بدون كيتو:** قدّمه في عيش برجر أسمر (٦٠ جم، +١٥٠ سعر تقريباً)."
+
+  - id: p19
+    name: "طاجن فراخ مغربي بالخضار والزيتون"
+    en: "Moroccan Chicken Tagine"
+    cuisine: "مغربي"
+    servings: 3
+    time: 50
+    photo:
+      dish: "Moroccan chicken tagine: golden turmeric-spiced chicken thighs with carrot chunks, zucchini, chickpeas, green olives and lemon slices in a fragrant sauce, coriander leaves"
+      vessel: "a traditional dark clay tagine with its conical lid set beside it"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_thigh, 400, "أوراك منزوعة الجلد"]
+      - [carrot, 200, "٢ جزرة قطع كبيرة"]
+      - [zucchini, 200, "٢ كوسة"]
+      - [chickpeas_canned, 120, "مصفى"]
+      - [onion, 100, "بصلة"]
+      - [olives, 30, "زيتون أخضر أو أسود"]
+      - [lemon_juice, 20, "مع شرائح ليمون"]
+      - [garlic, 10, "٣ فصوص"]
+      - [ginger, 5, "مبشور"]
+      - [turmeric, 2, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [cilantro, 10, "للتزيين"]
+    steps:
+      - "حمّر الفراخ في الزيت من الجانبين، ثم ارفعها."
+      - "شوّح البصل والثوم والجنزبيل والبهارات دقيقتين."
+      - "أرجع الفراخ، وأضف الجزر و٣٠٠ مل ماء، وغطِّها على نار هادئة ٢٠ دقيقة."
+      - "أضف الكوسة والحمص والزيتون والليمون، واتركها ١٥ دقيقة أخرى، ثم زيّن بالكزبرة."
+    tip: "الزيتون مالح بطبيعته — تذوّق قبل إضافة أي ملح."
+
+  - id: p20
+    name: "فاهيتا الفراخ في التورتيلا"
+    en: "Chicken Fajitas"
+    cuisine: "مكسيكي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "sizzling chicken fajita strips with charred red and green pepper and onion strips, two warm whole-wheat tortillas, a bowl of Greek yogurt and lime wedges"
+      vessel: "a black cast-iron skillet on a wooden trivet"
+      angle: "45-degree angle"
+    ingredients:
+      - [chicken_breast, 300, "شرائح"]
+      - [bell_pepper_red, 100, "شرائح"]
+      - [bell_pepper_green, 100, "شرائح"]
+      - [onion, 100, "شرائح"]
+      - [paprika, 3, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [garlic, 5, "فص"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [tortilla_whole, 90, "٢ رغيف تورتيلا"]
+      - [greek_yogurt_0, 60, "للتقديم"]
+    steps:
+      - "تبّل الفراخ بالبهارات والثوم والليمون ونصف الزيت."
+      - "سخّن طاسة حديد على نار عالية جداً، وحمّر الفراخ ٥ دقائق ثم ارفعها."
+      - "أضف باقي الزيت والفلفل والبصل، وقلّبها ٤ دقائق حتى تتفحم الأطراف قليلاً."
+      - "أرجع الفراخ، وقدّمها مع التورتيلا الساخنة والزبادي."
+    tip: "النار العالية جداً هي سر طعم الفاهيتا المدخن — لا تزحم الطاسة."
+
+  - id: p21
+    name: "سلطة الفراخ بالأفوكادو في أوراق الخس"
+    en: "Avocado Chicken Salad Lettuce Cups"
+    cuisine: "عالمي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "creamy chicken salad with diced avocado, celery and green onion bound in Greek yogurt, spooned into crisp romaine lettuce cups, sprinkled with black pepper"
+      vessel: "a long black slate platter"
+      angle: "overhead top-down view"
+    ingredients:
+      - [chicken_breast, 300, "مسلوق ومقطع مكعبات"]
+      - [avocado, 80, "نصف ثمرة"]
+      - [greek_yogurt_0, 80, "ثلث كوب"]
+      - [celery, 60, "عود كرفس"]
+      - [green_onion, 20, "عود"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [mustard, 5, "معلقة صغيرة"]
+      - [romaine, 100, "أوراق للتقديم"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق الفراخ في ماء بالملح ١٥ دقيقة، واتركها تبرد ثم قطّعها مكعبات."
+      - "اهرس نصف الأفوكادو مع الزبادي والليمون والمستردة، وقطّع الباقي مكعبات."
+      - "اخلط الفراخ والكرفس والبصل الأخضر مع الصوص ومكعبات الأفوكادو."
+      - "وزّعها في أوراق الخس."
+    tip: "بديل صحي لسلطة الفراخ بالمايونيز: نفس القوام الكريمي ببروتين أعلى ودهون أفضل."
+
+  - id: p22
+    name: "رز بالفراخ والخضار في حلة واحدة"
+    en: "One-Pot Chicken & Vegetable Rice"
+    cuisine: "عربي"
+    servings: 3
+    time: 45
+    photo:
+      dish: "one-pot golden turmeric rice with tender chicken thigh pieces, green peas, diced carrots and onion, garnished with chopped parsley"
+      vessel: "a wide black enamel casserole pot"
+      angle: "overhead top-down view"
+    ingredients:
+      - [chicken_thigh, 300, "مكعبات"]
+      - [rice_white, 150, "ثلاثة أرباع كوب"]
+      - [peas, 100, "بسلة"]
+      - [carrot, 100, "مكعبات"]
+      - [onion, 80, "مفروم"]
+      - [chicken_broth, 450, "شوربة فراخ"]
+      - [turmeric, 1, "نصف معلقة صغيرة"]
+      - [cumin, 1, "نصف معلقة صغيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [parsley, 10, "للتزيين"]
+    steps:
+      - "حمّر الفراخ في الزيت ٥ دقائق، ثم أضف البصل والجزر دقيقتين."
+      - "أضف الرز المغسول والكركم والكمون وقلّب دقيقة."
+      - "أضف الشوربة والبسلة، واتركها تغلي ثم غطِّها على أهدأ نار ١٨–٢٠ دقيقة."
+      - "اتركها ٥ دقائق مغطاة بعد إطفاء النار، ثم قلّبها بالشوكة وزيّن بالبقدونس."
+    tip: "وجبة كاملة في حلة واحدة — بروتين ونشويات وخضار، وتنظيف أقل."

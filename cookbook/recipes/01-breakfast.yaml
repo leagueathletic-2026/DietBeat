@@ -118,3 +118,462 @@ recipes:
       - "اعمل ٤ تجاويف في الصلصة واكسر في كل منها بيضة، ثم غطِّ الطاسة ٥–٦ دقائق حتى يتماسك البياض."
     tip: "إذا كنت تفضّل الصفار سائلاً، ارفع الطاسة عن النار بمجرد أن يتماسك البياض."
     swap: "**لوجبة أكبر:** قدّمها مع رغيف عيش أسمر صغير (+١٦٠ سعر). **لبروتين أعلى:** أضف ٥٠ جم جبنة قريش فوق الوش."
+
+  - id: b05
+    name: "توست الأفوكادو بالبيض المسلوق"
+    en: "Avocado Toast with Boiled Eggs"
+    cuisine: "عالمي"
+    servings: 1
+    time: 12
+    photo:
+      dish: "two slices of toasted whole-wheat bread topped with smashed avocado, sliced boiled eggs showing jammy yolks, chili flakes and a squeeze of lemon"
+      vessel: "a dark speckled stoneware plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [bread_whole, 60, "شريحتين"]
+      - [avocado, 60, "نصف ثمرة صغيرة"]
+      - [egg, 100, "٢ بيضة"]
+      - [lemon_juice, 5, "رشة"]
+      - [chili_green, 0, "شطة حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق البيض ٨ دقائق لصفار نصف متماسك، ثم ضعه في ماء بارد وقشّره."
+      - "حمّص شرائح التوست."
+      - "اهرس الأفوكادو بالشوكة مع الليمون والملح، وافرده على التوست."
+      - "قطّع البيض شرائح ورصّه فوق الأفوكادو، ورش الشطة."
+    tip: "الأفوكادو غني بالدهون المفيدة لكنه عالي السعرات — نصف ثمرة صغيرة كافية لشريحتين."
+    swap: "**للكيتو:** قدّم الأفوكادو والبيض بدون التوست في نصف ثمرة أفوكادو."
+
+  - id: b06
+    name: "بان كيك الشوفان والموز بالبروتين"
+    en: "Protein Oat & Banana Pancakes"
+    cuisine: "عالمي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "a stack of five fluffy golden oat and banana pancakes topped with fresh banana slices, a few raspberries and a light drizzle of honey"
+      vessel: "a matte black plate"
+      angle: "low eye-level side view"
+    ingredients:
+      - [oats, 80, "كوب إلا ربع"]
+      - [banana, 120, "موزة كبيرة ناضجة"]
+      - [egg_white, 120, "بياض ٤ بيضات"]
+      - [cottage_cheese, 100, "نصف كوب"]
+      - [baking_powder, 4, "معلقة صغيرة"]
+      - [cinnamon, 1, "رشة"]
+      - [raspberries, 60, "للتزيين"]
+      - [honey, 10, "معلقتين صغيرتين"]
+      - [coconut_oil, 4, "لدهن الطاسة"]
+    steps:
+      - "اطحن الشوفان في الخلاط حتى يصبح دقيقاً، ثم أضف نصف الموز وبياض البيض والجبنة القريش والبيكنج باودر والقرفة واخلط حتى يصبح ناعماً."
+      - "سخّن طاسة غير لاصقة وادهنها بطبقة رقيقة جداً من الزيت."
+      - "صب ربع كوب من الخليط لكل قرص، واتركه حتى تظهر فقاعات على السطح ثم اقلبه دقيقة."
+      - "قدّمه مع باقي الموز شرائح والتوت وخيط من العسل."
+    tip: "الجبنة القريش تضاعف البروتين وتعطي قواماً هشاً بدون زبدة."
+
+  - id: b07
+    name: "مافن البيض بالخضار"
+    en: "Veggie Egg Muffins"
+    cuisine: "عالمي"
+    servings: 3
+    time: 25
+    photo:
+      dish: "six golden baked egg muffins studded with spinach, red bell pepper, onion and melted mozzarella, one cut in half"
+      vessel: "a black muffin tin and a slate board"
+      angle: "45-degree angle"
+    ingredients:
+      - [egg, 300, "٦ بيضات"]
+      - [spinach, 60, "حفنة كبيرة مفرومة"]
+      - [bell_pepper_red, 80, "نصف ثمرة مكعبات"]
+      - [onion, 40, "ربع بصلة"]
+      - [mozzarella_light, 40, "مبشورة"]
+      - [olive_oil, 3, "لدهن القالب"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ١٨٠° وادهن ٦ أكواب من قالب المافن بالزيت."
+      - "وزّع السبانخ والفلفل والبصل على الأكواب."
+      - "اخفق البيض مع الملح والفلفل، وصبه فوق الخضار حتى ثلاثة أرباع الكوب، ثم رش الموتزاريلا."
+      - "اخبزها ١٨–٢٠ دقيقة حتى تنتفخ وتتماسك."
+    tip: "تحفظ في الثلاجة ٤ أيام — سخّن قطعتين في الميكروويف ٣٠ ثانية لفطار جاهز. الحصة = قطعتين."
+
+  - id: b08
+    name: "طبق الجبنة القريش بالخضار وزيت الزيتون"
+    en: "Egyptian Cottage Cheese Plate"
+    cuisine: "مصري"
+    servings: 1
+    time: 5
+    photo:
+      dish: "a mound of fresh white Egyptian cottage cheese (areesh) drizzled with olive oil and sprinkled with dried mint, with tomato wedges, cucumber slices, black olives and a small whole-wheat pita"
+      vessel: "an oval dark grey ceramic platter"
+      angle: "overhead top-down view"
+    ingredients:
+      - [cottage_cheese, 150, "٣ معالق كبيرة ممتلئة"]
+      - [tomato, 100, "ثمرة"]
+      - [cucumber, 100, "خيارة"]
+      - [olives, 15, "٤ حبات"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [pita_whole, 60, "رغيف صغير"]
+      - [mint, 0, "نعناع ناشف حسب الرغبة"]
+    steps:
+      - "ضع الجبنة القريش في طبق، واعمل فيها تجويفاً بالمعلقة."
+      - "صب زيت الزيتون في التجويف، ورش النعناع."
+      - "قطّع الطماطم والخيار، وقدّمها مع الزيتون والعيش."
+    tip: "الجبنة القريش من أعلى الأجبان بروتيناً وأقلها دهوناً — بديل مثالي للجبن الرومي والأجبان المطبوخة."
+
+  - id: b09
+    name: "عجة بالبقدونس في الفرن"
+    en: "Oven-Baked Egyptian Eggah"
+    cuisine: "مصري"
+    servings: 3
+    time: 30
+    photo:
+      dish: "a thick golden baked Egyptian herb omelette (eggah) green with parsley and dill, cut into wedges, one wedge lifted to show the fluffy green-flecked inside"
+      vessel: "a round black ceramic baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [egg, 300, "٦ بيضات"]
+      - [parsley, 40, "حزمة مفرومة"]
+      - [dill, 15, "قليل من الشبت"]
+      - [onion, 60, "نصف بصلة مبشورة"]
+      - [flour_whole, 15, "معلقة كبيرة"]
+      - [baking_powder, 2, "نصف معلقة صغيرة"]
+      - [cumin, 1, "رشة"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ١٨٠°، وادهن طبقاً مقاس ٢٠ سم بالزيت."
+      - "اخفق البيض مع الدقيق والبيكنج باودر والكمون والملح حتى لا يبقى تكتلات."
+      - "أضف البقدونس والشبت والبصل المعصور من مائه، وقلّب."
+      - "صبه في الطبق واخبزه ٢٠ دقيقة حتى ينتفخ ويتحمر الوش، ثم قطّعه ٦ مثلثات."
+    tip: "العجة في الفرن بدلاً من القلي العميق توفر الكثير من الزيت وتبقى هشة ومنفوخة."
+    swap: "**لوجبة متكاملة:** قدّمها مع سلطة خضراء ونصف رغيف أسمر (٣٠ جم، +٧٨ سعر)."
+
+  - id: b10
+    name: "سموذي البروتين بالموز وزبدة الفول السوداني"
+    en: "Banana Peanut Butter Protein Smoothie"
+    cuisine: "عالمي"
+    servings: 1
+    time: 5
+    photo:
+      dish: "a tall glass of thick creamy beige banana peanut-butter smoothie, a sprinkle of oats on top, half a banana and a small spoon of peanut butter beside it"
+      vessel: "a tall clear glass on a black stone coaster"
+      angle: "eye-level side view"
+    ingredients:
+      - [banana, 120, "موزة كبيرة (مجمدة أفضل)"]
+      - [greek_yogurt_0, 150, "علبة صغيرة"]
+      - [milk_skim, 150, "ثلثا كوب"]
+      - [peanut_butter, 15, "معلقة كبيرة"]
+      - [oats, 20, "معلقتين كبيرتين"]
+      - [cinnamon, 0, "رشة قرفة (اختياري)"]
+    steps:
+      - "ضع كل المكونات في الخلاط."
+      - "اضربها دقيقة حتى يصبح القوام ناعماً وكثيفاً."
+      - "قدّمه فوراً، وأضف ثلجاً إذا كان الموز غير مجمد."
+    tip: "مناسب جداً بعد التمرين: بروتين من الزبادي واللبن وكربوهيدرات سريعة من الموز."
+
+  - id: b11
+    name: "شوفان مخبوز بالتفاح والقرفة"
+    en: "Baked Apple Cinnamon Oatmeal"
+    cuisine: "عالمي"
+    servings: 4
+    time: 40
+    photo:
+      dish: "a square of golden baked apple cinnamon oatmeal topped with thin caramelised apple slices and chopped walnuts, the rest of the bake in the dish behind"
+      vessel: "a rectangular dark ceramic baking dish and a small black plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [oats, 160, "كوبين"]
+      - [apple, 240, "٢ تفاحة متوسطة"]
+      - [milk_1, 360, "كوب ونصف"]
+      - [egg, 50, "بيضة"]
+      - [walnuts, 20, "حفنة صغيرة"]
+      - [honey, 20, "معلقة كبيرة"]
+      - [baking_powder, 4, "معلقة صغيرة"]
+      - [cinnamon, 3, "معلقة صغيرة"]
+      - [vanilla, 3, "قطرات"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. ابشر تفاحة ونصف، وقطّع النصف الباقي شرائح رفيعة."
+      - "اخلط الشوفان والبيكنج باودر والقرفة في وعاء."
+      - "اخفق اللبن والبيض والعسل والفانيليا، وأضفه للشوفان مع التفاح المبشور."
+      - "صبه في طبق مدهون، ورص شرائح التفاح وعين الجمل فوقه."
+      - "اخبزه ٣٠–٣٥ دقيقة حتى يتماسك ويتحمر الوش، وقطّعه ٤ قطع."
+    tip: "حضّره مرة واحدة في الأسبوع: يُحفظ ٤ أيام في الثلاجة ويُسخّن في دقيقة."
+
+  - id: b12
+    name: "فرنش توست صحي بالتوت"
+    en: "Healthy Berry French Toast"
+    cuisine: "عالمي"
+    servings: 2
+    time: 15
+    photo:
+      dish: "four slices of golden whole-wheat French toast dusted with cinnamon, topped with Greek yogurt, fresh strawberries and blueberries"
+      vessel: "a long black rectangular plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [bread_whole, 120, "٤ شرائح"]
+      - [egg, 100, "٢ بيضة"]
+      - [egg_white, 60, "بياض بيضتين"]
+      - [milk_skim, 80, "ثلث كوب"]
+      - [cinnamon, 2, "معلقة صغيرة"]
+      - [vanilla, 2, "قطرات"]
+      - [butter, 5, "للطاسة"]
+      - [greek_yogurt_0, 100, "للتقديم"]
+      - [strawberries, 80, "شرائح"]
+      - [blueberries, 50, "حفنة"]
+    steps:
+      - "اخفق البيض وبياض البيض واللبن والقرفة والفانيليا في طبق واسع."
+      - "اغمس كل شريحة توست في الخليط ثوانٍ من كل جانب."
+      - "سخّن طاسة وادهنها بالزبدة، وحمّر الشرائح دقيقتين لكل جانب."
+      - "قدّمها مع الزبادي والتوت."
+    tip: "الزبادي اليوناني بديل ذكي للشربات والكريمة، ويضيف بروتيناً."
+
+  - id: b13
+    name: "فتة الحمص بالزبادي"
+    en: "Lighter Chickpea Fatteh"
+    cuisine: "شامي"
+    servings: 2
+    time: 15
+    photo:
+      dish: "chickpea fatteh: layers of crispy toasted whole-wheat pita pieces, warm chickpeas and a thick garlicky yogurt-tahini sauce on top, garnished with toasted sliced almonds, paprika and parsley"
+      vessel: "a deep dark clay bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [chickpeas_canned, 240, "علبة صغيرة مصفاة"]
+      - [pita_whole, 60, "رغيف صغير محمص"]
+      - [greek_yogurt_2, 200, "علبة كبيرة"]
+      - [tahini, 15, "معلقة كبيرة"]
+      - [garlic, 5, "فص مهروس"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [almonds, 10, "شرائح لوز"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [cumin, 1, "رشة"]
+      - [paprika, 0, "للتزيين"]
+    steps:
+      - "قطّع العيش مربعات، وحمّصه في الفرن ٨ دقائق حتى يقرمش."
+      - "سخّن الحمص مع قليل من مائه والكمون."
+      - "اخفق الزبادي مع الطحينة والثوم والليمون والملح."
+      - "رص العيش في الطبق، ثم الحمص الساخن، ثم صوص الزبادي."
+      - "حمّص اللوز في الزيت دقيقة، ورشه فوق الفتة مع البابريكا."
+    tip: "استخدام الزبادي اليوناني بدل السمن والزبادي كامل الدسم يرفع البروتين ويخفض الدهون كثيراً."
+
+  - id: b14
+    name: "بيض مخفوق بالسبانخ والمشروم (كيتو)"
+    en: "Keto Spinach & Mushroom Scramble"
+    cuisine: "عالمي"
+    servings: 1
+    time: 10
+    photo:
+      dish: "a skillet of fluffy yellow scrambled egg curds folded together with browned mushroom slices and wilted spinach (all eggs fully scrambled, no whole yolks, no fried eggs), avocado slices on the side"
+      vessel: "a small black cast-iron pan"
+      angle: "overhead top-down view"
+    ingredients:
+      - [egg, 150, "٣ بيضات"]
+      - [mushrooms, 80, "٥ حبات شرائح"]
+      - [spinach, 50, "حفنة كبيرة"]
+      - [avocado, 40, "ربع ثمرة"]
+      - [butter, 5, "معلقة صغيرة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "ذوّب الزبدة في طاسة، وشوّح المشروم ٤ دقائق حتى يتحمر."
+      - "أضف السبانخ حتى تذبل."
+      - "اخفق البيض بالملح، وصبه في الطاسة على نار هادئة مع التقليب المستمر حتى يتماسك وهو كريمي."
+      - "قدّمه مع شرائح الأفوكادو والفلفل الأسود."
+    tip: "ارفع البيض عن النار قبل أن يجف تماماً — الحرارة المتبقية تكمل نضجه."
+
+  - id: b15
+    name: "زبادي يوناني بالجرانولا المنزلية"
+    en: "Greek Yogurt with Homemade Granola"
+    cuisine: "عالمي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two bowls of thick Greek yogurt topped with crunchy golden homemade oat-almond granola clusters, fresh raspberries and blueberries"
+      vessel: "two dark glazed ceramic bowls"
+      angle: "45-degree angle"
+    ingredients:
+      - [greek_yogurt_0, 340, "علبتين"]
+      - [oats, 50, "نصف كوب"]
+      - [almonds, 20, "١٥ حبة مفرومة"]
+      - [pumpkin_seeds, 10, "معلقة كبيرة"]
+      - [honey, 15, "معلقة كبيرة"]
+      - [coconut_oil, 5, "معلقة صغيرة"]
+      - [cinnamon, 1, "رشة"]
+      - [raspberries, 60, "حفنة"]
+      - [blueberries, 60, "حفنة"]
+    steps:
+      - "سخّن الفرن على ١٦٠°. اخلط الشوفان واللوز واللب والقرفة مع العسل وزيت جوز الهند المذاب."
+      - "افرده في صينية مبطنة واخبزه ١٥ دقيقة مع التقليب مرة حتى يتحمر، واتركه يبرد ليقرمش."
+      - "قسّم الزبادي في طبقين، ورش الجرانولا والتوت."
+    tip: "الجرانولا الجاهزة غالباً مليئة بالسكر — نسختك المنزلية أقل سكراً بكثير وتحفظ أسبوعين في برطمان محكم."
+
+  - id: b16
+    name: "شكشوكة خضراء بالكوسة والسبانخ"
+    en: "Green Shakshuka"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "green shakshuka: four eggs with runny yolks nestled in sauteed spinach, zucchini and green onion, topped with crumbled feta and chopped dill"
+      vessel: "a wide dark green-black enamel skillet"
+      angle: "overhead top-down view"
+    ingredients:
+      - [egg, 200, "٤ بيضات"]
+      - [zucchini, 200, "٢ كوسة مبشورة"]
+      - [spinach, 150, "كيس صغير"]
+      - [green_onion, 30, "عودين"]
+      - [garlic, 5, "فص"]
+      - [feta, 30, "مفتتة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [dill, 5, "للتزيين"]
+      - [cumin, 1, "رشة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل الأخضر والثوم في الزيت دقيقة."
+      - "أضف الكوسة المبشورة والكمون، وقلّب ٤ دقائق، ثم السبانخ حتى تذبل."
+      - "اعمل ٤ تجاويف، واكسر بيضة في كل منها، وغطِّ الطاسة ٥ دقائق."
+      - "رش الفيتا والشبت وقدّمها."
+    tip: "نسخة منخفضة الكربوهيدرات من الشكشوكة — مثالية لمتبعي الكيتو."
+
+  - id: b17
+    name: "راب بياض البيض بالخضار"
+    en: "Egg-White Veggie Wrap"
+    cuisine: "عالمي"
+    servings: 1
+    time: 12
+    photo:
+      dish: "a whole-wheat tortilla wrap cut in half on the diagonal showing fluffy egg whites, sauteed red and green peppers, onion, baby spinach and melted mozzarella"
+      vessel: "a dark slate board with parchment"
+      angle: "45-degree angle"
+    ingredients:
+      - [tortilla_whole, 45, "رغيف تورتيلا"]
+      - [egg_white, 150, "بياض ٤–٥ بيضات"]
+      - [bell_pepper_red, 40, "شرائح"]
+      - [bell_pepper_green, 40, "شرائح"]
+      - [onion, 20, "شرائح رفيعة"]
+      - [spinach, 20, "حفنة صغيرة"]
+      - [mozzarella_light, 20, "مبشورة"]
+      - [olive_oil, 3, "رشة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح الفلفل والبصل في الزيت ٣ دقائق."
+      - "أضف بياض البيض والملح، وقلّب حتى يتماسك."
+      - "سخّن التورتيلا، وافرد عليها السبانخ ثم البيض بالخضار ثم الموتزاريلا."
+      - "لفّها بإحكام، وحمّرها في الطاسة دقيقة من كل جانب لتذوب الجبنة."
+    tip: "يُلف في ورق ألومنيوم ويؤكل في الطريق — فطار عالي البروتين في أقل من ١٥ دقيقة."
+
+  - id: b18
+    name: "بطاطا مشوية مع بيض وسبانخ"
+    en: "Sweet Potato Hash with Eggs"
+    cuisine: "عالمي"
+    servings: 2
+    time: 30
+    photo:
+      dish: "sweet potato hash: crispy roasted orange sweet potato cubes with sauteed onion and spinach, two fried eggs with runny yolks on top, paprika sprinkle"
+      vessel: "a black cast-iron skillet"
+      angle: "45-degree angle"
+    ingredients:
+      - [sweet_potato, 300, "بطاطاية كبيرة مكعبات"]
+      - [egg, 200, "٤ بيضات"]
+      - [spinach, 80, "حفنتين"]
+      - [onion, 60, "نصف بصلة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قلّب مكعبات البطاطا مع نصف الزيت والبابريكا والملح، واشوِها في فرن ٢٢٠° لمدة ٢٠ دقيقة."
+      - "شوّح البصل في باقي الزيت، ثم أضف البطاطا المشوية والسبانخ."
+      - "اعمل ٤ تجاويف واكسر البيض، وغطِّ الطاسة ٤–٥ دقائق."
+    tip: "البطاطا مصدر ممتاز للكربوهيدرات المعقدة والألياف — مثالية قبل تمرين الصباح."
+
+  - id: b19
+    name: "بودينج الشيا بلبن اللوز والتوت (كيتو)"
+    en: "Keto Berry Chia Pudding"
+    cuisine: "عالمي"
+    servings: 2
+    time: 5
+    photo:
+      dish: "two jars of thick chia pudding made with almond milk, topped with fresh raspberries, a few blueberries and toasted coconut flakes"
+      vessel: "two small clear glass jars on a dark marble slab"
+      angle: "eye-level side view"
+    ingredients:
+      - [chia, 40, "٤ معالق كبيرة"]
+      - [almond_milk, 300, "كوب وربع"]
+      - [stevia, 5, "حسب الرغبة"]
+      - [vanilla, 2, "قطرات"]
+      - [raspberries, 60, "حفنة"]
+      - [blueberries, 20, "قليل"]
+      - [coconut_dried, 10, "للتزيين"]
+    steps:
+      - "اخلط الشيا مع لبن اللوز والمحلي والفانيليا، واترك ١٠ دقائق ثم قلّب مرة أخرى."
+      - "غطِّه واتركه في الثلاجة ٤ ساعات أو ليلة كاملة."
+      - "وزّعه في برطمانين، وزيّنه بالتوت وجوز الهند."
+    tip: "الشيا غنية جداً بالألياف — اشرب ماء كافياً معها."
+
+  - id: b20
+    name: "أومليت المشروم والموتزاريلا (كيتو)"
+    en: "Keto Mushroom Mozzarella Omelette"
+    cuisine: "فرنسي"
+    servings: 1
+    time: 10
+    photo:
+      dish: "a smooth pale-yellow French-style rolled omelette filled with sauteed mushrooms and melted mozzarella oozing out, chopped chives on top, a few cherry tomatoes"
+      vessel: "a white-rimmed black porcelain plate"
+      angle: "low 30-degree angle"
+    ingredients:
+      - [egg, 150, "٣ بيضات"]
+      - [mushrooms, 70, "٤ حبات شرائح"]
+      - [mozzarella_light, 30, "مبشورة"]
+      - [butter, 5, "معلقة صغيرة"]
+      - [green_onion, 10, "عود مفروم"]
+      - [tomato, 50, "طماطم شيري للتقديم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح المشروم في نصف الزبدة حتى يتحمر، وارفعه."
+      - "اخفق البيض جيداً بالملح، وذوّب باقي الزبدة في الطاسة على نار متوسطة."
+      - "صب البيض وحرّك الطاسة حتى يتماسك القاع والوش ما زال طرياً."
+      - "ضع المشروم والموتزاريلا في المنتصف، واطوِ الأومليت على شكل لفافة، ورش البصل الأخضر."
+    tip: "السر في نار متوسطة إلى هادئة — الأومليت الفرنسي لا يتحمر."
+
+  - id: b21
+    name: "توست زبدة الفول السوداني بالموز"
+    en: "Peanut Butter Banana Toast"
+    cuisine: "عالمي"
+    servings: 1
+    time: 5
+    photo:
+      dish: "two slices of toasted whole-wheat bread spread with smooth peanut butter, topped with neat banana slices, a sprinkle of chia seeds and cinnamon"
+      vessel: "a dark wooden board"
+      angle: "overhead top-down view"
+    ingredients:
+      - [bread_whole, 60, "شريحتين"]
+      - [peanut_butter, 20, "معلقة كبيرة ونصف"]
+      - [banana, 100, "موزة متوسطة"]
+      - [chia, 5, "معلقة صغيرة"]
+      - [cinnamon, 0, "رشة"]
+    steps:
+      - "حمّص التوست."
+      - "افرد زبدة الفول السوداني بالقياس على الشريحتين."
+      - "رص شرائح الموز، ورش الشيا والقرفة."
+    tip: "اختر زبدة فول سوداني مكونها الوحيد الفول السوداني — بدون سكر أو زيوت مهدرجة."
+
+  - id: b22
+    name: "جبنة قريش بالأناناس وعين الجمل"
+    en: "Cottage Cheese with Pineapple & Walnuts"
+    cuisine: "عالمي"
+    servings: 1
+    time: 3
+    photo:
+      dish: "a bowl of creamy cottage cheese topped with fresh golden pineapple chunks, chopped walnuts and a few mint leaves"
+      vessel: "a small hammered black metal bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [cottage_cheese, 200, "كوب"]
+      - [pineapple, 100, "مكعبات"]
+      - [walnuts, 10, "٣ حبات مفرومة"]
+      - [mint, 0, "للتزيين"]
+    steps:
+      - "ضع الجبنة القريش في طبق."
+      - "أضف الأناناس وعين الجمل وورق النعناع."
+    tip: "من أسرع وأعلى وجبات الفطار بروتيناً — أكثر من ٢٥ جم بروتين في ٣ دقائق."
