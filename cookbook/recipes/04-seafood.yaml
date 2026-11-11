@@ -119,3 +119,384 @@ recipes:
       - "اخلط كل المكونات مع التونة المفتتة، وقلّبها برفق مع الصوص."
     tip: "وجبة غداء مثالية للعمل: تحفظ في علبة محكمة في الثلاجة حتى يومين — أضف الصوص قبل الأكل."
     swap: "**للكيتو:** استبدل الفاصوليا بأفوكادو (١٠٠ جم) وزيتون."
+
+  - id: f05
+    name: "سمك بوري مشوي بالليمون والكمون"
+    en: "Oven-Grilled Mullet with Lemon & Cumin"
+    cuisine: "مصري"
+    servings: 2
+    time: 35
+    photo:
+      dish: "two whole grilled mullet fish with crispy scored silver skin, rubbed with cumin and garlic, lemon slices and parsley, a small tomato and onion salad beside them"
+      vessel: "a long black fish platter"
+      angle: "45-degree angle"
+    ingredients:
+      - [mullet, 400, "سمكتين منظفتين (الجزء المأكول)"]
+      - [lemon_juice, 30, "عصير ليمونة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [tomato, 150, "للسلطة"]
+      - [onion, 40, "للسلطة"]
+      - [parsley, 10, "مفروم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اعمل شقوقاً مائلة في جانبي السمك."
+      - "اخلط الليمون والثوم والكمون والزيت والملح، وادهن السمك من الداخل والخارج، واتركه ٢٠ دقيقة."
+      - "اشوِه في الفرن على الشواية ٢٢٠° لمدة ٢٠–٢٥ دقيقة مع قلبه مرة حتى يتحمر الجلد."
+      - "قطّع الطماطم والبصل والبقدونس سلطة، وقدّمها مع السمك."
+    tip: "السمك ينضج عندما يتفتت اللحم بسهولة من الشوكة عند أسمك جزء."
+
+  - id: f06
+    name: "جمبري بالثوم والبابريكا مع رز بني"
+    en: "Garlic Paprika Shrimp with Brown Rice"
+    cuisine: "إسباني"
+    servings: 2
+    time: 35
+    photo:
+      dish: "sizzling garlic paprika shrimp glistening with olive oil and chopped parsley, served with a mound of brown rice and lemon wedges"
+      vessel: "a shallow black terracotta cazuela dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [shrimp, 300, "جمبري مقشر"]
+      - [rice_brown, 80, "ثلث كوب (قبل الطهي)"]
+      - [garlic, 15, "٥ فصوص شرائح"]
+      - [paprika, 4, "معلقتين صغيرتين"]
+      - [chili_green, 5, "قليل من الحار"]
+      - [olive_oil, 12, "معلقة كبيرة"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [parsley, 10, "مفروم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اطهِ الرز البني حتى ينضج."
+      - "سخّن الزيت على نار متوسطة، وأضف الثوم والحار حتى يصفرّ الثوم."
+      - "أضف الجمبري والبابريكا والملح، وقلّب ٣–٤ دقائق حتى يتحول للون الوردي."
+      - "أضف الليمون والبقدونس، وقدّمه مع الرز."
+    tip: "أضف البابريكا مع الجمبري وليس قبله — البابريكا تحترق بسرعة وتصبح مُرّة."
+
+  - id: f07
+    name: "صيادية سمك صحية"
+    en: "Lighter Egyptian Sayadeya"
+    cuisine: "مصري"
+    servings: 3
+    time: 55
+    photo:
+      dish: "Egyptian sayadeya: brown caramelised-onion rice topped with golden baked white fish fillets, toasted almonds and parsley, lemon wedges"
+      vessel: "a large round dark copper-tone serving dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [sea_bass, 400, "فيليه قاروص أو بلطي"]
+      - [rice_white, 150, "ثلاثة أرباع كوب"]
+      - [onion, 200, "٢ بصلة شرائح"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [tomato_paste, 15, "معلقة كبيرة"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [garlic, 6, "فصين"]
+      - [lemon_juice, 20, "للتتبيل"]
+      - [almonds, 10, "شرائح للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل السمك بالليمون والثوم ونصف الكمون والملح."
+      - "حمّر البصل في الزيت ببطء ١٥ دقيقة حتى يصبح بنياً غامقاً (هذا سر لون الصيادية)."
+      - "أضف الصلصة وباقي الكمون والرز، وقلّب، ثم أضف ٣٧٥ مل ماء ساخن واتركه على نار هادئة ٢٠ دقيقة."
+      - "اخبز السمك في فرن ٢٠٠° لمدة ١٥ دقيقة، وقدّمه فوق الرز مع اللوز."
+    tip: "خبز السمك بدل قليه في الزيت يوفر حوالي ١٥٠ سعراً في الحصة."
+
+  - id: f08
+    name: "سلمون بصوص الجنزبيل مع بروكلي"
+    en: "Ginger-Soy Salmon with Broccoli"
+    cuisine: "آسيوي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two glazed salmon fillets with a shiny ginger-soy glaze, sesame seeds and sliced green onion, steamed bright green broccoli florets"
+      vessel: "a rectangular black stoneware plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [salmon, 300, "قطعتين فيليه"]
+      - [soy_sauce_light, 15, "معلقة كبيرة"]
+      - [honey, 5, "معلقة صغيرة"]
+      - [ginger, 6, "مبشور"]
+      - [garlic, 4, "فص"]
+      - [broccoli, 250, "زهرات"]
+      - [sesame, 4, "للتزيين"]
+      - [green_onion, 10, "عود"]
+    steps:
+      - "اخلط الصويا والعسل والجنزبيل والثوم، وتبّل السلمون ١٥ دقيقة."
+      - "اخبز السلمون في فرن ٢٠٠° لمدة ١٢ دقيقة، وادهنه بباقي الصوص في المنتصف."
+      - "اطهِ البروكلي بالبخار ٤ دقائق."
+      - "قدّم السلمون فوق البروكلي، ورش السمسم والبصل الأخضر."
+    tip: "حصة سلمون واحدة توفر احتياج يومين تقريباً من دهون أوميجا ٣."
+
+  - id: f09
+    name: "تاكو السمك بصوص الزبادي"
+    en: "Fish Tacos with Yogurt Slaw"
+    cuisine: "مكسيكي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "four soft whole-wheat tortilla tacos filled with flaky paprika-spiced white fish, crunchy purple cabbage slaw, avocado slices, a drizzle of white yogurt sauce, coriander and lime"
+      vessel: "a black metal taco holder on a dark board"
+      angle: "45-degree angle"
+    ingredients:
+      - [cod, 300, "فيليه سمك أبيض"]
+      - [tortilla_whole, 90, "٢ رغيف (أو ٤ صغيرة)"]
+      - [cabbage_red, 100, "مقطع رفيع"]
+      - [greek_yogurt_0, 60, "للصوص"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [avocado, 50, "شرائح"]
+      - [cilantro, 10, "كزبرة"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [cumin, 1, "رشة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل السمك بالبابريكا والكمون والزيت والملح، واشوِه ٣ دقائق لكل جانب، ثم فتّته."
+      - "اخلط الزبادي مع نصف الليمون والملح، وقلّب الكرنب مع نصف الصوص."
+      - "سخّن التورتيلا، وضع الكرنب ثم السمك والأفوكادو."
+      - "رش باقي الصوص والكزبرة والليمون."
+    tip: "الكرنب الأحمر يضيف قرمشة ولوناً ومضادات أكسدة بسعرات قليلة جداً."
+
+  - id: f10
+    name: "شوربة السمك والجمبري بالطماطم"
+    en: "Tomato Seafood Soup"
+    cuisine: "متوسطي"
+    servings: 3
+    time: 35
+    photo:
+      dish: "a rustic tomato seafood soup with chunks of white fish and pink shrimp, diced carrot and celery, chopped parsley, a drizzle of olive oil"
+      vessel: "a wide dark stoneware soup bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [cod, 200, "مكعبات سمك أبيض"]
+      - [shrimp, 150, "جمبري مقشر"]
+      - [tomato_canned, 400, "علبة"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [carrot, 80, "جزرة"]
+      - [celery, 60, "عود كرفس"]
+      - [garlic, 10, "٣ فصوص"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [parsley, 10, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والجزر والكرفس في الزيت ٦ دقائق، ثم الثوم."
+      - "أضف الطماطم و٧٠٠ مل ماء والملح، واتركها تغلي ١٥ دقيقة."
+      - "أضف السمك، وبعد ٣ دقائق أضف الجمبري، واتركها دقيقتين حتى ينضجا."
+      - "قدّمها بالبقدونس."
+    tip: "أضف المأكولات البحرية في آخر الطهي فقط — حتى تبقى طرية."
+
+  - id: f11
+    name: "قاروص بالليمون مع قرنبيط مهروس (كيتو)"
+    en: "Keto Lemon Sea Bass with Cauliflower Mash"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 30
+    photo:
+      dish: "two pan-seared sea bass fillets with crispy golden skin over creamy white cauliflower mash, lemon slices and parsley"
+      vessel: "a wide matte grey-black plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [sea_bass, 300, "فيليه"]
+      - [cauliflower, 400, "رأس صغير"]
+      - [butter, 10, "معلقتين صغيرتين"]
+      - [milk_1, 50, "ربع كوب"]
+      - [garlic, 5, "فص"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق القرنبيط مع الثوم ١٢ دقيقة حتى يطرى، وصفّه جيداً."
+      - "اهرسه أو اضربه بالخلاط مع الزبدة واللبن والملح حتى يصبح ناعماً."
+      - "جفف السمك، وضعه على الجلد في طاسة ساخنة بالزيت ٤ دقائق حتى يقرمش، ثم اقلبه دقيقة."
+      - "قدّمه فوق القرنبيط مع الليمون والبقدونس."
+    tip: "القرنبيط المهروس بديل كيتو للبطاطس المهروسة بربع السعرات تقريباً."
+
+  - id: f12
+    name: "سلطة التونة بالأفوكادو (كيتو)"
+    en: "Keto Tuna Avocado Salad"
+    cuisine: "عالمي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "tuna and avocado salad: flaked tuna, diced avocado, cucumber, cherry tomatoes, thin red onion and coriander tossed in lemon and olive oil"
+      vessel: "a dark speckled ceramic salad bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [tuna_water, 240, "علبتين مصفاتين"]
+      - [avocado, 100, "ثمرة صغيرة"]
+      - [cucumber, 100, "خيارة"]
+      - [tomato, 100, "طماطم شيري"]
+      - [onion, 30, "بصل أحمر"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [cilantro, 10, "كزبرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قطّع الأفوكادو والخيار والطماطم مكعبات، والبصل شرائح رفيعة."
+      - "اخلطها مع التونة المفتتة والكزبرة."
+      - "رش الليمون والزيت والملح، وقلّب برفق."
+    tip: "أضف الليمون فوراً على الأفوكادو حتى لا يسود لونه."
+
+  - id: f13
+    name: "ماكريل مشوي مع سلطة الطماطم (كيتو)"
+    en: "Keto Grilled Mackerel with Tomato Salad"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two grilled mackerel fillets with blistered striped silver skin, a fresh tomato, red onion and parsley salad, lemon halves charred on the grill"
+      vessel: "a dark grey cast-iron grill plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [mackerel, 300, "فيليه"]
+      - [tomato, 200, "٢ طماطم"]
+      - [onion, 40, "بصل أحمر"]
+      - [parsley, 15, "مفروم"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "تبّل الماكريل بالملح والفلفل ونصف الليمون."
+      - "اشوِه على الجلد في جريل ساخن ٤ دقائق، ثم اقلبه دقيقتين."
+      - "اخلط الطماطم والبصل والبقدونس مع الزيت وباقي الليمون."
+      - "قدّم السمك مع السلطة."
+    tip: "الماكريل من أرخص الأسماك الغنية بأوميجا ٣ وفيتامين د."
+
+  - id: f14
+    name: "كفتة سمك في الفرن مع الطحينة"
+    en: "Baked Fish Kofta with Tahini"
+    cuisine: "مصري"
+    servings: 3
+    time: 35
+    photo:
+      dish: "golden oven-baked fish kofta fingers flecked with parsley and coriander, a bowl of tahini sauce with lemon, a small chopped salad"
+      vessel: "a dark oval stoneware platter"
+      angle: "45-degree angle"
+    ingredients:
+      - [tilapia, 400, "فيليه بلطي"]
+      - [onion, 60, "نصف بصلة مبشورة ومعصورة"]
+      - [parsley, 15, "مفروم"]
+      - [cilantro, 15, "مفروم"]
+      - [garlic, 6, "فصين"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [egg, 50, "بيضة"]
+      - [oats, 20, "معلقتين كبيرتين مطحونة"]
+      - [olive_oil, 5, "للدهن"]
+      - [tahini, 20, "للصوص"]
+      - [lemon_juice, 20, "للصوص"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٠٠°. افرم السمك في الكبة نبضات قليلة."
+      - "اخلطه مع البصل والخضرة والثوم والكمون والبيض والشوفان والملح."
+      - "شكّل أصابع، ورصها في صينية مدهونة، وادهن وجهها بالزيت."
+      - "اخبزها ١٥–١٨ دقيقة حتى تتحمر، وقدّمها مع الطحينة بالليمون."
+    tip: "الشوفان المطحون يربط الخليط بدلاً من البقسماط الأبيض."
+
+  - id: f15
+    name: "مكرونة الجمبري بالطماطم والريحان"
+    en: "Shrimp Tomato Basil Pasta"
+    cuisine: "إيطالي"
+    servings: 3
+    time: 25
+    photo:
+      dish: "whole-wheat penne in a light tomato sauce with plump pink shrimp, garlic, chili flakes and fresh basil leaves"
+      vessel: "a deep black pasta bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [pasta_whole, 180, "مكرونة قلم قمح كامل"]
+      - [shrimp, 350, "جمبري مقشر"]
+      - [tomato_canned, 400, "علبة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [chili_green, 5, "قليل من الحار"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [basil, 10, "أوراق ريحان"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق المكرونة حسب العبوة، واحتفظ بنصف كوب من مائها."
+      - "شوّح الثوم والحار في الزيت، ثم أضف الطماطم واتركها ١٠ دقائق."
+      - "أضف الجمبري ٣ دقائق حتى ينضج."
+      - "أضف المكرونة وقليلاً من مائها، وقلّب، ثم أضف الريحان."
+    tip: "ماء سلق المكرونة يربط الصوص ويغني عن الزيت أو الكريمة الزائدة."
+
+  - id: f16
+    name: "سمك بالسمسم في الفرن مع سلطة الكرنب"
+    en: "Sesame-Crusted Baked Fish with Slaw"
+    cuisine: "عالمي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "two oven-baked white fish fillets with a golden sesame seed crust, a crunchy white cabbage and carrot slaw with light yogurt dressing, lemon wedges"
+      vessel: "a long black slate plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [cod, 300, "فيليه"]
+      - [sesame, 20, "معلقتين كبيرتين"]
+      - [egg, 50, "بيضة"]
+      - [flour_whole, 15, "معلقة كبيرة"]
+      - [cabbage, 200, "مبشور رفيع"]
+      - [carrot, 80, "مبشور"]
+      - [greek_yogurt_0, 40, "للصوص"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 5, "رشة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢١٠°. جفف السمك وتبّله بالملح."
+      - "مرّر السمك في الدقيق ثم البيض المخفوق ثم السمسم من جهة واحدة."
+      - "رصه في صينية مدهونة، ورشه بالزيت، واخبزه ١٢–١٤ دقيقة."
+      - "اخلط الكرنب والجزر مع الزبادي والليمون والملح، وقدّمه مع السمك."
+    tip: "السمسم يعطي قرمشة القلي بدون زيت، ومصدر جيد للكالسيوم."
+
+  - id: f17
+    name: "بول البوكي بالسلمون"
+    en: "Salmon Poke Bowl"
+    cuisine: "هاواي"
+    servings: 2
+    time: 25
+    photo:
+      dish: "salmon poke bowl: seared salmon cubes, white rice, shelled edamame, cucumber ribbons, julienned carrot, avocado slices, sesame seeds and soy dressing"
+      vessel: "a wide black ceramic bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [salmon, 200, "مكعبات"]
+      - [rice_white, 100, "نصف كوب (قبل الطهي)"]
+      - [edamame, 80, "مجمد"]
+      - [cucumber, 100, "شرائح"]
+      - [carrot, 60, "مبشور"]
+      - [avocado, 60, "شرائح"]
+      - [soy_sauce_light, 15, "معلقة كبيرة"]
+      - [ginger, 3, "مبشور"]
+      - [sesame, 5, "معلقة صغيرة"]
+    steps:
+      - "اطهِ الرز واتركه يبرد قليلاً، واسلق الإدامامي ٤ دقائق."
+      - "حمّر مكعبات السلمون في طاسة ساخنة دقيقتين فقط من كل جانب."
+      - "اخلط الصويا مع الجنزبيل."
+      - "رتّب الرز والسلمون والخضار في طبقين، ورش الصوص والسمسم."
+    tip: "نسخة آمنة من البوكي بسلمون مطهو — مناسبة لمن لا يأكل السمك النيء."
+
+  - id: f18
+    name: "طبق السردين مع سلطة خضراء"
+    en: "Sardine Plate with Green Salad"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "a plate of whole canned sardines drizzled with lemon, a crisp green salad of romaine, cucumber, tomato and red onion, a toasted whole-wheat pita cut in triangles"
+      vessel: "a dark rustic ceramic plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [sardine_oil, 150, "علبة ونصف مصفاة"]
+      - [romaine, 100, "خس"]
+      - [tomato, 100, "ثمرة"]
+      - [cucumber, 100, "خيارة"]
+      - [onion, 30, "بصل أحمر"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [pita_whole, 60, "رغيف صغير"]
+      - [black_pepper, 0, "حسب الرغبة"]
+    steps:
+      - "صفِّ السردين من الزيت جيداً."
+      - "قطّع الخضار سلطة، ورش نصف الليمون."
+      - "رتّب السردين بجانب السلطة، ورش باقي الليمون والفلفل الأسود."
+      - "قدّمه مع العيش المحمص."
+    tip: "السردين بعظمه الطري مصدر ممتاز للكالسيوم وأوميجا ٣ — وجبة سريعة وغير مكلفة."

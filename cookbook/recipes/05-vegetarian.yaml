@@ -133,3 +133,390 @@ recipes:
       - "قدّمه ساخناً مع معلقة زبادي يوناني فوق كل طبق."
     tip: "الكاري يتحسن طعمه في اليوم التالي — مثالي للتحضير المسبق (Meal Prep)."
     swap: "**نباتي صرف (فيجان):** استغنَ عن الزبادي. **لوجبة أكبر:** قدّمه مع ٥٠ جم رز بسمتي (قبل الطهي) للشخص (+١٨٠ سعر)."
+
+  - id: v05
+    name: "عدس بجبة بالخضار"
+    en: "Egyptian Brown Lentil Stew"
+    cuisine: "مصري"
+    servings: 4
+    time: 45
+    photo:
+      dish: "hearty Egyptian brown lentil stew with carrot and tomato pieces, a drizzle of olive oil and cumin, lemon wedge and fresh parsley"
+      vessel: "a deep dark clay bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [lentils_brown, 200, "كوب عدس بجبة"]
+      - [onion, 100, "بصلة"]
+      - [tomato, 150, "ثمرة كبيرة"]
+      - [carrot, 100, "جزرة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [lemon_juice, 20, "للتقديم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والثوم في الزيت ٤ دقائق."
+      - "أضف العدس المغسول والجزر والطماطم والكمون و١ لتر ماء."
+      - "اتركه على نار هادئة ٣٥ دقيقة حتى ينضج العدس ويتكثف."
+      - "قدّمه مع الليمون."
+    tip: "العدس من أرخص مصادر البروتين النباتي والحديد — والليمون يساعد على امتصاص الحديد."
+
+  - id: v06
+    name: "بيصارة بالخضرة"
+    en: "Egyptian Bessara"
+    cuisine: "مصري"
+    servings: 4
+    time: 50
+    photo:
+      dish: "Egyptian bessara: a smooth thick vivid-green fava bean and herb puree topped with crispy golden fried onion rings and a drizzle of olive oil"
+      vessel: "a shallow dark stoneware bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [fava_dry, 200, "فول مدشوش"]
+      - [dill, 30, "حزمة صغيرة"]
+      - [parsley, 30, "حزمة صغيرة"]
+      - [cilantro, 30, "حزمة صغيرة"]
+      - [garlic, 15, "٥ فصوص"]
+      - [onion, 100, "للتقلية"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [chili_green, 10, "فلفلة حارة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "انقع الفول ساعتين، ثم اسلقه مع الثوم في ١ لتر ماء ٣٥ دقيقة حتى يهرس."
+      - "أضف الخضرة والحار والكمون، واتركها ٥ دقائق، ثم اضربها بالخلاط حتى تصبح ناعمة."
+      - "حمّر البصل شرائح رفيعة في الزيت حتى يقرمش."
+      - "صب البيصارة في طبق، ووزّع البصل المحمر فوقها."
+    tip: "تُقدّم ساخنة أو باردة، وتحفظ في الثلاجة ٣ أيام."
+
+  - id: v07
+    name: "برجر العدس والكينوا"
+    en: "Lentil & Quinoa Burgers"
+    cuisine: "عالمي"
+    servings: 4
+    time: 45
+    photo:
+      dish: "four crispy golden-brown lentil and quinoa patties with visible grains and grated carrot, a small bowl of yogurt dip and a few lettuce leaves"
+      vessel: "a dark wooden serving board"
+      angle: "45-degree angle"
+    ingredients:
+      - [lentils_red, 120, "عدس أحمر"]
+      - [quinoa, 60, "كينوا"]
+      - [onion, 60, "نصف بصلة"]
+      - [carrot, 60, "جزرة صغيرة مبشورة"]
+      - [garlic, 5, "فص"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [oats, 40, "نصف كوب"]
+      - [egg, 50, "بيضة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [greek_yogurt_0, 100, "للتقديم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق العدس والكينوا معاً في ٤٥٠ مل ماء ١٥ دقيقة حتى يتشرب الماء، واتركهما يبردان."
+      - "اخلطهما مع البصل والجزر والثوم والكمون والشوفان والبيض والملح، واهرس جزئياً."
+      - "شكّل ٤ أقراص، وضعها في الثلاجة ٢٠ دقيقة."
+      - "حمّرها في الزيت ٤ دقائق لكل جانب، وقدّمها مع الزبادي."
+    tip: "التبريد قبل الطهي ضروري لتماسك الأقراص."
+
+  - id: v08
+    name: "تشيلي نباتي بالفاصوليا"
+    en: "Three-Bean Vegetable Chili"
+    cuisine: "مكسيكي"
+    servings: 4
+    time: 40
+    photo:
+      dish: "a thick vegetarian chili with red kidney beans, black beans, sweet corn and diced peppers in a smoky tomato sauce, topped with avocado cubes and coriander"
+      vessel: "a black cast-iron pot"
+      angle: "45-degree angle"
+    ingredients:
+      - [kidney_canned, 240, "علبة صغيرة"]
+      - [black_beans_canned, 240, "علبة صغيرة"]
+      - [tomato_canned, 400, "علبة"]
+      - [onion, 100, "بصلة"]
+      - [bell_pepper_red, 150, "ثمرة"]
+      - [corn, 100, "ذرة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [paprika, 3, "معلقة صغيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [avocado, 60, "للتقديم"]
+      - [cilantro, 5, "للتزيين"]
+    steps:
+      - "شوّح البصل والفلفل في الزيت ٥ دقائق، ثم الثوم والبهارات دقيقة."
+      - "أضف الطماطم والفاصوليا بنوعيها والذرة ونصف كوب ماء."
+      - "اتركها تتسبك ٢٥ دقيقة على نار هادئة مع التقليب."
+      - "قدّمها مع الأفوكادو والكزبرة."
+    tip: "طبق غني جداً بالألياف — أكثر من نصف الاحتياج اليومي في حصة واحدة."
+
+  - id: v09
+    name: "توفو مقلّب بالخضار"
+    en: "Tofu & Vegetable Stir-Fry"
+    cuisine: "آسيوي"
+    servings: 3
+    time: 25
+    photo:
+      dish: "golden crispy tofu cubes stir-fried with broccoli florets, red bell pepper and carrot slices in a glossy soy-ginger sauce, sesame seeds"
+      vessel: "a black wok"
+      angle: "overhead top-down view"
+    ingredients:
+      - [tofu, 400, "مكعبات"]
+      - [broccoli, 200, "زهرات"]
+      - [bell_pepper_red, 100, "شرائح"]
+      - [carrot, 80, "شرائح رفيعة"]
+      - [soy_sauce_light, 20, "معلقة كبيرة ونصف"]
+      - [ginger, 6, "مبشور"]
+      - [garlic, 6, "فصين"]
+      - [cornstarch, 5, "معلقتين صغيرتين"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [sesame, 5, "للتزيين"]
+    steps:
+      - "جفف التوفو بفوطة جيداً، وقلّبه في النشا."
+      - "حمّره في الزيت على نار عالية ٨ دقائق حتى يقرمش من كل الجهات، ثم ارفعه."
+      - "شوّح الخضار مع الثوم والجنزبيل ٤ دقائق."
+      - "أرجع التوفو، وأضف الصويا صوص، وقلّب، ورش السمسم."
+    tip: "التوفو بروتين نباتي كامل — والتجفيف الجيد سر قرمشته."
+
+  - id: v10
+    name: "فلفل محشي بالكينوا والفاصوليا"
+    en: "Quinoa & Bean Stuffed Peppers"
+    cuisine: "عالمي"
+    servings: 4
+    time: 50
+    photo:
+      dish: "four roasted red bell peppers stuffed with quinoa, black beans, corn and tomato, topped with melted golden mozzarella and coriander"
+      vessel: "a dark ceramic baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [bell_pepper_red, 600, "٤ فلفل ألوان كبير"]
+      - [quinoa, 120, "ثلثا كوب"]
+      - [black_beans_canned, 240, "علبة صغيرة"]
+      - [corn, 80, "ذرة"]
+      - [tomato_canned, 200, "نصف علبة"]
+      - [onion, 60, "نصف بصلة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [mozzarella_light, 60, "مبشورة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [cilantro, 5, "للتزيين"]
+    steps:
+      - "اطهِ الكينوا في ضعف حجمها ماء ١٥ دقيقة."
+      - "شوّح البصل في الزيت، وأضف الطماطم والكمون، ثم الكينوا والفاصوليا والذرة."
+      - "اقطع رأس الفلفل وأزل البذور، واحشه، ورصه في طبق مع قليل من الماء."
+      - "غطِّه واخبزه في فرن ١٩٠° لمدة ٢٥ دقيقة، ثم رش الموتزاريلا واخبزه مكشوفاً ١٠ دقائق."
+    tip: "الكينوا والفاصوليا معاً يعطيان كل الأحماض الأمينية الأساسية."
+
+  - id: v11
+    name: "بطاطا محشية بالحمص وصوص الطحينة"
+    en: "Chickpea-Stuffed Sweet Potatoes"
+    cuisine: "متوسطي"
+    servings: 2
+    time: 50
+    photo:
+      dish: "two roasted sweet potatoes split open and stuffed with crispy paprika chickpeas, drizzled with creamy tahini-yogurt sauce and parsley"
+      vessel: "a dark speckled stoneware plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [sweet_potato, 500, "٢ بطاطاية متوسطة"]
+      - [chickpeas_canned, 200, "مصفى"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [cumin, 1, "رشة"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [greek_yogurt_0, 80, "للصوص"]
+      - [tahini, 15, "معلقة كبيرة"]
+      - [lemon_juice, 15, "معلقة كبيرة"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اشوِ البطاطا كاملة بقشرها في فرن ٢٠٠° لمدة ٤٠–٤٥ دقيقة حتى تطرى."
+      - "قلّب الحمص مع الزيت والبابريكا والكمون، واشوِه معها آخر ٢٠ دقيقة."
+      - "اخفق الزبادي مع الطحينة والليمون والملح."
+      - "افتح البطاطا بالطول، واحشها بالحمص، ورش الصوص والبقدونس."
+    tip: "قشر البطاطا يؤكل ويضيف أليافاً — اغسله جيداً قبل الشوي."
+
+  - id: v12
+    name: "دال العدس الأحمر بالسبانخ"
+    en: "Red Lentil Dal with Spinach"
+    cuisine: "هندي"
+    servings: 4
+    time: 35
+    photo:
+      dish: "creamy golden-yellow red lentil dal with wilted spinach stirred through, a swirl of tempered spices and oil on top, coriander leaves"
+      vessel: "a hammered dark metal karahi bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [lentils_red, 200, "كوب"]
+      - [tomato_canned, 200, "نصف علبة"]
+      - [onion, 100, "بصلة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [ginger, 10, "مبشور"]
+      - [turmeric, 2, "معلقة صغيرة"]
+      - [cumin, 3, "معلقة صغيرة ونصف"]
+      - [spinach, 100, "حفنتين"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [cilantro, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق العدس مع الكركم في ٨٠٠ مل ماء ٢٠ دقيقة حتى يهرس."
+      - "شوّح البصل في الزيت، ثم الثوم والجنزبيل والكمون، ثم الطماطم ٥ دقائق."
+      - "أضف الخليط للعدس مع السبانخ والملح، واتركه ٥ دقائق."
+      - "زيّنه بالكزبرة."
+    tip: "يُقدّم مع رز بسمتي أو خبز أسمر لوجبة متكاملة."
+
+  - id: v13
+    name: "فطيرة السبانخ والفيتا بدون عجين"
+    en: "Crustless Spinach & Feta Pie"
+    cuisine: "يوناني"
+    servings: 4
+    time: 45
+    photo:
+      dish: "a golden crustless spinach and feta pie baked in a round dish, one slice cut out showing the dense green spinach, egg and white cheese filling, dill sprigs"
+      vessel: "a round dark ceramic pie dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [spinach, 400, "سبانخ"]
+      - [feta, 100, "مفتتة"]
+      - [cottage_cheese, 200, "كوب"]
+      - [egg, 200, "٤ بيضات"]
+      - [onion, 60, "نصف بصلة"]
+      - [dill, 15, "مفروم"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [black_pepper, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. شوّح البصل في الزيت، ثم السبانخ حتى تذبل، واعصرها جيداً."
+      - "اخفق البيض مع الجبنة القريش والفيتا والشبت والفلفل."
+      - "أضف السبانخ، وصب الخليط في طبق مدهون."
+      - "اخبزها ٣٠–٣٥ دقيقة حتى تتماسك ويتحمر الوش، واتركها ١٠ دقائق قبل التقطيع."
+    tip: "كل حلاوة السبانخية اليونانية بدون عجين الفيلو والزبدة — وبروتين أعلى."
+
+  - id: v14
+    name: "بيتزا التورتيلا بالخضار"
+    en: "Whole-Wheat Tortilla Veggie Pizza"
+    cuisine: "إيطالي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "two thin crispy whole-wheat tortilla pizzas topped with tomato sauce, melted mozzarella, sliced mushrooms, green pepper, red onion, black olives and fresh basil, one cut into slices"
+      vessel: "a round black pizza stone"
+      angle: "overhead top-down view"
+    ingredients:
+      - [tortilla_whole, 90, "٢ رغيف تورتيلا"]
+      - [tomato_paste, 30, "٢ معلقة كبيرة مخففة بالماء"]
+      - [mozzarella_light, 60, "مبشورة"]
+      - [mushrooms, 60, "شرائح"]
+      - [bell_pepper_green, 60, "شرائح"]
+      - [onion, 30, "بصل أحمر"]
+      - [olives, 15, "شرائح"]
+      - [basil, 5, "أوراق ريحان"]
+    steps:
+      - "سخّن الفرن على ٢٢٠°، وضع التورتيلا على صينية."
+      - "افرد الصلصة المخففة بطبقة رقيقة، ثم الموتزاريلا والخضار والزيتون."
+      - "اخبزها ٨–١٠ دقائق حتى تقرمش الأطراف وتذوب الجبنة."
+      - "زيّنها بالريحان وقطّعها."
+    tip: "بيتزا كاملة بأقل من ربع سعرات بيتزا المطاعم."
+
+  - id: v15
+    name: "مكرونة البيستو بالسبانخ والطماطم"
+    en: "Spinach Pesto Pasta"
+    cuisine: "إيطالي"
+    servings: 3
+    time: 20
+    photo:
+      dish: "whole-wheat fusilli tossed in a bright green basil-spinach-walnut pesto with halved roasted cherry tomatoes, shaved parmesan and basil leaves"
+      vessel: "a wide shallow black bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [pasta_whole, 180, "مكرونة قمح كامل"]
+      - [basil, 30, "حزمة ريحان"]
+      - [spinach, 80, "حفنتين"]
+      - [walnuts, 20, "حفنة صغيرة"]
+      - [parmesan, 20, "مبشور"]
+      - [garlic, 5, "فص"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+      - [tomato, 150, "طماطم شيري"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق المكرونة، واحتفظ بنصف كوب من مائها."
+      - "اضرب الريحان والسبانخ وعين الجمل والبارميزان والثوم والزيت والليمون في الخلاط مع قليل من ماء المكرونة."
+      - "قلّب المكرونة الساخنة مع البيستو والطماطم المقطعة نصفين."
+    tip: "السبانخ تزيد حجم البيستو بدون سعرات وتحافظ على لونه الأخضر."
+
+  - id: v16
+    name: "فاصوليا بيضاء بالصلصة"
+    en: "Egyptian White Bean Stew"
+    cuisine: "مصري"
+    servings: 4
+    time: 30
+    photo:
+      dish: "Egyptian white bean stew: tender white beans in a thick red tomato sauce with onion, garnished with parsley"
+      vessel: "a dark enamel saucepan"
+      angle: "45-degree angle"
+    ingredients:
+      - [white_beans_canned, 480, "علبتين صغيرتين"]
+      - [tomato_canned, 400, "علبة"]
+      - [tomato_paste, 15, "معلقة كبيرة"]
+      - [onion, 100, "بصلة"]
+      - [garlic, 10, "٣ فصوص"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل في الزيت حتى يذبل، ثم الثوم."
+      - "أضف الطماطم والصلصة والكمون ونصف كوب ماء، واتركها ١٠ دقائق."
+      - "أضف الفاصوليا المصفاة، واتركها تتسبك ١٠ دقائق."
+    tip: "قدّمها مع ٥٠ جم رز أبيض (قبل الطهي) للشخص لوجبة مصرية كاملة (+١٨٠ سعر)."
+
+  - id: v17
+    name: "صينية قرنبيط وحمص بالكركم مع الطحينة"
+    en: "Roasted Turmeric Cauliflower & Chickpeas"
+    cuisine: "متوسطي"
+    servings: 3
+    time: 40
+    photo:
+      dish: "golden turmeric-roasted cauliflower florets and crispy chickpeas with red onion wedges, drizzled with tahini-lemon sauce and parsley"
+      vessel: "a black sheet pan"
+      angle: "overhead top-down view"
+    ingredients:
+      - [cauliflower, 500, "رأس متوسط"]
+      - [chickpeas_canned, 240, "علبة صغيرة"]
+      - [onion, 100, "بصلة حمراء"]
+      - [olive_oil, 15, "معلقة كبيرة"]
+      - [turmeric, 2, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [tahini, 30, "٢ معلقة كبيرة"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "سخّن الفرن على ٢٢٠°."
+      - "قلّب القرنبيط والحمص والبصل مع الزيت والكركم والكمون والملح."
+      - "افردها في طبقة واحدة، واشوِها ٢٥–٣٠ دقيقة حتى تتحمر الأطراف."
+      - "اخفق الطحينة مع الليمون والماء، ورشها فوق الصينية مع البقدونس."
+    tip: "لا تزحم الصينية — الخضار المتراكمة تُطهى بالبخار ولا تتحمر."
+
+  - id: v18
+    name: "أقراص الكوسة بالفيتا في الفرن"
+    en: "Baked Zucchini Feta Fritters"
+    cuisine: "تركي"
+    servings: 3
+    time: 35
+    photo:
+      dish: "twelve golden baked zucchini and feta fritters flecked with dill and green onion, a bowl of garlic yogurt dip, lemon wedges"
+      vessel: "a dark slate board"
+      angle: "45-degree angle"
+    ingredients:
+      - [zucchini, 400, "٣ كوسات مبشورة ومعصورة"]
+      - [egg, 100, "٢ بيضة"]
+      - [flour_whole, 40, "٣ معالق كبيرة"]
+      - [feta, 40, "مفتتة"]
+      - [dill, 10, "مفروم"]
+      - [green_onion, 20, "عود"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [greek_yogurt_0, 100, "للصوص"]
+      - [garlic, 3, "فص للصوص"]
+    steps:
+      - "رش الكوسة المبشورة بالملح، واتركها ١٠ دقائق ثم اعصرها جيداً جداً."
+      - "اخلطها مع البيض والدقيق والفيتا والشبت والبصل الأخضر."
+      - "شكّل ١٢ قرصاً على صينية مدهونة بالزيت، وادهن الوجه."
+      - "اخبزها في فرن ٢٠٠° لمدة ١٢ دقيقة، ثم اقلبها ٨ دقائق. قدّمها مع الزبادي بالثوم."
+    tip: "عصر الكوسة جيداً هو سر الأقراص المتماسكة المقرمشة."

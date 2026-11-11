@@ -136,3 +136,295 @@ recipes:
       - "اطحنه مع إضافة اللبن تدريجياً وكشط الجوانب حتى يصبح قوامه مثل الآيس كريم."
       - "قدّمه فوراً، أو جمّده ٣٠ دقيقة لقوام أكثر تماسكاً."
     tip: "احتفظ دائماً بالموز الناضج الزائد في الفريزر — ليكون جاهزاً لأي آيس كريم أو سموزي."
+
+  - id: d05
+    name: "بسبوسة صحية بالزبادي والشوفان"
+    en: "Healthy Yogurt Oat Basbousa"
+    cuisine: "مصري"
+    servings: 12
+    time: 45
+    photo:
+      dish: "golden diamond-cut healthy basbousa squares made with oats and yogurt, each topped with a blanched almond, glistening with a light honey syrup"
+      vessel: "a rectangular dark metal baking tray"
+      angle: "45-degree angle"
+    ingredients:
+      - [oats, 150, "مطحون ناعم"]
+      - [greek_yogurt_0, 200, "علبة كبيرة"]
+      - [egg, 100, "٢ بيضة"]
+      - [coconut_dried, 30, "٣ معالق كبيرة"]
+      - [honey, 60, "٣ معالق كبيرة (نصفها للتشريب)"]
+      - [baking_powder, 6, "معلقة صغيرة ونصف"]
+      - [vanilla, 4, "معلقة صغيرة"]
+      - [almonds, 12, "١٢ حبة للتزيين"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. اخلط الشوفان المطحون وجوز الهند والبيكنج باودر."
+      - "اخفق الزبادي والبيض ونصف العسل والفانيليا، واخلطها مع المكونات الجافة."
+      - "افرد الخليط في صينية مبطنة، وقطّعه معينات، وضع لوزة في كل قطعة."
+      - "اخبزها ٢٥ دقيقة حتى يتحمر الوش، ثم ادهنها بباقي العسل المخفف بمعلقة ماء ساخن."
+    tip: "البسبوسة التقليدية بالسكر والسمن = ~٢٥٠ سعر للقطعة؛ هذه النسخة أقل من النصف."
+
+  - id: d06
+    name: "مهلبية خفيفة بالفستق"
+    en: "Light Muhallabia with Pistachios"
+    cuisine: "عربي"
+    servings: 4
+    time: 15
+    photo:
+      dish: "four small cups of smooth white muhallabia milk pudding topped with chopped green pistachios and a pinch of cinnamon"
+      vessel: "four small clear glass cups on a dark tray"
+      angle: "45-degree angle"
+    ingredients:
+      - [milk_skim, 600, "٢ كوب ونصف"]
+      - [cornstarch, 40, "٤ معالق كبيرة"]
+      - [honey, 40, "٢ معلقة كبيرة"]
+      - [vanilla, 3, "قطرات"]
+      - [pistachios, 15, "مفروم"]
+      - [cinnamon, 0, "رشة"]
+    steps:
+      - "ذوّب النشا في كوب لبن بارد."
+      - "سخّن باقي اللبن مع العسل، ثم أضف خليط النشا مع التقليب المستمر حتى يتكثف ويغلي."
+      - "أضف الفانيليا، وصبه في ٤ أكواب، واتركه يبرد ثم في الثلاجة ساعتين."
+      - "زيّنه بالفستق والقرفة."
+    tip: "اللبن الخالي الدسم يعطي نفس القوام مع النشا بسعرات أقل بكثير."
+
+  - id: d07
+    name: "رز بلبن صحي"
+    en: "Lighter Egyptian Rice Pudding"
+    cuisine: "مصري"
+    servings: 4
+    time: 45
+    photo:
+      dish: "creamy Egyptian rice pudding (roz bel laban) in small bowls, with a light golden baked top, sprinkled with cinnamon and a few raisins"
+      vessel: "small dark clay bowls (sobia-style)"
+      angle: "45-degree angle"
+    ingredients:
+      - [rice_white, 60, "ربع كوب ونصف"]
+      - [milk_skim, 700, "٣ أكواب"]
+      - [honey, 40, "٢ معلقة كبيرة"]
+      - [vanilla, 3, "قطرات"]
+      - [raisins, 20, "معلقة كبيرة ونصف"]
+      - [cinnamon, 0, "رشة"]
+    steps:
+      - "اسلق الرز في كوب ماء ١٠ دقائق حتى يتشربه."
+      - "أضف اللبن، واتركه على نار هادئة ٣٠ دقيقة مع التقليب حتى يتكثف."
+      - "أضف العسل والفانيليا والزبيب، وصبه في أطباق."
+      - "يمكن تحميره تحت الشواية ٥ دقائق، ويُقدّم بارداً بالقرفة."
+    tip: "التقليب المستمر في آخر ١٠ دقائق يمنع الالتصاق ويعطي القوام الكريمي."
+
+  - id: d08
+    name: "براونيز الفاصوليا السوداء"
+    en: "Black Bean Brownies"
+    cuisine: "أمريكي"
+    servings: 12
+    time: 40
+    photo:
+      dish: "twelve fudgy dark chocolate brownies made with black beans, cut into squares, with melting dark chocolate chunks on top"
+      vessel: "a square black baking pan and parchment"
+      angle: "45-degree angle"
+    ingredients:
+      - [black_beans_canned, 240, "علبة صغيرة مصفاة ومغسولة"]
+      - [cocoa, 30, "٣ معالق كبيرة"]
+      - [egg, 100, "٢ بيضة"]
+      - [honey, 60, "٣ معالق كبيرة"]
+      - [oats, 40, "نصف كوب"]
+      - [dark_chocolate, 30, "قطع"]
+      - [baking_powder, 4, "معلقة صغيرة"]
+      - [vanilla, 4, "معلقة صغيرة"]
+    steps:
+      - "سخّن الفرن على ١٨٠° وبطّن قالباً مربعاً ٢٠ سم."
+      - "اضرب كل المكونات ما عدا الشوكولاتة في الكبة حتى تصبح ناعمة تماماً."
+      - "صبها في القالب، ورش الشوكولاتة."
+      - "اخبزها ٢٢–٢٥ دقيقة، واتركها تبرد تماماً قبل التقطيع ١٢ مربعاً."
+    tip: "لن يلاحظ أحد الفاصوليا — لكنها تضيف بروتيناً وأليافاً وقواماً لزجاً رائعاً."
+
+  - id: d09
+    name: "بانا كوتا الزبادي بالفراولة"
+    en: "Yogurt Panna Cotta with Strawberries"
+    cuisine: "إيطالي"
+    servings: 4
+    time: 20
+    photo:
+      dish: "four creamy white yogurt panna cottas unmolded on plates, topped with a bright red strawberry compote and fresh strawberry halves, mint leaf"
+      vessel: "small black dessert plates"
+      angle: "45-degree angle"
+    ingredients:
+      - [greek_yogurt_0, 300, "علبتين"]
+      - [milk_skim, 200, "كوب إلا ربع"]
+      - [gelatin, 8, "ظرف جيلاتين"]
+      - [honey, 30, "معلقة كبيرة ونصف"]
+      - [vanilla, 3, "قطرات"]
+      - [strawberries, 150, "للتزيين والصوص"]
+    steps:
+      - "انثر الجيلاتين على ٣ معالق ماء بارد واتركه ٥ دقائق."
+      - "سخّن اللبن مع العسل (بدون غليان)، وذوّب فيه الجيلاتين."
+      - "اخلطه مع الزبادي والفانيليا، وصبه في ٤ قوالب، وضعه في الثلاجة ٤ ساعات."
+      - "اهرس نصف الفراولة كصوص، وقدّم البانا كوتا معها ومع باقي الفراولة."
+    tip: "الزبادي بدل الكريمة يقلل السعرات للثلث ويضاعف البروتين."
+
+  - id: d10
+    name: "تفاح مشوي بالقرفة والمكسرات"
+    en: "Baked Cinnamon Apples"
+    cuisine: "عالمي"
+    servings: 4
+    time: 40
+    photo:
+      dish: "four whole baked cored apples, soft and caramelised, filled with a cinnamon oat-walnut crumble, a spoon of Greek yogurt beside each"
+      vessel: "a dark cast-iron baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [apple, 600, "٤ تفاحات"]
+      - [walnuts, 30, "مفروم"]
+      - [oats, 20, "معلقتين كبيرتين"]
+      - [honey, 20, "معلقة كبيرة"]
+      - [cinnamon, 3, "معلقة صغيرة ونصف"]
+      - [greek_yogurt_0, 120, "للتقديم"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. انزع قلب التفاح من أعلى بدون أن تخرق القاع."
+      - "اخلط عين الجمل والشوفان والعسل والقرفة، واحشُ التفاح."
+      - "ضعه في طبق مع ربع كوب ماء، واخبزه ٣٠ دقيقة حتى يطرى."
+      - "قدّمه دافئاً مع معلقة زبادي."
+    tip: "رائحة القرفة والتفاح في الفرن تعطي إحساس الحلوى بدون سكر مضاف تقريباً."
+
+  - id: d11
+    name: "موس الشوكولاتة بالأفوكادو (كيتو)"
+    en: "Keto Avocado Chocolate Mousse"
+    cuisine: "عالمي"
+    servings: 4
+    time: 10
+    photo:
+      dish: "four small glasses of silky dark chocolate avocado mousse topped with raspberries and cacao shavings"
+      vessel: "four small clear glasses on a black marble slab"
+      angle: "45-degree angle"
+    ingredients:
+      - [avocado, 300, "٢ أفوكادو ناضج"]
+      - [cocoa, 30, "٣ معالق كبيرة"]
+      - [stevia, 20, "حسب الرغبة"]
+      - [almond_milk, 80, "ثلث كوب"]
+      - [vanilla, 3, "قطرات"]
+      - [raspberries, 40, "للتزيين"]
+    steps:
+      - "ضع الأفوكادو والكاكاو والمحلي ولبن اللوز والفانيليا في الخلاط."
+      - "اضربه حتى يصبح ناعماً تماماً بلا أي قطع."
+      - "وزّعه في ٤ أكواب، وبرّده ساعة، وزيّنه بالتوت."
+    tip: "الأفوكادو الناضج جداً هو سر القوام الحريري — ولن يظهر طعمه أبداً."
+
+  - id: d12
+    name: "كوكيز الموز والشوفان"
+    en: "Banana Oat Cookies"
+    cuisine: "عالمي"
+    servings: 6
+    time: 25
+    photo:
+      dish: "twelve rustic chewy banana oat cookies with raisins and walnut pieces cooling on a dark wire rack"
+      vessel: "a black wire cooling rack"
+      angle: "45-degree angle"
+    ingredients:
+      - [banana, 200, "٢ موزة ناضجة جداً"]
+      - [oats, 140, "كوب وثلاثة أرباع"]
+      - [raisins, 30, "معلقتين كبيرتين"]
+      - [walnuts, 20, "مفروم"]
+      - [cinnamon, 2, "معلقة صغيرة"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. اهرس الموز جيداً."
+      - "اخلطه مع الشوفان والزبيب وعين الجمل والقرفة، واتركه ٥ دقائق."
+      - "شكّل ١٢ قرصاً على صينية مبطنة."
+      - "اخبزها ١٥ دقيقة حتى تتماسك وتتحمر الأطراف."
+    tip: "الحصة = قطعتين. بدون دقيق أو سكر أو زبدة."
+
+  - id: d13
+    name: "كريب الشوفان بالفراولة والزبادي"
+    en: "Oat Crepes with Strawberries"
+    cuisine: "فرنسي"
+    servings: 3
+    time: 25
+    photo:
+      dish: "thin golden oat crepes folded into triangles, filled with Greek yogurt and fresh sliced strawberries, a light drizzle of honey"
+      vessel: "a long black rectangular dessert plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [oats, 60, "مطحون ناعم"]
+      - [egg, 100, "٢ بيضة"]
+      - [milk_skim, 150, "ثلثا كوب"]
+      - [strawberries, 150, "شرائح"]
+      - [greek_yogurt_0, 100, "نصف علبة"]
+      - [honey, 10, "معلقتين صغيرتين"]
+      - [butter, 3, "لدهن الطاسة"]
+    steps:
+      - "اضرب الشوفان والبيض واللبن في الخلاط حتى يصبح خليطاً سائلاً ناعماً، واتركه ١٠ دقائق."
+      - "سخّن طاسة غير لاصقة وادهنها بطبقة رقيقة جداً من الزبدة."
+      - "صب كمية قليلة ولف الطاسة لتغطية القاع، واتركها دقيقة ثم اقلبها ٣٠ ثانية."
+      - "احشها بالزبادي والفراولة، واطوها، ورش العسل."
+    tip: "يخرج من الخليط ٦ كريب — الحصة = ٢."
+
+  - id: d14
+    name: "كرمبل التفاح الصحي"
+    en: "Healthy Apple Crumble"
+    cuisine: "إنجليزي"
+    servings: 6
+    time: 45
+    photo:
+      dish: "a bubbling apple crumble with soft cinnamon apple slices underneath a golden crunchy oat and almond crumble topping, one portion scooped out"
+      vessel: "an oval dark ceramic baking dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [apple, 500, "٤ تفاحات شرائح"]
+      - [oats, 60, "ثلثا كوب"]
+      - [almond_flour, 30, "٣ معالق كبيرة"]
+      - [butter, 20, "معلقة كبيرة ونصف"]
+      - [honey, 25, "معلقة كبيرة وربع"]
+      - [cinnamon, 3, "معلقة صغيرة ونصف"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+    steps:
+      - "سخّن الفرن على ١٨٠°. قلّب التفاح مع الليمون ونصف القرفة، وافرده في طبق."
+      - "افرك الشوفان ودقيق اللوز والزبدة الباردة والعسل وباقي القرفة بأطراف أصابعك حتى يصبح فتاتاً."
+      - "وزّع الفتات فوق التفاح."
+      - "اخبزه ٣٠–٣٥ دقيقة حتى يتحمر الوش ويغلي التفاح."
+    tip: "قدّمه دافئاً مع معلقة زبادي يوناني بدل الآيس كريم."
+
+  - id: d15
+    name: "جيلي البرتقال الطبيعي بالرمان"
+    en: "Natural Orange & Pomegranate Jelly"
+    cuisine: "عالمي"
+    servings: 4
+    time: 15
+    photo:
+      dish: "four glasses of translucent bright orange natural orange jelly with ruby pomegranate seeds suspended inside, an orange slice garnish"
+      vessel: "four clear stemless glasses on a dark slate"
+      angle: "eye-level side view"
+    ingredients:
+      - [orange, 400, "٤ برتقالات (عصير ولب)"]
+      - [gelatin, 15, "ظرفين جيلاتين"]
+      - [honey, 20, "معلقة كبيرة"]
+      - [pomegranate, 60, "حبات رمان"]
+    steps:
+      - "اعصر البرتقال مع اللب، وأكمل الكمية إلى ٤٥٠ مل بالماء إذا لزم."
+      - "انثر الجيلاتين على ٤ معالق ماء بارد واتركه ٥ دقائق، ثم ذوّبه في نصف كوب من العصير الساخن مع العسل."
+      - "اخلطه مع باقي العصير، ووزّعه في ٤ أكواب، وأضف الرمان."
+      - "اتركه في الثلاجة ٤ ساعات حتى يتماسك."
+    tip: "بديل طبيعي لبودرة الجيلي الملونة المليئة بالسكر."
+
+  - id: d16
+    name: "تشيز كيك الكوب بالتوت بدون فرن"
+    en: "No-Bake Berry Cheesecake Cups"
+    cuisine: "عالمي"
+    servings: 6
+    time: 20
+    photo:
+      dish: "six no-bake cheesecake cups with a date-oat crumb base, a creamy white cheesecake layer and fresh mixed berries on top"
+      vessel: "six small clear glass jars on a black tray"
+      angle: "eye-level side view"
+    ingredients:
+      - [oats, 40, "نصف كوب"]
+      - [dates, 30, "٣ تمرات"]
+      - [cream_cheese_light, 200, "علبة"]
+      - [greek_yogurt_0, 200, "علبة كبيرة"]
+      - [honey, 30, "معلقة كبيرة ونصف"]
+      - [vanilla, 3, "قطرات"]
+      - [strawberries, 60, "مقطعة"]
+      - [blueberries, 60, "حفنة"]
+    steps:
+      - "اطحن الشوفان والتمر في الكبة حتى يتماسك، ووزّعه في قاع ٦ أكواب واكبسه."
+      - "اخفق الجبنة الكريمي والزبادي والعسل والفانيليا حتى يصبح كريمياً."
+      - "وزّع الكريمة فوق القاعدة، وزيّن بالتوت."
+      - "برّدها ساعتين على الأقل."
+    tip: "نفس طعم التشيز كيك بثلث السعرات وبدون فرن."

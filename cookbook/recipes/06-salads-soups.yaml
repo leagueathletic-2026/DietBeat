@@ -123,3 +123,421 @@ recipes:
       - "أرجع الفراخ، وتبّل بالفلفل، وزيّن بالبقدونس."
     tip: "المرقة الجاهزة غنية بالصوديوم — استخدم مرقة منزلية أو قليلة الملح ولا تضف ملحاً قبل التذوق."
     swap: "**لوجبة أكبر:** أضف ٣٠ جم شعرية أو لسان عصفور للحصة (+١١٠ سعر)."
+
+  - id: s05
+    name: "سلطة الكينوا والفاصوليا والأفوكادو"
+    en: "Quinoa, Black Bean & Avocado Salad"
+    cuisine: "مكسيكي"
+    servings: 3
+    time: 25
+    photo:
+      dish: "colorful quinoa salad with black beans, sweet corn, cherry tomatoes, diced avocado, red onion and coriander with a lime dressing"
+      vessel: "a wide dark glazed ceramic bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [quinoa, 60, "ثلث كوب (قبل الطهي)"]
+      - [black_beans_canned, 120, "مصفاة"]
+      - [avocado, 80, "نصف ثمرة"]
+      - [tomato, 100, "طماطم شيري"]
+      - [corn, 60, "ذرة"]
+      - [onion, 30, "بصل أحمر"]
+      - [cilantro, 10, "كزبرة"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [cumin, 1, "رشة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اطهِ الكينوا واتركها تبرد."
+      - "قطّع الأفوكادو والطماطم والبصل."
+      - "اخلط كل المكونات مع الليمون والزيت والكمون والملح."
+    tip: "سلطة تصلح كوجبة غداء كاملة للنباتيين — تحفظ يومين بدون الأفوكادو."
+
+  - id: s06
+    name: "شوربة الخضار المشكلة (مينستروني)"
+    en: "Light Minestrone"
+    cuisine: "إيطالي"
+    servings: 4
+    time: 40
+    photo:
+      dish: "a hearty light minestrone soup with diced carrot, zucchini, potato, celery, white beans and small pasta in a tomato broth, basil leaf and grated parmesan"
+      vessel: "a deep black soup bowl on a dark plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [carrot, 100, "جزرة"]
+      - [zucchini, 150, "كوسة"]
+      - [potato, 100, "بطاطساية صغيرة"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [celery, 60, "عود كرفس"]
+      - [tomato_canned, 200, "نصف علبة"]
+      - [white_beans_canned, 120, "مصفاة"]
+      - [pasta, 30, "مكرونة صغيرة"]
+      - [garlic, 6, "فصين"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [basil, 0, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والكرفس والجزر في الزيت ٥ دقائق، ثم الثوم."
+      - "أضف البطاطس والطماطم و١ لتر ماء، واتركها ١٥ دقيقة."
+      - "أضف الكوسة والفاصوليا والمكرونة، واتركها ١٠ دقائق حتى تنضج المكرونة."
+    tip: "شوربة الخضار قبل الوجبة تزيد الإحساس بالشبع وتقلل كمية الطبق الرئيسي."
+
+  - id: s07
+    name: "سلطة الجرجير بالرمان والفيتا"
+    en: "Arugula, Pomegranate & Feta Salad"
+    cuisine: "شامي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "a fresh arugula salad scattered with ruby pomegranate seeds, crumbled white feta and toasted walnuts, glossy balsamic dressing"
+      vessel: "a shallow matte black salad plate"
+      angle: "overhead top-down view"
+    ingredients:
+      - [arugula, 100, "حزمتين"]
+      - [pomegranate, 60, "حبات رمان"]
+      - [feta, 30, "مفتتة"]
+      - [walnuts, 10, "مفروم"]
+      - [balsamic, 15, "معلقة كبيرة"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+    steps:
+      - "اغسل الجرجير وجففه جيداً."
+      - "اخفق الخل البلسميك والزيت."
+      - "رتّب الجرجير ورش الرمان والفيتا وعين الجمل، ثم الصوص."
+    tip: "الجرجير غني بالكالسيوم وفيتامين ك وسعراته شبه منعدمة."
+
+  - id: s08
+    name: "شوربة القرع العسلي بالجنزبيل"
+    en: "Ginger Pumpkin Soup"
+    cuisine: "عالمي"
+    servings: 4
+    time: 40
+    photo:
+      dish: "velvety bright orange pumpkin and ginger soup with a swirl of milk on top and toasted pumpkin seeds"
+      vessel: "a dark stoneware soup bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [pumpkin, 600, "قرع عسلي مقشر"]
+      - [carrot, 100, "جزرة"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [ginger, 10, "مبشور"]
+      - [garlic, 6, "فصين"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [milk_1, 100, "نصف كوب"]
+      - [pumpkin_seeds, 10, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والثوم والجنزبيل في الزيت ٤ دقائق."
+      - "أضف القرع والجزر و٨٠٠ مل ماء، واتركها ٢٥ دقيقة حتى تطرى."
+      - "اضربها بالخلاط مع اللبن حتى تصبح ناعمة جداً."
+      - "قدّمها مع اللب المحمص."
+    tip: "القرع غني جداً بفيتامين أ وقليل السعرات — شوربة كريمية بدون كريمة."
+
+  - id: s09
+    name: "سلطة البنجر بالزبادي والنعناع"
+    en: "Beetroot Yogurt Salad"
+    cuisine: "شامي"
+    servings: 3
+    time: 50
+    photo:
+      dish: "a striking magenta beetroot and Greek yogurt salad with grated beets swirled into thick yogurt, chopped walnuts and fresh mint leaves"
+      vessel: "a wide dark grey ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [beet, 300, "٢ بنجر متوسط"]
+      - [greek_yogurt_0, 150, "علبة كبيرة"]
+      - [garlic, 3, "فص صغير"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+      - [walnuts, 15, "مفروم"]
+      - [mint, 5, "أوراق"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق البنجر بقشره ٤٠ دقيقة أو اشوِه في الفرن حتى يطرى، ثم قشّره."
+      - "ابشره خشناً، واخلطه مع الزبادي والثوم والليمون والملح."
+      - "زيّنه بعين الجمل والنعناع."
+    tip: "ارتدِ قفازات عند تقشير البنجر — لونه يصبغ اليدين."
+
+  - id: s10
+    name: "سلطة الحمص بالخضار"
+    en: "Mediterranean Chickpea Salad"
+    cuisine: "متوسطي"
+    servings: 3
+    time: 10
+    photo:
+      dish: "a crunchy chickpea salad with diced cucumber, tomato, red bell pepper, red onion and parsley in a lemon-olive oil dressing with cumin"
+      vessel: "a dark wooden salad bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [chickpeas_canned, 240, "علبة صغيرة مصفاة"]
+      - [cucumber, 150, "خيارة كبيرة"]
+      - [tomato, 150, "ثمرة كبيرة"]
+      - [bell_pepper_red, 80, "نصف ثمرة"]
+      - [onion, 30, "بصل أحمر"]
+      - [parsley, 15, "مفروم"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [cumin, 1, "رشة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اشطف الحمص وصفّه."
+      - "قطّع الخضار مكعبات صغيرة متساوية."
+      - "اخلط الكل مع الليمون والزيت والكمون والملح."
+    tip: "سلطة جاهزة للعلبة: تتحسن بعد ساعة في الثلاجة."
+
+  - id: s11
+    name: "شوربة الطماطم المشوية بالريحان"
+    en: "Roasted Tomato Basil Soup"
+    cuisine: "إيطالي"
+    servings: 4
+    time: 45
+    photo:
+      dish: "a rich deep-red roasted tomato soup with a basil leaf, a drizzle of olive oil and cracked black pepper, a few roasted cherry tomatoes on the side"
+      vessel: "a black ceramic soup bowl with handles"
+      angle: "45-degree angle"
+    ingredients:
+      - [tomato, 800, "٨ طماطم"]
+      - [onion, 100, "بصلة"]
+      - [garlic, 15, "٥ فصوص"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [basil, 10, "أوراق ريحان"]
+      - [black_pepper, 0, "حسب الرغبة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قطّع الطماطم والبصل أنصافاً، وضعها مع الثوم في صينية مع الزيت والملح."
+      - "اشوِها في فرن ٢٢٠° لمدة ٣٠ دقيقة حتى تتكرمل."
+      - "اضربها بالخلاط مع ٣٠٠ مل ماء ساخن والريحان."
+      - "سخّنها وعدّل الملح والفلفل."
+    tip: "الشوي يركّز حلاوة الطماطم — طعم أعمق بكثير من الطماطم المسلوقة."
+
+  - id: s12
+    name: "سلطة الكرنب الملونة بالزبادي"
+    en: "Rainbow Yogurt Coleslaw"
+    cuisine: "عالمي"
+    servings: 4
+    time: 15
+    photo:
+      dish: "a vibrant rainbow coleslaw of finely shredded white and purple cabbage and grated carrot in a light creamy yogurt-mustard dressing"
+      vessel: "a dark speckled ceramic bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [cabbage, 200, "كرنب أبيض"]
+      - [cabbage_red, 150, "كرنب أحمر"]
+      - [carrot, 100, "جزرة كبيرة"]
+      - [greek_yogurt_0, 80, "ثلث كوب"]
+      - [mustard, 10, "معلقتين صغيرتين"]
+      - [vinegar, 10, "معلقتين صغيرتين"]
+      - [honey, 5, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قطّع الكرنب رفيعاً جداً، وابشر الجزر."
+      - "اخفق الزبادي والمستردة والخل والعسل والملح."
+      - "اخلط الخضار مع الصوص قبل التقديم بـ ١٥ دقيقة."
+    tip: "الكول سلو التقليدي بالمايونيز = ~١٥٠ سعر للحصة؛ هذه النسخة أقل من النصف."
+
+  - id: s13
+    name: "شوربة البروكلي الكريمية الخفيفة"
+    en: "Light Creamy Broccoli Soup"
+    cuisine: "عالمي"
+    servings: 4
+    time: 30
+    photo:
+      dish: "a smooth vibrant green creamy broccoli soup topped with small broccoli florets and a little grated parmesan"
+      vessel: "a wide matte black soup bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [broccoli, 400, "رأس كبير"]
+      - [potato, 100, "بطاطساية صغيرة"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [garlic, 6, "فصين"]
+      - [milk_1, 200, "كوب إلا ربع"]
+      - [parmesan, 15, "مبشور"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والثوم في الزيت."
+      - "أضف البروكلي والبطاطس و٦٠٠ مل ماء، واتركها ١٥ دقيقة."
+      - "اضربها بالخلاط مع اللبن والبارميزان."
+    tip: "قطعة بطاطس صغيرة تعطي قواماً كريمياً بدون أي كريمة."
+
+  - id: s14
+    name: "بابا غنوج بالرمان"
+    en: "Baba Ganoush with Pomegranate"
+    cuisine: "شامي"
+    servings: 4
+    time: 45
+    photo:
+      dish: "smoky creamy baba ganoush eggplant dip with a well of olive oil, ruby pomegranate seeds and parsley, cucumber sticks beside it"
+      vessel: "a shallow dark stone bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [eggplant, 600, "٢ باذنجانة كبيرة"]
+      - [tahini, 30, "٢ معلقة كبيرة"]
+      - [greek_yogurt_0, 50, "معلقتين كبيرتين"]
+      - [garlic, 5, "فص"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 5, "للتزيين"]
+      - [pomegranate, 20, "للتزيين"]
+      - [parsley, 5, "للتزيين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اشوِ الباذنجان كاملاً على النار المباشرة أو في الفرن على أعلى حرارة ٣٠ دقيقة حتى يتفحم القشر."
+      - "اتركه يبرد ثم قشّره وصفّه من المياه."
+      - "اهرسه مع الطحينة والزبادي والثوم والليمون والملح."
+      - "زيّنه بالزيت والرمان والبقدونس."
+    tip: "الشوي على النار المباشرة يعطي الطعم المدخن المميز."
+
+  - id: s15
+    name: "شوربة الشعير بالخضار والمشروم"
+    en: "Barley Mushroom Vegetable Soup"
+    cuisine: "عالمي"
+    servings: 4
+    time: 55
+    photo:
+      dish: "hearty barley soup with mushrooms, carrot, celery and onion in a clear golden broth, parsley"
+      vessel: "a rustic dark clay soup bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [barley, 80, "ثلث كوب شعير"]
+      - [mushrooms, 150, "شرائح"]
+      - [carrot, 100, "جزرة"]
+      - [celery, 60, "عود"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [chicken_broth, 1000, "لتر شوربة"]
+      - [garlic, 6, "فصين"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [parsley, 5, "للتزيين"]
+    steps:
+      - "شوّح البصل والمشروم في الزيت حتى يتحمر المشروم."
+      - "أضف الجزر والكرفس والثوم ٣ دقائق."
+      - "أضف الشعير المغسول والشوربة، واتركها ٤٠ دقيقة على نار هادئة حتى ينضج الشعير."
+    tip: "الشعير غني بألياف بيتا جلوكان المرتبطة بخفض الكوليسترول."
+
+  - id: s16
+    name: "سلطة العدس بالخضار والفيتا"
+    en: "Lentil Salad with Feta"
+    cuisine: "متوسطي"
+    servings: 3
+    time: 30
+    photo:
+      dish: "a brown lentil salad with diced cucumber, tomato, red onion and parsley, crumbled feta on top, lemon-olive oil dressing"
+      vessel: "a dark stoneware bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [lentils_brown, 120, "ثلثا كوب"]
+      - [cucumber, 120, "خيارة"]
+      - [tomato, 120, "ثمرة"]
+      - [onion, 30, "بصل أحمر"]
+      - [parsley, 15, "مفروم"]
+      - [feta, 30, "مفتتة"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق العدس ٢٠ دقيقة حتى ينضج ويبقى متماسكاً، وصفّه واتركه يبرد."
+      - "قطّع الخضار مكعبات."
+      - "اخلط العدس والخضار مع الليمون والزيت والملح، وضع الفيتا فوقها."
+    tip: "لا تفرط في سلق العدس — يجب أن تبقى الحبات كاملة للسلطة."
+
+  - id: s17
+    name: "شوربة الكوسة بالنعناع (كيتو)"
+    en: "Keto Zucchini Mint Soup"
+    cuisine: "متوسطي"
+    servings: 4
+    time: 25
+    photo:
+      dish: "a smooth pale green zucchini and mint soup with a swirl of Greek yogurt, fresh mint leaves and a drizzle of olive oil"
+      vessel: "a white-rimmed black ceramic bowl"
+      angle: "overhead top-down view"
+    ingredients:
+      - [zucchini, 600, "٥ كوسات"]
+      - [onion, 80, "بصلة صغيرة"]
+      - [garlic, 6, "فصين"]
+      - [chicken_broth, 800, "شوربة"]
+      - [greek_yogurt_0, 60, "للتقديم"]
+      - [mint, 10, "أوراق نعناع"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "شوّح البصل والثوم في الزيت ٤ دقائق."
+      - "أضف الكوسة والشوربة، واتركها ١٢ دقيقة."
+      - "اضربها بالخلاط مع النعناع."
+      - "قدّمها مع معلقة زبادي."
+    tip: "شوربة خفيفة جداً — أقل من ١٠٠ سعر للطبق."
+
+  - id: s18
+    name: "سلطة الأفوكادو والطماطم والخيار (كيتو)"
+    en: "Keto Avocado Tomato Cucumber Salad"
+    cuisine: "عالمي"
+    servings: 3
+    time: 10
+    photo:
+      dish: "a fresh chunky salad of avocado wedges, red tomato chunks, cucumber half-moons, thin red onion and coriander with lemon and olive oil"
+      vessel: "a wide shallow black bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [avocado, 150, "ثمرة"]
+      - [tomato, 200, "٢ طماطم"]
+      - [cucumber, 200, "٢ خيارة"]
+      - [onion, 30, "بصل أحمر"]
+      - [cilantro, 10, "كزبرة"]
+      - [lemon_juice, 20, "معلقة كبيرة ونصف"]
+      - [olive_oil, 5, "معلقة صغيرة"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قطّع الأفوكادو والطماطم والخيار قطعاً كبيرة."
+      - "أضف البصل الرفيع والكزبرة."
+      - "رش الليمون والزيت والملح، وقلّب برفق."
+    tip: "طبق جانبي مثالي مع أي مشويات في نظام الكيتو."
+
+  - id: s19
+    name: "سلطة السبانخ بالفراولة واللوز"
+    en: "Spinach Strawberry Almond Salad"
+    cuisine: "عالمي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "baby spinach salad with sliced fresh strawberries, crumbled feta and toasted sliced almonds, a balsamic glaze drizzle"
+      vessel: "a round dark ceramic platter"
+      angle: "overhead top-down view"
+    ingredients:
+      - [spinach, 120, "سبانخ صغيرة"]
+      - [strawberries, 150, "شرائح"]
+      - [feta, 30, "مفتتة"]
+      - [almonds, 15, "شرائح محمصة"]
+      - [balsamic, 15, "معلقة كبيرة"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+    steps:
+      - "اغسل السبانخ وجففها."
+      - "حمّص اللوز في طاسة جافة دقيقتين."
+      - "رتّب السبانخ والفراولة والفيتا واللوز، ورش البلسميك والزيت."
+    tip: "فيتامين سي في الفراولة يساعد على امتصاص الحديد من السبانخ."
+
+  - id: s20
+    name: "شوربة الحريرة الخفيفة"
+    en: "Light Moroccan Harira"
+    cuisine: "مغربي"
+    servings: 5
+    time: 60
+    photo:
+      dish: "Moroccan harira soup: a thick tomato broth with lentils, chickpeas, small tender lamb pieces, celery, coriander and parsley, a lemon wedge and dates on the side"
+      vessel: "a dark brown glazed Moroccan soup bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [lamb_lean, 150, "قطع صغيرة"]
+      - [lentils_brown, 80, "عدس"]
+      - [chickpeas_canned, 120, "حمص مصفى"]
+      - [tomato_canned, 400, "علبة"]
+      - [onion, 80, "بصلة"]
+      - [celery, 60, "عود"]
+      - [cilantro, 15, "كزبرة"]
+      - [parsley, 15, "بقدونس"]
+      - [turmeric, 1, "نصف معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [cinnamon, 1, "رشة"]
+      - [flour_whole, 10, "معلقة كبيرة للتكثيف"]
+      - [olive_oil, 8, "معلقة صغيرة ونصف"]
+      - [lemon_juice, 15, "للتقديم"]
+    steps:
+      - "حمّر اللحم في الزيت، ثم أضف البصل والكرفس والبهارات."
+      - "أضف الطماطم والعدس و١٫٢ لتر ماء، واتركها ٣٥ دقيقة."
+      - "أضف الحمص والكزبرة والبقدونس، واتركها ١٠ دقائق."
+      - "اخلط الدقيق مع قليل من الماء البارد، وأضفه مع التقليب حتى تتكثف الشوربة، وقدّمها مع الليمون."
+    tip: "شوربة متكاملة تصلح وجبة إفطار في رمضان مع تمرتين."

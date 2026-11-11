@@ -140,7 +140,7 @@ def load_book():
                 "tags": [dict(TAGS[t], key=t) for t in tags],
                 "image": f"../images/{r['id']}.jpg" if img.exists() else None,
                 # long recipes get tighter typography (see .dense in style.css)
-                "dense": len(lines) > 10 or sum(len(x) for x in r["steps"]) + len(r.get("tip", "")) + len(r.get("swap", "")) > 750,
+                "dense": len(lines) >= 10 or sum(len(x) for x in r["steps"]) + len(r.get("tip", "")) + len(r.get("swap", "")) > 750,
             })
         chapters.append(ch)
     return chapters, n

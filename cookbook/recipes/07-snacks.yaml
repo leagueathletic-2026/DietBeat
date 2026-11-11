@@ -99,3 +99,286 @@ recipes:
       - "افرده في طبقة واحدة، واخبزه في فرن ٢٠٠° لمدة ٣٠–٣٥ دقيقة مع رج الصينية كل ١٠ دقائق."
       - "اتركه يبرد تماماً ليقرمش أكثر."
     tip: "بديل ذكي للشيبسي: مقرمش ومالح وغني بالألياف والبروتين النباتي."
+
+  - id: n05
+    name: "بيض محشي بالزبادي والبابريكا"
+    en: "Light Deviled Eggs"
+    cuisine: "عالمي"
+    servings: 2
+    time: 15
+    photo:
+      dish: "eight light deviled egg halves with a piped creamy yellow yogurt-mustard yolk filling, dusted with red paprika and chives"
+      vessel: "a long black slate tray"
+      angle: "45-degree angle"
+    ingredients:
+      - [egg, 200, "٤ بيضات"]
+      - [greek_yogurt_0, 30, "معلقتين كبيرتين"]
+      - [mustard, 5, "معلقة صغيرة"]
+      - [paprika, 0, "للتزيين"]
+      - [green_onion, 5, "مفروم"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "اسلق البيض ١٠ دقائق، وضعه في ماء مثلج، ثم قشّره واقسمه بالطول."
+      - "اهرس الصفار مع الزبادي والمستردة والملح."
+      - "احشُ البياض بالخليط، ورش البابريكا والبصل الأخضر."
+    tip: "الزبادي بدل المايونيز يقطع السعرات للنصف تقريباً. الحصة = ٤ أنصاف."
+
+  - id: n06
+    name: "تفاح بزبدة الفول السوداني والقرفة"
+    en: "Apple Slices with Peanut Butter"
+    cuisine: "عالمي"
+    servings: 1
+    time: 3
+    photo:
+      dish: "crisp red apple slices fanned out around a small dish of smooth peanut butter, a dusting of cinnamon"
+      vessel: "a small round dark wooden board"
+      angle: "overhead top-down view"
+    ingredients:
+      - [apple, 150, "تفاحة متوسطة"]
+      - [peanut_butter, 15, "معلقة كبيرة"]
+      - [cinnamon, 0, "رشة"]
+    steps:
+      - "قطّع التفاحة شرائح، وأزل البذور."
+      - "قدّمها مع زبدة الفول السوداني مقاسة بالمعلقة، ورش القرفة."
+    tip: "الدهون والبروتين في زبدة الفول السوداني مع ألياف التفاح = شبع لساعات."
+
+  - id: n07
+    name: "مكسرات محمصة بالبهارات"
+    en: "Spiced Roasted Nuts"
+    cuisine: "عالمي"
+    servings: 6
+    time: 20
+    photo:
+      dish: "a mix of spiced roasted almonds, cashews, walnut halves and green pumpkin seeds coated with paprika and cumin"
+      vessel: "a small hammered black metal bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [almonds, 60, "نصف كوب"]
+      - [cashews, 30, "حفنة"]
+      - [walnuts, 30, "حفنة"]
+      - [pumpkin_seeds, 20, "معلقتين كبيرتين"]
+      - [egg_white, 30, "بياض بيضة"]
+      - [paprika, 2, "معلقة صغيرة"]
+      - [cumin, 2, "معلقة صغيرة"]
+      - [salt, 0, "رشة"]
+    steps:
+      - "سخّن الفرن على ١٦٠°."
+      - "اخفق بياض البيض حتى يرغي، وقلّب فيه المكسرات، ثم البهارات والملح."
+      - "افردها في صينية مبطنة، وحمّصها ١٥ دقيقة مع التقليب مرة."
+      - "اتركها تبرد تماماً لتقرمش، وقسّمها ٦ حصص في أكياس صغيرة."
+    tip: "المكسرات صحية لكن مركزة جداً — الحصة = حفنة صغيرة (٢٣ جم تقريباً). التقسيم المسبق يمنع الإفراط."
+
+  - id: n08
+    name: "شيبس الكيل في الفرن"
+    en: "Baked Kale Chips"
+    cuisine: "عالمي"
+    servings: 2
+    time: 20
+    photo:
+      dish: "a pile of crispy dark green baked kale chips with crinkled edges, sprinkled with paprika and sea salt"
+      vessel: "a black ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [kale, 200, "حزمة كيل"]
+      - [olive_oil, 10, "٢ معلقة صغيرة"]
+      - [paprika, 1, "رشة"]
+      - [salt, 0, "رشة"]
+    steps:
+      - "سخّن الفرن على ١٥٠°. انزع العروق السميكة، وقطّع الأوراق قطعاً كبيرة."
+      - "جففها جيداً جداً، ودلّكها بالزيت والبابريكا."
+      - "افردها في طبقة واحدة، واخبزها ١٢–١٥ دقيقة حتى تقرمش بدون أن تحترق، ثم رش الملح."
+    tip: "التجفيف التام والحرارة المنخفضة هما سر القرمشة."
+
+  - id: n09
+    name: "أصابع الخضار مع صوص الزبادي بالأعشاب"
+    en: "Veggie Sticks with Herb Yogurt Dip"
+    cuisine: "عالمي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "colorful carrot, cucumber, red bell pepper and celery sticks standing in a glass, with a bowl of thick herb yogurt dip with dill"
+      vessel: "a dark slate board with a small glass and a ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [carrot, 100, "جزرة"]
+      - [cucumber, 100, "خيارة"]
+      - [bell_pepper_red, 100, "فلفلة"]
+      - [celery, 60, "عود كرفس"]
+      - [greek_yogurt_0, 150, "علبة"]
+      - [dill, 5, "مفروم"]
+      - [garlic, 3, "فص صغير"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+      - [salt, 0, "حسب الرغبة"]
+    steps:
+      - "قطّع الخضار أصابع متساوية."
+      - "اخلط الزبادي مع الشبت والثوم والليمون والملح."
+      - "قدّم الخضار مع الصوص."
+    tip: "احفظ الأصابع في علبة بها قليل من الماء في الثلاجة لتبقى مقرمشة ٣ أيام."
+
+  - id: n10
+    name: "بار الشوفان والتمر المنزلي"
+    en: "Homemade Oat & Date Bars"
+    cuisine: "عالمي"
+    servings: 8
+    time: 20
+    photo:
+      dish: "eight neat homemade oat, date and peanut butter bars with a drizzle of dark chocolate on top, stacked on parchment"
+      vessel: "dark parchment paper on a black stone board"
+      angle: "45-degree angle"
+    ingredients:
+      - [oats, 120, "كوب ونصف"]
+      - [dates, 100, "٨ تمرات منزوعة النوى"]
+      - [peanut_butter, 60, "٤ معالق كبيرة"]
+      - [honey, 20, "معلقة كبيرة"]
+      - [chia, 10, "معلقة كبيرة"]
+      - [dark_chocolate, 20, "مذابة للتزيين"]
+    steps:
+      - "اطحن التمر في الكبة حتى يصبح عجينة."
+      - "سخّن زبدة الفول السوداني مع العسل ثوانٍ، واخلطهما مع التمر والشوفان والشيا."
+      - "افرد الخليط في قالب مبطن وكبسه جيداً."
+      - "رش الشوكولاتة المذابة، وضعه في الثلاجة ساعة، ثم قطّعه ٨ أصابع."
+    tip: "بديل منزلي لبارات البروتين الجاهزة — بدون مواد حافظة أو سكر مضاف كثير."
+
+  - id: n11
+    name: "إدامامي بالليمون والملح"
+    en: "Lemon Sea-Salt Edamame"
+    cuisine: "ياباني"
+    servings: 3
+    time: 8
+    photo:
+      dish: "a bowl of steamed bright green edamame pods sprinkled with flaky sea salt and lemon zest"
+      vessel: "a dark speckled ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [edamame, 300, "إدامامي مجمد (بالقرن)"]
+      - [lemon_juice, 10, "معلقتين صغيرتين"]
+      - [salt, 0, "ملح خشن حسب الرغبة"]
+    steps:
+      - "اسلق الإدامامي في ماء مغلي بالملح ٤–٥ دقائق."
+      - "صفّه ورشه بالليمون والملح الخشن."
+      - "يؤكل بعصر الحبوب من القرن مباشرة."
+    tip: "من أعلى السناكس النباتية بروتيناً. الوزن المكتوب للحبوب بدون القرن تقريباً."
+
+  - id: n12
+    name: "كريسب بريد بالجبنة القريش والخيار"
+    en: "Rye Crispbread with Cottage Cheese"
+    cuisine: "إسكندنافي"
+    servings: 1
+    time: 3
+    photo:
+      dish: "two rye crispbreads topped with creamy cottage cheese, thin cucumber slices, cracked black pepper and fresh mint leaves"
+      vessel: "a small dark wooden board"
+      angle: "overhead top-down view"
+    ingredients:
+      - [crispbread_rye, 20, "٢ قطعة"]
+      - [cottage_cheese, 100, "نصف كوب"]
+      - [cucumber, 50, "شرائح"]
+      - [mint, 0, "للتزيين"]
+      - [black_pepper, 0, "حسب الرغبة"]
+    steps:
+      - "افرد الجبنة القريش على قطعتي الكريسب بريد."
+      - "رص شرائح الخيار، ورش الفلفل والنعناع."
+    tip: "الكريسب بريد بالجاودار غني بالألياف ويقرمش مثل الشيبسي."
+
+  - id: n13
+    name: "قوارب الخيار بالتونة (كيتو)"
+    en: "Keto Tuna Cucumber Boats"
+    cuisine: "عالمي"
+    servings: 2
+    time: 10
+    photo:
+      dish: "four hollowed cucumber halves filled with creamy tuna salad with dill, sprinkled with paprika"
+      vessel: "a long black rectangular plate"
+      angle: "45-degree angle"
+    ingredients:
+      - [cucumber, 200, "٢ خيارة"]
+      - [tuna_water, 120, "علبة مصفاة"]
+      - [greek_yogurt_0, 30, "معلقتين كبيرتين"]
+      - [mustard, 5, "معلقة صغيرة"]
+      - [dill, 3, "مفروم"]
+      - [lemon_juice, 5, "رشة"]
+      - [paprika, 0, "للتزيين"]
+    steps:
+      - "اقسم الخيار بالطول، وافرغ البذور بالمعلقة."
+      - "اخلط التونة مع الزبادي والمستردة والشبت والليمون."
+      - "احشُ الخيار، ورش البابريكا."
+    tip: "سناك كيتو عالي البروتين يتحضر في ١٠ دقائق."
+
+  - id: n14
+    name: "فشار بالبابريكا والزيت"
+    en: "Paprika Air-Popped Popcorn"
+    cuisine: "عالمي"
+    servings: 1
+    time: 8
+    photo:
+      dish: "a big bowl of fluffy air-popped popcorn tossed with smoky red paprika and a little olive oil"
+      vessel: "a large black ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [popcorn, 30, "٣ أكواب بعد التفشير"]
+      - [olive_oil, 3, "رشة"]
+      - [paprika, 1, "رشة"]
+      - [salt, 0, "رشة"]
+    steps:
+      - "فشّر الذرة في حلة مغطاة بدون زيت (أو في ماكينة الهواء)."
+      - "رش الزيت والبابريكا والملح وقلّب جيداً."
+    tip: "الفشار المفشّر بالهواء حبة كاملة غنية بالألياف — ٣ أكواب بأقل من ١٥٠ سعراً."
+
+  - id: n15
+    name: "تمر محشي باللوز"
+    en: "Almond-Stuffed Dates"
+    cuisine: "عربي"
+    servings: 3
+    time: 5
+    photo:
+      dish: "six glossy dates each stuffed with a whole roasted almond, a few sliced open, a sprinkle of desiccated coconut"
+      vessel: "a small dark ceramic dish"
+      angle: "45-degree angle"
+    ingredients:
+      - [dates, 120, "٦ تمرات"]
+      - [almonds, 18, "٦ حبات لوز"]
+      - [coconut_dried, 3, "رشة للتزيين"]
+    steps:
+      - "افتح التمر بالطول وأزل النوى."
+      - "ضع حبة لوز في كل تمرة، واقفلها."
+      - "رش جوز الهند."
+    tip: "الحصة = تمرتين. مثالي قبل التمرين بنصف ساعة لطاقة سريعة."
+
+  - id: n16
+    name: "سموذي أخضر بالسبانخ والأناناس"
+    en: "Green Spinach Pineapple Smoothie"
+    cuisine: "عالمي"
+    servings: 1
+    time: 5
+    photo:
+      dish: "a tall glass of vibrant green spinach, pineapple and banana smoothie with a pineapple wedge on the rim"
+      vessel: "a tall clear glass on a dark stone coaster"
+      angle: "eye-level side view"
+    ingredients:
+      - [spinach, 40, "حفنة كبيرة"]
+      - [banana, 80, "نصف موزة كبيرة"]
+      - [pineapple, 80, "مكعبات"]
+      - [greek_yogurt_0, 100, "نصف علبة"]
+    steps:
+      - "ضع المكونات في الخلاط مع ١٥٠ مل ماء بارد وثلج."
+      - "اضربه دقيقة حتى يصبح ناعماً تماماً."
+    tip: "طعم السبانخ لا يظهر تقريباً — طريقة سهلة لإضافة الخضار للأطفال."
+
+  - id: n17
+    name: "ريكوتا بالتوت والعسل"
+    en: "Ricotta with Berries & Honey"
+    cuisine: "إيطالي"
+    servings: 1
+    time: 3
+    photo:
+      dish: "a small bowl of creamy white ricotta topped with fresh blueberries and a thin golden drizzle of honey"
+      vessel: "a small dark glazed ceramic bowl"
+      angle: "45-degree angle"
+    ingredients:
+      - [ricotta_light, 100, "نصف كوب"]
+      - [blueberries, 60, "حفنة"]
+      - [honey, 5, "معلقة صغيرة"]
+    steps:
+      - "ضع الريكوتا في طبق صغير."
+      - "أضف التوت، ورش العسل."
+    tip: "سناك حلو غني بالبروتين — بديل للحلويات بعد العشاء."

@@ -1709,6 +1709,20 @@
   },
   "usda_name": "Pomegranates, raw"
  },
+ "popcorn": {
+  "ar": "ذرة فشار (مفشّرة بالهواء)",
+  "fdc_id": 170246,
+  "per100g": {
+   "carbs": 77.9,
+   "fat": 4.2,
+   "fiber": 15.1,
+   "kcal": 382.0,
+   "protein": 12.0,
+   "sodium_mg": 4.0,
+   "sugar": null
+  },
+  "usda_name": "Snacks, popcorn, air-popped (Unsalted)"
+ },
  "potato": {
   "ar": "بطاطس",
   "fdc_id": 170026,
