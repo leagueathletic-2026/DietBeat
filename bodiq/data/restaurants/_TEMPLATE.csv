@@ -1,0 +1,2 @@
+﻿restaurant_ar,restaurant_en,city,category,item_ar,item_en,variant,serving_g,kcal,protein_g,carbs_g,fat_g,sat_fat_g,fiber_g,sugar_g,sodium_mg,price_egp,data_status,source,image_file,notes
+<اسم المطعم>,<Restaurant name>,<القاهرة>,<burger>,<اسم الصنف>,<Item name>,<single>,<وزن الوجبة بالجرام>,<kcal>,<g>,<g>,<g>,,,,,<السعر>,<verified أو estimated>,<رابط أو "PDF المطعم" أو "تقدير المدرب">,<buffalo-single.jpg>,<مثال: احذف هذا السطر>
