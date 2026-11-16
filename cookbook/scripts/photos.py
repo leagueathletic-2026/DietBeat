@@ -141,6 +141,37 @@ def cmd_fetch(args):
     print(f"imported {ok}/{len(batch)} photos")
 
 
+def trim_bands(im, thresh=3.0):
+    """Remove flat letterbox bands (near-uniform rows/columns) some generators add."""
+    import numpy as np
+    a = np.asarray(im.convert("RGB")).astype(float)
+    rows, cols = a.std(axis=(1, 2)), a.std(axis=(0, 2))
+    def span(v):
+        idx = [i for i, x in enumerate(v) if x > thresh]
+        return (idx[0], idx[-1] + 1) if idx else (0, len(v))
+    t, b = span(rows); l, r = span(cols)
+    return im.crop((l, t, r, b))
+
+
+def cmd_import(args):
+    """Import user-supplied photos: photos.py import <file> <recipe_id> [<file> <id> ...]"""
+    manifest = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}
+    ids = {r["id"] for r in recipes()}
+    for f, rid in zip(args[0::2], args[1::2]):
+        if rid not in ids:
+            raise SystemExit(f"unknown recipe id {rid}")
+        im = trim_bands(Image.open(f))
+        buf = io.BytesIO(); im.convert("RGB").save(buf, "PNG")
+        jpg, out = to_jpeg(buf.getvalue())
+        (IMAGES / f"{rid}.jpg").write_bytes(jpg)
+        manifest[rid] = {"file": f"{rid}.jpg", "model": "user-generated (ChatGPT image generation)",
+                         "prompt": "see photo-requests.md", "source_url": None,
+                         "sha256": hashlib.sha256(jpg).hexdigest(), "ahash": ahash(out),
+                         "generated": time.strftime("%Y-%m-%d")}
+        print(f"{rid}: imported from {Path(f).name} (source {im.size[0]}x{im.size[1]} after trim)")
+    MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True))
+
+
 def cmd_check(args):
     manifest = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}
     ids = [r["id"] for r in recipes()]
@@ -190,5 +221,5 @@ def cmd_sheet(args):
 
 if __name__ == "__main__":
     cmd, *rest = sys.argv[1:] or ["help"]
-    {"prompts": cmd_prompts, "fetch": cmd_fetch, "check": cmd_check, "sheet": cmd_sheet}.get(
+    {"prompts": cmd_prompts, "fetch": cmd_fetch, "import": cmd_import, "check": cmd_check, "sheet": cmd_sheet}.get(
         cmd, lambda a: print(__doc__))(rest)
